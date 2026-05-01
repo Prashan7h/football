@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-09-28-newcastle-arsenal",
+    "kickoff_utc": "2025-09-28T15:30:00Z",
+    "matchday": 6,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "away": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

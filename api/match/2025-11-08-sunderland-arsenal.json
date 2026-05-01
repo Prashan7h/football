@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-08-sunderland-arsenal",
+    "kickoff_utc": "2025-11-08T17:30:00Z",
+    "matchday": 11,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "sunderland",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://crests.football-data.org/71.png"
+    },
+    "away": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

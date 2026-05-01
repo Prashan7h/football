@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-12-28-crystal-palace-tottenham",
+    "kickoff_utc": "2025-12-28T16:30:00Z",
+    "matchday": 18,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://crests.football-data.org/354.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

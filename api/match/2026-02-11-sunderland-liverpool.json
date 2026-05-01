@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-11-sunderland-liverpool",
+    "kickoff_utc": "2026-02-11T20:15:00Z",
+    "matchday": 26,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "sunderland",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://crests.football-data.org/71.png"
+    },
+    "away": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

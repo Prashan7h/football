@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-12-06-everton-nottingham-forest",
+    "kickoff_utc": "2025-12-06T15:00:00Z",
+    "matchday": 15,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://crests.football-data.org/62.png"
+    },
+    "away": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://crests.football-data.org/351.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

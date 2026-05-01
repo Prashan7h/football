@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-10-26-aston-villa-manchester-city",
+    "kickoff_utc": "2025-10-26T14:00:00Z",
+    "matchday": 9,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://crests.football-data.org/58.png"
+    },
+    "away": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

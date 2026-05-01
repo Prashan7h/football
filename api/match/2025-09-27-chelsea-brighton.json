@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-09-27-chelsea-brighton",
+    "kickoff_utc": "2025-09-27T14:00:00Z",
+    "matchday": 6,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "away": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://crests.football-data.org/397.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

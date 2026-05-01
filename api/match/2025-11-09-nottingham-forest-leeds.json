@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-09-nottingham-forest-leeds",
+    "kickoff_utc": "2025-11-09T14:00:00Z",
+    "matchday": 11,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://crests.football-data.org/351.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

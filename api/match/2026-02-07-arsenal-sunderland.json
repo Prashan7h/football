@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-07-arsenal-sunderland",
+    "kickoff_utc": "2026-02-07T15:00:00Z",
+    "matchday": 25,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "away": {
+      "slug": "sunderland",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://crests.football-data.org/71.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

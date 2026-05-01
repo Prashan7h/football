@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-21-manchester-city-newcastle",
+    "kickoff_utc": "2026-02-21T20:00:00Z",
+    "matchday": 27,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "away": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

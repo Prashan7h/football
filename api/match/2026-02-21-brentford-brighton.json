@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-21-brentford-brighton",
+    "kickoff_utc": "2026-02-21T15:00:00Z",
+    "matchday": 27,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://crests.football-data.org/402.png"
+    },
+    "away": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://crests.football-data.org/397.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

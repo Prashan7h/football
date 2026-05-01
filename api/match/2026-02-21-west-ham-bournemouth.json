@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-21-west-ham-bournemouth",
+    "kickoff_utc": "2026-02-21T17:30:00Z",
+    "matchday": 27,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "west-ham",
+      "name": "West Ham",
+      "primary": "#7A263A",
+      "crest": "https://crests.football-data.org/563.png"
+    },
+    "away": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

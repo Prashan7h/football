@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-10-18-nottingham-forest-chelsea",
+    "kickoff_utc": "2025-10-18T11:30:00Z",
+    "matchday": 8,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://crests.football-data.org/351.png"
+    },
+    "away": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

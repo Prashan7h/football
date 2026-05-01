@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-12-20-everton-arsenal",
+    "kickoff_utc": "2025-12-20T20:00:00Z",
+    "matchday": 17,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://crests.football-data.org/62.png"
+    },
+    "away": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

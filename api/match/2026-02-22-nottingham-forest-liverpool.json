@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-22-nottingham-forest-liverpool",
+    "kickoff_utc": "2026-02-22T14:00:00Z",
+    "matchday": 27,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://crests.football-data.org/351.png"
+    },
+    "away": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

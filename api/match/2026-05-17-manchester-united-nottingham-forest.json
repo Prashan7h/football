@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-17-manchester-united-nottingham-forest",
+    "kickoff_utc": "2026-05-17T11:30:00Z",
+    "matchday": 37,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/66.png"
+    },
+    "away": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://crests.football-data.org/351.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

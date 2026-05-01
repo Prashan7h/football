@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-10-26-wolverhampton-wanderers-burnley",
+    "kickoff_utc": "2025-10-26T14:00:00Z",
+    "matchday": 9,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "wolverhampton-wanderers",
+      "name": "Wolves",
+      "primary": "#FDB913",
+      "crest": "https://crests.football-data.org/76.png"
+    },
+    "away": {
+      "slug": "burnley",
+      "name": "Burnley",
+      "primary": "#6C1D45",
+      "crest": "https://crests.football-data.org/328.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

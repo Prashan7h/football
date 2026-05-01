@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-24-crystal-palace-arsenal",
+    "kickoff_utc": "2026-05-24T15:00:00Z",
+    "matchday": 38,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://crests.football-data.org/354.png"
+    },
+    "away": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

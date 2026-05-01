@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-04-18-leeds-wolverhampton-wanderers",
+    "kickoff_utc": "2026-04-18T14:00:00Z",
+    "matchday": 33,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "away": {
+      "slug": "wolverhampton-wanderers",
+      "name": "Wolves",
+      "primary": "#FDB913",
+      "crest": "https://crests.football-data.org/76.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-25-newcastle-aston-villa",
+    "kickoff_utc": "2026-01-25T14:00:00Z",
+    "matchday": 23,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "away": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://crests.football-data.org/58.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-12-28-sunderland-leeds",
+    "kickoff_utc": "2025-12-28T14:00:00Z",
+    "matchday": 18,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "sunderland",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://crests.football-data.org/71.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

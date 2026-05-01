@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-24-burnley-tottenham",
+    "kickoff_utc": "2026-01-24T15:00:00Z",
+    "matchday": 23,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "burnley",
+      "name": "Burnley",
+      "primary": "#6C1D45",
+      "crest": "https://crests.football-data.org/328.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

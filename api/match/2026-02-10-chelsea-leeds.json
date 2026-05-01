@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-10-chelsea-leeds",
+    "kickoff_utc": "2026-02-10T19:30:00Z",
+    "matchday": 26,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

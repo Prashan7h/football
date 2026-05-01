@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-03-sunderland-everton",
+    "kickoff_utc": "2025-11-03T20:00:00Z",
+    "matchday": 10,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "sunderland",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://crests.football-data.org/71.png"
+    },
+    "away": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://crests.football-data.org/62.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

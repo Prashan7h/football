@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-24-fulham-newcastle",
+    "kickoff_utc": "2026-05-24T15:00:00Z",
+    "matchday": 38,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://crests.football-data.org/63.png"
+    },
+    "away": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

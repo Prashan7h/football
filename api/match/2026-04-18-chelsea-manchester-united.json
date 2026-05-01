@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-04-18-chelsea-manchester-united",
+    "kickoff_utc": "2026-04-18T19:00:00Z",
+    "matchday": 33,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "away": {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/66.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

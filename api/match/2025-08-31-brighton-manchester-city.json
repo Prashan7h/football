@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-08-31-brighton-manchester-city",
+    "kickoff_utc": "2025-08-31T13:00:00Z",
+    "matchday": 3,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://crests.football-data.org/397.png"
+    },
+    "away": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

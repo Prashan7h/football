@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-21-aston-villa-leeds",
+    "kickoff_utc": "2026-02-21T15:00:00Z",
+    "matchday": 27,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://crests.football-data.org/58.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

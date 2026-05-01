@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-28-bournemouth-sunderland",
+    "kickoff_utc": "2026-02-28T12:30:00Z",
+    "matchday": 28,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "away": {
+      "slug": "sunderland",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://crests.football-data.org/71.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

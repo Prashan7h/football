@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-02-wolverhampton-wanderers-sunderland",
+    "kickoff_utc": "2026-05-02T14:00:00Z",
+    "matchday": 35,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "wolverhampton-wanderers",
+      "name": "Wolves",
+      "primary": "#FDB913",
+      "crest": "https://crests.football-data.org/76.png"
+    },
+    "away": {
+      "slug": "sunderland",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://crests.football-data.org/71.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

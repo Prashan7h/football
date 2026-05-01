@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-03-brighton-burnley",
+    "kickoff_utc": "2026-01-03T15:00:00Z",
+    "matchday": 20,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://crests.football-data.org/397.png"
+    },
+    "away": {
+      "slug": "burnley",
+      "name": "Burnley",
+      "primary": "#6C1D45",
+      "crest": "https://crests.football-data.org/328.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-08-liverpool-manchester-city",
+    "kickoff_utc": "2026-02-08T16:30:00Z",
+    "matchday": 25,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "away": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

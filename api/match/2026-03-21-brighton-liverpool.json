@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-03-21-brighton-liverpool",
+    "kickoff_utc": "2026-03-21T12:45:00Z",
+    "matchday": 31,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://crests.football-data.org/397.png"
+    },
+    "away": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

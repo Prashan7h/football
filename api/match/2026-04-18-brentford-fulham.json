@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-04-18-brentford-fulham",
+    "kickoff_utc": "2026-04-18T11:30:00Z",
+    "matchday": 33,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://crests.football-data.org/402.png"
+    },
+    "away": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://crests.football-data.org/63.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

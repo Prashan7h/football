@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-12-04-manchester-united-west-ham",
+    "kickoff_utc": "2025-12-04T20:00:00Z",
+    "matchday": 14,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/66.png"
+    },
+    "away": {
+      "slug": "west-ham",
+      "name": "West Ham",
+      "primary": "#7A263A",
+      "crest": "https://crests.football-data.org/563.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

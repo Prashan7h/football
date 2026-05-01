@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-01-liverpool-leeds",
+    "kickoff_utc": "2026-01-01T17:30:00Z",
+    "matchday": 19,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

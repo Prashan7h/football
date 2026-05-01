@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-12-13-chelsea-everton",
+    "kickoff_utc": "2025-12-13T15:00:00Z",
+    "matchday": 16,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "away": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://crests.football-data.org/62.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-09-20-wolverhampton-wanderers-leeds",
+    "kickoff_utc": "2025-09-20T14:00:00Z",
+    "matchday": 5,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "wolverhampton-wanderers",
+      "name": "Wolves",
+      "primary": "#FDB913",
+      "crest": "https://crests.football-data.org/76.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

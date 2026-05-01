@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-17-wolverhampton-wanderers-fulham",
+    "kickoff_utc": "2026-05-17T14:00:00Z",
+    "matchday": 37,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "wolverhampton-wanderers",
+      "name": "Wolves",
+      "primary": "#FDB913",
+      "crest": "https://crests.football-data.org/76.png"
+    },
+    "away": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://crests.football-data.org/63.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

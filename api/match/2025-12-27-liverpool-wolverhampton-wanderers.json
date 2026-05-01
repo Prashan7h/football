@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-12-27-liverpool-wolverhampton-wanderers",
+    "kickoff_utc": "2025-12-27T15:00:00Z",
+    "matchday": 18,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "away": {
+      "slug": "wolverhampton-wanderers",
+      "name": "Wolves",
+      "primary": "#FDB913",
+      "crest": "https://crests.football-data.org/76.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-01-brighton-leeds",
+    "kickoff_utc": "2025-11-01T15:00:00Z",
+    "matchday": 10,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://crests.football-data.org/397.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

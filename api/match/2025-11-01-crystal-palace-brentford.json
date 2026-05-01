@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-01-crystal-palace-brentford",
+    "kickoff_utc": "2025-11-01T15:00:00Z",
+    "matchday": 10,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://crests.football-data.org/354.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://crests.football-data.org/402.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-07-brentford-sunderland",
+    "kickoff_utc": "2026-01-07T19:30:00Z",
+    "matchday": 21,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://crests.football-data.org/402.png"
+    },
+    "away": {
+      "slug": "sunderland",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://crests.football-data.org/71.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

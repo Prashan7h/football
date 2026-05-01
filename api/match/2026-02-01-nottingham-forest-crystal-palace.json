@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-01-nottingham-forest-crystal-palace",
+    "kickoff_utc": "2026-02-01T14:00:00Z",
+    "matchday": 24,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://crests.football-data.org/351.png"
+    },
+    "away": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://crests.football-data.org/354.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

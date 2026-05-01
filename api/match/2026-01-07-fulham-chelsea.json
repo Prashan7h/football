@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-07-fulham-chelsea",
+    "kickoff_utc": "2026-01-07T19:30:00Z",
+    "matchday": 21,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://crests.football-data.org/63.png"
+    },
+    "away": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

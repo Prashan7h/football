@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-04-21-brighton-chelsea",
+    "kickoff_utc": "2026-04-21T19:00:00Z",
+    "matchday": 34,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://crests.football-data.org/397.png"
+    },
+    "away": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

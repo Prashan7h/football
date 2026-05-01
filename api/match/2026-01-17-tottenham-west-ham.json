@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-17-tottenham-west-ham",
+    "kickoff_utc": "2026-01-17T15:00:00Z",
+    "matchday": 22,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "away": {
+      "slug": "west-ham",
+      "name": "West Ham",
+      "primary": "#7A263A",
+      "crest": "https://crests.football-data.org/563.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

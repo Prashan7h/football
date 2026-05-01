@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-01-nottingham-forest-manchester-united",
+    "kickoff_utc": "2025-11-01T15:00:00Z",
+    "matchday": 10,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://crests.football-data.org/351.png"
+    },
+    "away": {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/66.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

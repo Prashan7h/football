@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-04-25-liverpool-crystal-palace",
+    "kickoff_utc": "2026-04-25T14:00:00Z",
+    "matchday": 34,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "away": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://crests.football-data.org/354.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

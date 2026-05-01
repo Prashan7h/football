@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-28-leeds-manchester-city",
+    "kickoff_utc": "2026-02-28T17:30:00Z",
+    "matchday": 28,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "away": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

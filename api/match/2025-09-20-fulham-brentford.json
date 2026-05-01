@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-09-20-fulham-brentford",
+    "kickoff_utc": "2025-09-20T19:00:00Z",
+    "matchday": 5,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://crests.football-data.org/63.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://crests.football-data.org/402.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-09-14-manchester-city-manchester-united",
+    "kickoff_utc": "2025-09-14T15:30:00Z",
+    "matchday": 4,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "away": {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/66.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

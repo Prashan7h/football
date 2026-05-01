@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-08-west-ham-burnley",
+    "kickoff_utc": "2025-11-08T15:00:00Z",
+    "matchday": 11,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "west-ham",
+      "name": "West Ham",
+      "primary": "#7A263A",
+      "crest": "https://crests.football-data.org/563.png"
+    },
+    "away": {
+      "slug": "burnley",
+      "name": "Burnley",
+      "primary": "#6C1D45",
+      "crest": "https://crests.football-data.org/328.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

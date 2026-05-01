@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-10-04-manchester-united-sunderland",
+    "kickoff_utc": "2025-10-04T14:00:00Z",
+    "matchday": 7,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/66.png"
+    },
+    "away": {
+      "slug": "sunderland",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://crests.football-data.org/71.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

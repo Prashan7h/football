@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-10-nottingham-forest-newcastle",
+    "kickoff_utc": "2026-05-10T13:00:00Z",
+    "matchday": 36,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://crests.football-data.org/351.png"
+    },
+    "away": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

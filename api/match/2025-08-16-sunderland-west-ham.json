@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-08-16-sunderland-west-ham",
+    "kickoff_utc": "2025-08-16T14:00:00Z",
+    "matchday": 1,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "sunderland",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://crests.football-data.org/71.png"
+    },
+    "away": {
+      "slug": "west-ham",
+      "name": "West Ham",
+      "primary": "#7A263A",
+      "crest": "https://crests.football-data.org/563.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

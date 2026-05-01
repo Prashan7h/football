@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-02-brentford-west-ham",
+    "kickoff_utc": "2026-05-02T14:00:00Z",
+    "matchday": 35,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://crests.football-data.org/402.png"
+    },
+    "away": {
+      "slug": "west-ham",
+      "name": "West Ham",
+      "primary": "#7A263A",
+      "crest": "https://crests.football-data.org/563.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

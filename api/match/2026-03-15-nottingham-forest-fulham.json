@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-03-15-nottingham-forest-fulham",
+    "kickoff_utc": "2026-03-15T14:00:00Z",
+    "matchday": 30,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://crests.football-data.org/351.png"
+    },
+    "away": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://crests.football-data.org/63.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

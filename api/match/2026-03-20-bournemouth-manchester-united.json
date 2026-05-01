@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-03-20-bournemouth-manchester-united",
+    "kickoff_utc": "2026-03-20T20:00:00Z",
+    "matchday": 31,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "away": {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/66.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

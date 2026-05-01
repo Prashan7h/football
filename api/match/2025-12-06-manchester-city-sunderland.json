@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-12-06-manchester-city-sunderland",
+    "kickoff_utc": "2025-12-06T15:00:00Z",
+    "matchday": 15,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "away": {
+      "slug": "sunderland",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://crests.football-data.org/71.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

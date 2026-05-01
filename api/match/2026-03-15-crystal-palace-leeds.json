@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-03-15-crystal-palace-leeds",
+    "kickoff_utc": "2026-03-15T14:00:00Z",
+    "matchday": 30,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://crests.football-data.org/354.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-07-manchester-city-brighton",
+    "kickoff_utc": "2026-01-07T19:30:00Z",
+    "matchday": 21,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "away": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://crests.football-data.org/397.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

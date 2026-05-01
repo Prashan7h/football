@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-24-nottingham-forest-bournemouth",
+    "kickoff_utc": "2026-05-24T15:00:00Z",
+    "matchday": 38,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://crests.football-data.org/351.png"
+    },
+    "away": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

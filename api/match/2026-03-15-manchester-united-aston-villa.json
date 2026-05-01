@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-03-15-manchester-united-aston-villa",
+    "kickoff_utc": "2026-03-15T14:00:00Z",
+    "matchday": 30,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/66.png"
+    },
+    "away": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://crests.football-data.org/58.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

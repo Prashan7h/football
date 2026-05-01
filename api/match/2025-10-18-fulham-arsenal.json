@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-10-18-fulham-arsenal",
+    "kickoff_utc": "2025-10-18T16:30:00Z",
+    "matchday": 8,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://crests.football-data.org/63.png"
+    },
+    "away": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

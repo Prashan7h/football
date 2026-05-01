@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-28-liverpool-west-ham",
+    "kickoff_utc": "2026-02-28T15:00:00Z",
+    "matchday": 28,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "away": {
+      "slug": "west-ham",
+      "name": "West Ham",
+      "primary": "#7A263A",
+      "crest": "https://crests.football-data.org/563.png"
+    },
+    "score": {
+      "home": 5,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-09-21-bournemouth-newcastle",
+    "kickoff_utc": "2025-09-21T13:00:00Z",
+    "matchday": 5,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "away": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

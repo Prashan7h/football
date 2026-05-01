@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-04-everton-brentford",
+    "kickoff_utc": "2026-01-04T15:00:00Z",
+    "matchday": 20,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://crests.football-data.org/62.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://crests.football-data.org/402.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 4
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-08-23-arsenal-leeds",
+    "kickoff_utc": "2025-08-23T16:30:00Z",
+    "matchday": 2,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "score": {
+      "home": 5,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-08-17-nottingham-forest-brentford",
+    "kickoff_utc": "2025-08-17T13:00:00Z",
+    "matchday": 1,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://crests.football-data.org/351.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://crests.football-data.org/402.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

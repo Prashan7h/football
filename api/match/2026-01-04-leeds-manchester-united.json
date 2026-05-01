@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-04-leeds-manchester-united",
+    "kickoff_utc": "2026-01-04T12:30:00Z",
+    "matchday": 20,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "away": {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/66.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

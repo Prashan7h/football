@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-08-25-newcastle-liverpool",
+    "kickoff_utc": "2025-08-25T19:00:00Z",
+    "matchday": 2,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "away": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

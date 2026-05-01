@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-08-22-west-ham-chelsea",
+    "kickoff_utc": "2025-08-22T19:00:00Z",
+    "matchday": 2,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "west-ham",
+      "name": "West Ham",
+      "primary": "#7A263A",
+      "crest": "https://crests.football-data.org/563.png"
+    },
+    "away": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 5
+    }
+  },
+  "preview": null,
+  "review": null
+}

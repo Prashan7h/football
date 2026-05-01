@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-26-everton-leeds",
+    "kickoff_utc": "2026-01-26T20:00:00Z",
+    "matchday": 23,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://crests.football-data.org/62.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

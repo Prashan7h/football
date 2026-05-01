@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-01-tottenham-chelsea",
+    "kickoff_utc": "2025-11-01T17:30:00Z",
+    "matchday": 10,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "away": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-01-brentford-tottenham",
+    "kickoff_utc": "2026-01-01T20:00:00Z",
+    "matchday": 19,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://crests.football-data.org/402.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-03-05-tottenham-crystal-palace",
+    "kickoff_utc": "2026-03-05T20:00:00Z",
+    "matchday": 29,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "away": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://crests.football-data.org/354.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

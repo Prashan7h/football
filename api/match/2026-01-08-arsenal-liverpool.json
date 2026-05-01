@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-08-arsenal-liverpool",
+    "kickoff_utc": "2026-01-08T20:00:00Z",
+    "matchday": 21,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "away": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-12-brentford-arsenal",
+    "kickoff_utc": "2026-02-12T20:00:00Z",
+    "matchday": 26,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://crests.football-data.org/402.png"
+    },
+    "away": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

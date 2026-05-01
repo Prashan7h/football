@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-08-23-manchester-city-tottenham",
+    "kickoff_utc": "2025-08-23T11:30:00Z",
+    "matchday": 2,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

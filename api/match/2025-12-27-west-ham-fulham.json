@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-12-27-west-ham-fulham",
+    "kickoff_utc": "2025-12-27T15:00:00Z",
+    "matchday": 18,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "west-ham",
+      "name": "West Ham",
+      "primary": "#7A263A",
+      "crest": "https://crests.football-data.org/563.png"
+    },
+    "away": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://crests.football-data.org/63.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

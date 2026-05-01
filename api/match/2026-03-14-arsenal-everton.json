@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-03-14-arsenal-everton",
+    "kickoff_utc": "2026-03-14T17:30:00Z",
+    "matchday": 30,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "away": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://crests.football-data.org/62.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

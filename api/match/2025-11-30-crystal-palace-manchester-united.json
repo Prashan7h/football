@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-30-crystal-palace-manchester-united",
+    "kickoff_utc": "2025-11-30T12:00:00Z",
+    "matchday": 13,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://crests.football-data.org/354.png"
+    },
+    "away": {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/66.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

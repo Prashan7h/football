@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-24-tottenham-everton",
+    "kickoff_utc": "2026-05-24T15:00:00Z",
+    "matchday": 38,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "away": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://crests.football-data.org/62.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

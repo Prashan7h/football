@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-09-13-everton-aston-villa",
+    "kickoff_utc": "2025-09-13T14:00:00Z",
+    "matchday": 4,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://crests.football-data.org/62.png"
+    },
+    "away": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://crests.football-data.org/58.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

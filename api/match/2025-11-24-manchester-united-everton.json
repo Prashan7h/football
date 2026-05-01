@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-24-manchester-united-everton",
+    "kickoff_utc": "2025-11-24T20:00:00Z",
+    "matchday": 12,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/66.png"
+    },
+    "away": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://crests.football-data.org/62.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

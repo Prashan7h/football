@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-03-bournemouth-crystal-palace",
+    "kickoff_utc": "2026-05-03T13:00:00Z",
+    "matchday": 35,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "away": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://crests.football-data.org/354.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

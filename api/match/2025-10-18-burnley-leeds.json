@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-10-18-burnley-leeds",
+    "kickoff_utc": "2025-10-18T14:00:00Z",
+    "matchday": 8,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "burnley",
+      "name": "Burnley",
+      "primary": "#6C1D45",
+      "crest": "https://crests.football-data.org/328.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

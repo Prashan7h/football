@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-08-16-wolverhampton-wanderers-manchester-city",
+    "kickoff_utc": "2025-08-16T16:30:00Z",
+    "matchday": 1,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "wolverhampton-wanderers",
+      "name": "Wolves",
+      "primary": "#FDB913",
+      "crest": "https://crests.football-data.org/76.png"
+    },
+    "away": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 4
+    }
+  },
+  "preview": null,
+  "review": null
+}

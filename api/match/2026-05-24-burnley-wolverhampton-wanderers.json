@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-24-burnley-wolverhampton-wanderers",
+    "kickoff_utc": "2026-05-24T15:00:00Z",
+    "matchday": 38,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "burnley",
+      "name": "Burnley",
+      "primary": "#6C1D45",
+      "crest": "https://crests.football-data.org/328.png"
+    },
+    "away": {
+      "slug": "wolverhampton-wanderers",
+      "name": "Wolves",
+      "primary": "#FDB913",
+      "crest": "https://crests.football-data.org/76.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

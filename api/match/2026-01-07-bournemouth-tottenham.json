@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-07-bournemouth-tottenham",
+    "kickoff_utc": "2026-01-07T19:30:00Z",
+    "matchday": 21,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-18-wolverhampton-wanderers-arsenal",
+    "kickoff_utc": "2026-02-18T20:00:00Z",
+    "matchday": 31,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "wolverhampton-wanderers",
+      "name": "Wolves",
+      "primary": "#FDB913",
+      "crest": "https://crests.football-data.org/76.png"
+    },
+    "away": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

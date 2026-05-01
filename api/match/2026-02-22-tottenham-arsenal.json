@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-22-tottenham-arsenal",
+    "kickoff_utc": "2026-02-22T16:30:00Z",
+    "matchday": 27,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "away": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 4
+    }
+  },
+  "preview": null,
+  "review": null
+}

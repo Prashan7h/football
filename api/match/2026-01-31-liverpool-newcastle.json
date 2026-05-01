@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-31-liverpool-newcastle",
+    "kickoff_utc": "2026-01-31T20:00:00Z",
+    "matchday": 24,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "away": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "score": {
+      "home": 4,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

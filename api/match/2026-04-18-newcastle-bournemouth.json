@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-04-18-newcastle-bournemouth",
+    "kickoff_utc": "2026-04-18T14:00:00Z",
+    "matchday": 33,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "away": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

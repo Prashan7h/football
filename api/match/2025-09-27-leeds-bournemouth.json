@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-09-27-leeds-bournemouth",
+    "kickoff_utc": "2025-09-27T14:00:00Z",
+    "matchday": 6,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "away": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

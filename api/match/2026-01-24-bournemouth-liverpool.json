@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-24-bournemouth-liverpool",
+    "kickoff_utc": "2026-01-24T17:30:00Z",
+    "matchday": 23,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "away": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

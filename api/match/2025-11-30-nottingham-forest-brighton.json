@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-30-nottingham-forest-brighton",
+    "kickoff_utc": "2025-11-30T14:05:00Z",
+    "matchday": 13,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://crests.football-data.org/351.png"
+    },
+    "away": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://crests.football-data.org/397.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

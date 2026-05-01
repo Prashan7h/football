@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-10-20-west-ham-brentford",
+    "kickoff_utc": "2025-10-20T19:00:00Z",
+    "matchday": 8,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "west-ham",
+      "name": "West Ham",
+      "primary": "#7A263A",
+      "crest": "https://crests.football-data.org/563.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://crests.football-data.org/402.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-08-31-nottingham-forest-west-ham",
+    "kickoff_utc": "2025-08-31T13:00:00Z",
+    "matchday": 3,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://crests.football-data.org/351.png"
+    },
+    "away": {
+      "slug": "west-ham",
+      "name": "West Ham",
+      "primary": "#7A263A",
+      "crest": "https://crests.football-data.org/563.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

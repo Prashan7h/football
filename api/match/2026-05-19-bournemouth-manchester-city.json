@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-19-bournemouth-manchester-city",
+    "kickoff_utc": "2026-05-19T18:30:00Z",
+    "matchday": 37,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "away": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

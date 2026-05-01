@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-04-10-west-ham-wolverhampton-wanderers",
+    "kickoff_utc": "2026-04-10T19:00:00Z",
+    "matchday": 32,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "west-ham",
+      "name": "West Ham",
+      "primary": "#7A263A",
+      "crest": "https://crests.football-data.org/563.png"
+    },
+    "away": {
+      "slug": "wolverhampton-wanderers",
+      "name": "Wolves",
+      "primary": "#FDB913",
+      "crest": "https://crests.football-data.org/76.png"
+    },
+    "score": {
+      "home": 4,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

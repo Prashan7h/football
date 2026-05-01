@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-17-brentford-crystal-palace",
+    "kickoff_utc": "2026-05-17T14:00:00Z",
+    "matchday": 37,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://crests.football-data.org/402.png"
+    },
+    "away": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://crests.football-data.org/354.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-09-27-crystal-palace-liverpool",
+    "kickoff_utc": "2025-09-27T14:00:00Z",
+    "matchday": 6,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://crests.football-data.org/354.png"
+    },
+    "away": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

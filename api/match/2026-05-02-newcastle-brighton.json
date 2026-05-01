@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-02-newcastle-brighton",
+    "kickoff_utc": "2026-05-02T14:00:00Z",
+    "matchday": 35,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "away": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://crests.football-data.org/397.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

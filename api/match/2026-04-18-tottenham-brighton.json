@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-04-18-tottenham-brighton",
+    "kickoff_utc": "2026-04-18T16:30:00Z",
+    "matchday": 33,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "away": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://crests.football-data.org/397.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

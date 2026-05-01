@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-08-23-brentford-aston-villa",
+    "kickoff_utc": "2025-08-23T14:00:00Z",
+    "matchday": 2,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://crests.football-data.org/402.png"
+    },
+    "away": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://crests.football-data.org/58.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

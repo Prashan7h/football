@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-10-05-wolverhampton-wanderers-brighton",
+    "kickoff_utc": "2025-10-05T13:00:00Z",
+    "matchday": 7,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "wolverhampton-wanderers",
+      "name": "Wolves",
+      "primary": "#FDB913",
+      "crest": "https://crests.football-data.org/76.png"
+    },
+    "away": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://crests.football-data.org/397.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

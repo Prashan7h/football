@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-10-25-newcastle-fulham",
+    "kickoff_utc": "2025-10-25T14:00:00Z",
+    "matchday": 9,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "away": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://crests.football-data.org/63.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

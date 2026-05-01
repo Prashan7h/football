@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-08-15-liverpool-bournemouth",
+    "kickoff_utc": "2025-08-15T19:00:00Z",
+    "matchday": 1,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "away": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "score": {
+      "home": 4,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

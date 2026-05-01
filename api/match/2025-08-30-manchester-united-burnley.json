@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-08-30-manchester-united-burnley",
+    "kickoff_utc": "2025-08-30T14:00:00Z",
+    "matchday": 3,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/66.png"
+    },
+    "away": {
+      "slug": "burnley",
+      "name": "Burnley",
+      "primary": "#6C1D45",
+      "crest": "https://crests.football-data.org/328.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

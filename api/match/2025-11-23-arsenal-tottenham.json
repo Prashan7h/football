@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-23-arsenal-tottenham",
+    "kickoff_utc": "2025-11-23T16:30:00Z",
+    "matchday": 12,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "score": {
+      "home": 4,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

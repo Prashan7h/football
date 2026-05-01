@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-13-manchester-city-crystal-palace",
+    "kickoff_utc": "2026-05-13T19:00:00Z",
+    "matchday": 31,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "away": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://crests.football-data.org/354.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

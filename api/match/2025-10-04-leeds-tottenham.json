@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-10-04-leeds-tottenham",
+    "kickoff_utc": "2025-10-04T11:30:00Z",
+    "matchday": 7,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

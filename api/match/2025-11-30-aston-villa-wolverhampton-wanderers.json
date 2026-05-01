@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-30-aston-villa-wolverhampton-wanderers",
+    "kickoff_utc": "2025-11-30T14:05:00Z",
+    "matchday": 13,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://crests.football-data.org/58.png"
+    },
+    "away": {
+      "slug": "wolverhampton-wanderers",
+      "name": "Wolves",
+      "primary": "#FDB913",
+      "crest": "https://crests.football-data.org/76.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

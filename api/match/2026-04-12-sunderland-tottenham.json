@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-04-12-sunderland-tottenham",
+    "kickoff_utc": "2026-04-12T13:00:00Z",
+    "matchday": 32,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "sunderland",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://crests.football-data.org/71.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

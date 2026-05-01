@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-11-aston-villa-brighton",
+    "kickoff_utc": "2026-02-11T19:30:00Z",
+    "matchday": 26,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://crests.football-data.org/58.png"
+    },
+    "away": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://crests.football-data.org/397.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

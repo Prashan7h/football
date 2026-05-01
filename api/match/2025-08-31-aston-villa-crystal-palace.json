@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-08-31-aston-villa-crystal-palace",
+    "kickoff_utc": "2025-08-31T18:00:00Z",
+    "matchday": 3,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://crests.football-data.org/58.png"
+    },
+    "away": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://crests.football-data.org/354.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-22-sunderland-fulham",
+    "kickoff_utc": "2026-02-22T14:00:00Z",
+    "matchday": 27,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "sunderland",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://crests.football-data.org/71.png"
+    },
+    "away": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://crests.football-data.org/63.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

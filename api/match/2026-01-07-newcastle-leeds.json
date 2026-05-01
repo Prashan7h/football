@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-07-newcastle-leeds",
+    "kickoff_utc": "2026-01-07T20:15:00Z",
+    "matchday": 21,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "score": {
+      "home": 4,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

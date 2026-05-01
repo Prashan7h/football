@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-11-tottenham-leeds",
+    "kickoff_utc": "2026-05-11T19:00:00Z",
+    "matchday": 36,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

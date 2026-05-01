@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-12-15-manchester-united-bournemouth",
+    "kickoff_utc": "2025-12-15T20:00:00Z",
+    "matchday": 16,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/66.png"
+    },
+    "away": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "score": {
+      "home": 4,
+      "away": 4
+    }
+  },
+  "preview": null,
+  "review": null
+}

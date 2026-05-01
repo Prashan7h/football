@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-08-chelsea-wolverhampton-wanderers",
+    "kickoff_utc": "2025-11-08T20:00:00Z",
+    "matchday": 11,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "away": {
+      "slug": "wolverhampton-wanderers",
+      "name": "Wolves",
+      "primary": "#FDB913",
+      "crest": "https://crests.football-data.org/76.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

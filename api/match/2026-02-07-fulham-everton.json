@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-07-fulham-everton",
+    "kickoff_utc": "2026-02-07T15:00:00Z",
+    "matchday": 25,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://crests.football-data.org/63.png"
+    },
+    "away": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://crests.football-data.org/62.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

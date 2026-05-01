@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-04-25-wolverhampton-wanderers-tottenham",
+    "kickoff_utc": "2026-04-25T14:00:00Z",
+    "matchday": 34,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "wolverhampton-wanderers",
+      "name": "Wolves",
+      "primary": "#FDB913",
+      "crest": "https://crests.football-data.org/76.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-24-fulham-brighton",
+    "kickoff_utc": "2026-01-24T15:00:00Z",
+    "matchday": 23,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://crests.football-data.org/63.png"
+    },
+    "away": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://crests.football-data.org/397.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

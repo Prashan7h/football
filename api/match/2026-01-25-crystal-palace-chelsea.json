@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-25-crystal-palace-chelsea",
+    "kickoff_utc": "2026-01-25T14:00:00Z",
+    "matchday": 23,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://crests.football-data.org/354.png"
+    },
+    "away": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

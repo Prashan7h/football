@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-09-manchester-city-brentford",
+    "kickoff_utc": "2026-05-09T16:30:00Z",
+    "matchday": 36,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://crests.football-data.org/402.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

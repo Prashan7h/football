@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-09-14-burnley-liverpool",
+    "kickoff_utc": "2025-09-14T13:00:00Z",
+    "matchday": 4,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "burnley",
+      "name": "Burnley",
+      "primary": "#6C1D45",
+      "crest": "https://crests.football-data.org/328.png"
+    },
+    "away": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

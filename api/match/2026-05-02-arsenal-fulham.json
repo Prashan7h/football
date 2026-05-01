@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-02-arsenal-fulham",
+    "kickoff_utc": "2026-05-02T16:30:00Z",
+    "matchday": 35,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "away": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://crests.football-data.org/63.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-09-aston-villa-bournemouth",
+    "kickoff_utc": "2025-11-09T14:00:00Z",
+    "matchday": 11,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://crests.football-data.org/58.png"
+    },
+    "away": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "score": {
+      "home": 4,
+      "away": 0
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-04-chelsea-nottingham-forest",
+    "kickoff_utc": "2026-05-04T14:00:00Z",
+    "matchday": 35,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "away": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://crests.football-data.org/351.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

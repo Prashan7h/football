@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-12-27-brentford-bournemouth",
+    "kickoff_utc": "2025-12-27T15:00:00Z",
+    "matchday": 18,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://crests.football-data.org/402.png"
+    },
+    "away": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "score": {
+      "home": 4,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

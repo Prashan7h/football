@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-09-fulham-bournemouth",
+    "kickoff_utc": "2026-05-09T14:00:00Z",
+    "matchday": 36,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://crests.football-data.org/63.png"
+    },
+    "away": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

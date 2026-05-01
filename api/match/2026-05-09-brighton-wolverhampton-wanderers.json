@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-09-brighton-wolverhampton-wanderers",
+    "kickoff_utc": "2026-05-09T14:00:00Z",
+    "matchday": 36,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://crests.football-data.org/397.png"
+    },
+    "away": {
+      "slug": "wolverhampton-wanderers",
+      "name": "Wolves",
+      "primary": "#FDB913",
+      "crest": "https://crests.football-data.org/76.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

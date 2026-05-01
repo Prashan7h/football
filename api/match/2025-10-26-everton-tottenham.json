@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-10-26-everton-tottenham",
+    "kickoff_utc": "2025-10-26T16:30:00Z",
+    "matchday": 9,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://crests.football-data.org/62.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-12-13-burnley-fulham",
+    "kickoff_utc": "2025-12-13T17:30:00Z",
+    "matchday": 16,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "burnley",
+      "name": "Burnley",
+      "primary": "#6C1D45",
+      "crest": "https://crests.football-data.org/328.png"
+    },
+    "away": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://crests.football-data.org/63.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

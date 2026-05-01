@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-03-bournemouth-arsenal",
+    "kickoff_utc": "2026-01-03T17:30:00Z",
+    "matchday": 20,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "away": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

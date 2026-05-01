@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-01-25-arsenal-manchester-united",
+    "kickoff_utc": "2026-01-25T16:30:00Z",
+    "matchday": 23,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "away": {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "primary": "#DA291C",
+      "crest": "https://crests.football-data.org/66.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

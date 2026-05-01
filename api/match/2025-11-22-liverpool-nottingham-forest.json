@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-22-liverpool-nottingham-forest",
+    "kickoff_utc": "2025-11-22T15:00:00Z",
+    "matchday": 12,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "away": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://crests.football-data.org/351.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-29-manchester-city-leeds",
+    "kickoff_utc": "2025-11-29T15:00:00Z",
+    "matchday": 13,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 2
+    }
+  },
+  "preview": null,
+  "review": null
+}

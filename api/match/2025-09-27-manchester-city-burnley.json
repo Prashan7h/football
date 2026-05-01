@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-09-27-manchester-city-burnley",
+    "kickoff_utc": "2025-09-27T14:00:00Z",
+    "matchday": 6,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://crests.football-data.org/65.png"
+    },
+    "away": {
+      "slug": "burnley",
+      "name": "Burnley",
+      "primary": "#6C1D45",
+      "crest": "https://crests.football-data.org/328.png"
+    },
+    "score": {
+      "home": 5,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

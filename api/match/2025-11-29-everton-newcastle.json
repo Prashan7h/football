@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-11-29-everton-newcastle",
+    "kickoff_utc": "2025-11-29T17:30:00Z",
+    "matchday": 13,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://crests.football-data.org/62.png"
+    },
+    "away": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://crests.football-data.org/67.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 4
+    }
+  },
+  "preview": null,
+  "review": null
+}

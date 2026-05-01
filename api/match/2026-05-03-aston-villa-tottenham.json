@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-03-aston-villa-tottenham",
+    "kickoff_utc": "2026-05-03T18:00:00Z",
+    "matchday": 35,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://crests.football-data.org/58.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://crests.football-data.org/73.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-02-07-wolverhampton-wanderers-chelsea",
+    "kickoff_utc": "2026-02-07T15:00:00Z",
+    "matchday": 25,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "wolverhampton-wanderers",
+      "name": "Wolves",
+      "primary": "#FDB913",
+      "crest": "https://crests.football-data.org/76.png"
+    },
+    "away": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://crests.football-data.org/61.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-12-30-arsenal-aston-villa",
+    "kickoff_utc": "2025-12-30T20:15:00Z",
+    "matchday": 19,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://crests.football-data.org/57.png"
+    },
+    "away": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://crests.football-data.org/58.png"
+    },
+    "score": {
+      "home": 4,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

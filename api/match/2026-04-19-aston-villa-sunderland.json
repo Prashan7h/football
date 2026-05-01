@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2026-04-19-aston-villa-sunderland",
+    "kickoff_utc": "2026-04-19T13:00:00Z",
+    "matchday": 33,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://crests.football-data.org/58.png"
+    },
+    "away": {
+      "slug": "sunderland",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://crests.football-data.org/71.png"
+    },
+    "score": {
+      "home": 4,
+      "away": 3
+    }
+  },
+  "preview": null,
+  "review": null
+}

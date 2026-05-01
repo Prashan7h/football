@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "2025-12-20-leeds-crystal-palace",
+    "kickoff_utc": "2025-12-20T20:00:00Z",
+    "matchday": 17,
+    "venue": null,
+    "status": "finished",
+    "home": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://crests.football-data.org/341.png"
+    },
+    "away": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://crests.football-data.org/354.png"
+    },
+    "score": {
+      "home": 4,
+      "away": 1
+    }
+  },
+  "preview": null,
+  "review": null
+}

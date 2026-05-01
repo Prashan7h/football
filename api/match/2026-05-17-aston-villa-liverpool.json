@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "2026-05-17-aston-villa-liverpool",
+    "kickoff_utc": "2026-05-17T11:30:00Z",
+    "matchday": 37,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://crests.football-data.org/58.png"
+    },
+    "away": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://crests.football-data.org/64.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}
