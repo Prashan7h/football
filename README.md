@@ -4,7 +4,7 @@ Premier League stats and visualisations, before and after the games.
 
 Companion to [Prashan7h.github.io](https://prashan7h.github.io). The project site is served at `https://prashan7h.github.io/football/`.
 
-This repo is the **data + model layer**. It scrapes free sources (FBref, Understat, football-data.co.uk), fits a Dixon–Coles forecast model, and emits static JSON consumed by:
+This repo is the **data + model layer**. It pulls from free sources (football-data.org API for fixtures/results/standings, Understat for shot-level xG), fits a Dixon–Coles forecast model, and emits static JSON consumed by:
 
 - a SwiftUI iOS app in a separate repo (`football-ios`)
 - static web pages in this repo (added in a later phase)
@@ -18,9 +18,18 @@ No backend, no API server. Everything is pre-computed in GitHub Actions, committ
 ## Stack
 
 - Python 3.11+
-- `requests`, `beautifulsoup4`, `lxml` for scraping
+- `requests` for the football-data.org API
+- `beautifulsoup4`, `lxml` for the Understat HTML/embedded-JSON parse (the only free shot-level source)
 - `pandas`, `numpy`, `scipy` for the model
 - GitHub Actions for scheduled ingestion (cron, every 6h; every 30 min on matchdays)
+
+## Secrets
+
+| Name | Used by | How to get it |
+|---|---|---|
+| `FOOTBALL_DATA_KEY` | `scripts/ingest_football_data.py` | Free at https://www.football-data.org/client/register |
+
+Set locally with `export FOOTBALL_DATA_KEY=...`. Set in CI with `gh secret set FOOTBALL_DATA_KEY`.
 
 ## Layout
 
@@ -51,18 +60,19 @@ Current and upcoming gameweek.
 
 ```json
 {
-  "season": "2025-26",
-  "gameweek": 33,
+  "season": 2025,
+  "current_matchday": 33,
   "updated_at": "2026-05-01T08:00:00Z",
   "matches": [
     {
       "id": "2026-05-03-arsenal-chelsea",
-      "date": "2026-05-03",
-      "kickoff": "16:30",
+      "kickoff_utc": "2026-05-03T15:30:00Z",
+      "matchday": 33,
       "venue": "Emirates Stadium",
-      "home": { "slug": "arsenal", "name": "Arsenal", "primary": "#EF0107" },
-      "away": { "slug": "chelsea", "name": "Chelsea", "primary": "#034694" },
-      "status": "scheduled"
+      "status": "scheduled",
+      "home": { "slug": "arsenal", "name": "Arsenal", "primary": "#EF0107", "crest": "https://..." },
+      "away": { "slug": "chelsea", "name": "Chelsea", "primary": "#034694", "crest": "https://..." },
+      "score": null
     }
   ]
 }
@@ -136,10 +146,10 @@ Generated JSON lands in `api/` — commit it to publish.
 
 ## Sources
 
-| Source | Use | Licence |
-|---|---|---|
-| [FBref](https://fbref.com) | Fixtures, results, season-level stats | Sports Reference TOS — attribution + non-commercial |
-| [Understat](https://understat.com) | Shot-level xG with pitch coordinates | Public, attribution |
-| [football-data.co.uk](https://football-data.co.uk) | Historical results + closing odds (model calibration) | Free for non-commercial use |
+| Source | Use | Type | Licence |
+|---|---|---|---|
+| [football-data.org](https://www.football-data.org) | Fixtures, results, standings, scorers, lineups | REST API (key, free tier) | Free for personal / non-commercial; attribution required |
+| [Understat](https://understat.com) | Shot-level xG with pitch coordinates | HTML scrape (embedded JSON) | Public, attribution |
+| [football-data.co.uk](https://football-data.co.uk) | Historical results + closing odds (model calibration only) | CSV download | Free for non-commercial |
 
-All sources are scraped politely (rate-limited, cached locally in `data/raw/`).
+All raw responses are cached to `data/raw/` (gitignored) so re-runs don't hit the providers unnecessarily. football-data.org free tier is 10 req/min — the ingestion script respects this.

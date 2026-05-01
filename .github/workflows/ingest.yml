@@ -21,13 +21,16 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
 
-      - name: Run pipeline
-        run: |
-          echo "Phase 0 — scripts not yet implemented."
-          # python scripts/ingest_fbref.py
-          # python scripts/ingest_understat.py
-          # python scripts/model_dixon_coles.py
-          # python scripts/build_api.py
+      - name: Ingest football-data.org
+        env:
+          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
+        run: python scripts/ingest_football_data.py
+
+      # - name: Ingest Understat (shot-level)
+      #   run: python scripts/ingest_understat.py
+      #
+      # - name: Fit Dixon–Coles model
+      #   run: python scripts/model_dixon_coles.py
 
       - name: Commit refreshed JSON
         run: |
