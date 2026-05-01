@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Local data caches — only api/ outputs are committed
+data/raw/
+*.parquet

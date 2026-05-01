@@ -1,0 +1,38 @@
+name: Ingest
+
+# Phase 0: manual dispatch only. Cron will be enabled once the scripts work end-to-end.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        run: |
+          echo "Phase 0 — scripts not yet implemented."
+          # python scripts/ingest_fbref.py
+          # python scripts/ingest_understat.py
+          # python scripts/model_dixon_coles.py
+          # python scripts/build_api.py
+
+      - name: Commit refreshed JSON
+        run: |
+          git config user.name "football-bot"
+          git config user.email "football-bot@users.noreply.github.com"
+          git add api/ || true
+          git diff --staged --quiet || git commit -m "data: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

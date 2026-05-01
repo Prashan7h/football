@@ -1,0 +1,42 @@
+/*
+ * Design tokens for the football project.
+ * Mirrored in the iOS app via Theme.swift — keep them in sync.
+ *
+ * Sequential   → density / heat (viridis, 5 stops, perceptually uniform)
+ * Diverging    → over/underperformance vs expected (RdBu, 5 stops, centred)
+ * Categorical  → team identity (club primaries, see club-colours.json — TBD)
+ */
+
+:root {
+  /* Surfaces */
+  --bg-web: #FAFAF7;
+  --bg-ios-dark: #0E1116;
+  --fg-primary: #111418;
+  --fg-muted: #5A6470;
+  --rule: #E2E2DD;
+
+  /* Sequential (viridis) */
+  --seq-0: #440154;
+  --seq-1: #3B528B;
+  --seq-2: #21908C;
+  --seq-3: #5DC863;
+  --seq-4: #FDE725;
+
+  /* Diverging (RdBu, centred) */
+  --div-neg-2: #B2182B; /* well below expected */
+  --div-neg-1: #EF8A62;
+  --div-zero:  #F7F7F7;
+  --div-pos-1: #67A9CF;
+  --div-pos-2: #2166AC; /* well above expected */
+
+  /* Outcomes */
+  --goal: #2A9D5F;
+  --miss: #9AA4AE;
+  --saved: #C7873B;
+  --blocked: #6B6F76;
+
+  /* Type */
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
