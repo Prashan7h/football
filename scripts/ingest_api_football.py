@@ -197,7 +197,7 @@ def main() -> int:
         # Build per-date cache on first encounter
         if date not in date_cache:
             try:
-                body = api_get(key, "/fixtures", {"date": date, "league": PL_LEAGUE_ID})
+                body = api_get(key, "/fixtures", {"date": date, "league": PL_LEAGUE_ID, "season": SEASON})
                 date_cache[date] = {}
                 for f in body.get("response", []):
                     h = NAME_TO_SLUG.get(f["teams"]["home"]["name"])
