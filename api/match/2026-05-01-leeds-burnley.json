@@ -1,10 +1,11 @@
 {
   "meta": {
     "id": "2026-05-01-leeds-burnley",
+    "external_id": 538131,
     "kickoff_utc": "2026-05-01T19:00:00Z",
     "matchday": 35,
     "venue": null,
-    "status": "live",
+    "status": "finished",
     "home": {
       "slug": "leeds",
       "name": "Leeds",
@@ -18,8 +19,8 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/burnley.png"
     },
     "score": {
-      "home": 1,
-      "away": 0
+      "home": 3,
+      "away": 1
     }
   },
   "preview": null,

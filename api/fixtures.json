@@ -1,10 +1,11 @@
 {
   "season": 2025,
   "current_matchday": 35,
-  "updated_at": "2026-05-02T04:49:41Z",
+  "updated_at": "2026-05-02T11:10:12Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
+      "external_id": 537785,
       "kickoff_utc": "2025-08-15T19:00:00Z",
       "matchday": 1,
       "venue": null,
@@ -28,6 +29,7 @@
     },
     {
       "id": "2025-08-16-aston-villa-newcastle",
+      "external_id": 537786,
       "kickoff_utc": "2025-08-16T11:30:00Z",
       "matchday": 1,
       "venue": null,
@@ -51,6 +53,7 @@
     },
     {
       "id": "2025-08-16-brighton-fulham",
+      "external_id": 537787,
       "kickoff_utc": "2025-08-16T14:00:00Z",
       "matchday": 1,
       "venue": null,
@@ -74,6 +77,7 @@
     },
     {
       "id": "2025-08-16-sunderland-west-ham",
+      "external_id": 537789,
       "kickoff_utc": "2025-08-16T14:00:00Z",
       "matchday": 1,
       "venue": null,
@@ -97,6 +101,7 @@
     },
     {
       "id": "2025-08-16-tottenham-burnley",
+      "external_id": 537790,
       "kickoff_utc": "2025-08-16T14:00:00Z",
       "matchday": 1,
       "venue": null,
@@ -120,6 +125,7 @@
     },
     {
       "id": "2025-08-16-wolverhampton-wanderers-manchester-city",
+      "external_id": 537791,
       "kickoff_utc": "2025-08-16T16:30:00Z",
       "matchday": 1,
       "venue": null,
@@ -143,6 +149,7 @@
     },
     {
       "id": "2025-08-17-nottingham-forest-brentford",
+      "external_id": 537788,
       "kickoff_utc": "2025-08-17T13:00:00Z",
       "matchday": 1,
       "venue": null,
@@ -166,6 +173,7 @@
     },
     {
       "id": "2025-08-17-chelsea-crystal-palace",
+      "external_id": 537792,
       "kickoff_utc": "2025-08-17T13:00:00Z",
       "matchday": 1,
       "venue": null,
@@ -189,6 +197,7 @@
     },
     {
       "id": "2025-08-17-manchester-united-arsenal",
+      "external_id": 537793,
       "kickoff_utc": "2025-08-17T15:30:00Z",
       "matchday": 1,
       "venue": null,
@@ -212,6 +221,7 @@
     },
     {
       "id": "2025-08-18-leeds-everton",
+      "external_id": 537794,
       "kickoff_utc": "2025-08-18T19:00:00Z",
       "matchday": 1,
       "venue": null,
@@ -235,6 +245,7 @@
     },
     {
       "id": "2025-08-22-west-ham-chelsea",
+      "external_id": 537804,
       "kickoff_utc": "2025-08-22T19:00:00Z",
       "matchday": 2,
       "venue": null,
@@ -258,6 +269,7 @@
     },
     {
       "id": "2025-08-23-manchester-city-tottenham",
+      "external_id": 537802,
       "kickoff_utc": "2025-08-23T11:30:00Z",
       "matchday": 2,
       "venue": null,
@@ -281,6 +293,7 @@
     },
     {
       "id": "2025-08-23-bournemouth-wolverhampton-wanderers",
+      "external_id": 537795,
       "kickoff_utc": "2025-08-23T14:00:00Z",
       "matchday": 2,
       "venue": null,
@@ -304,6 +317,7 @@
     },
     {
       "id": "2025-08-23-brentford-aston-villa",
+      "external_id": 537798,
       "kickoff_utc": "2025-08-23T14:00:00Z",
       "matchday": 2,
       "venue": null,
@@ -327,6 +341,7 @@
     },
     {
       "id": "2025-08-23-burnley-sunderland",
+      "external_id": 537799,
       "kickoff_utc": "2025-08-23T14:00:00Z",
       "matchday": 2,
       "venue": null,
@@ -350,6 +365,7 @@
     },
     {
       "id": "2025-08-23-arsenal-leeds",
+      "external_id": 537797,
       "kickoff_utc": "2025-08-23T16:30:00Z",
       "matchday": 2,
       "venue": null,
@@ -373,6 +389,7 @@
     },
     {
       "id": "2025-08-24-crystal-palace-nottingham-forest",
+      "external_id": 537796,
       "kickoff_utc": "2025-08-24T13:00:00Z",
       "matchday": 2,
       "venue": null,
@@ -396,6 +413,7 @@
     },
     {
       "id": "2025-08-24-everton-brighton",
+      "external_id": 537800,
       "kickoff_utc": "2025-08-24T13:00:00Z",
       "matchday": 2,
       "venue": null,
@@ -419,6 +437,7 @@
     },
     {
       "id": "2025-08-24-fulham-manchester-united",
+      "external_id": 537801,
       "kickoff_utc": "2025-08-24T15:30:00Z",
       "matchday": 2,
       "venue": null,
@@ -442,6 +461,7 @@
     },
     {
       "id": "2025-08-25-newcastle-liverpool",
+      "external_id": 537803,
       "kickoff_utc": "2025-08-25T19:00:00Z",
       "matchday": 2,
       "venue": null,
@@ -465,6 +485,7 @@
     },
     {
       "id": "2025-08-30-chelsea-fulham",
+      "external_id": 537808,
       "kickoff_utc": "2025-08-30T11:30:00Z",
       "matchday": 3,
       "venue": null,
@@ -488,6 +509,7 @@
     },
     {
       "id": "2025-08-30-sunderland-brentford",
+      "external_id": 537805,
       "kickoff_utc": "2025-08-30T14:00:00Z",
       "matchday": 3,
       "venue": null,
@@ -511,6 +533,7 @@
     },
     {
       "id": "2025-08-30-manchester-united-burnley",
+      "external_id": 537811,
       "kickoff_utc": "2025-08-30T14:00:00Z",
       "matchday": 3,
       "venue": null,
@@ -534,6 +557,7 @@
     },
     {
       "id": "2025-08-30-tottenham-bournemouth",
+      "external_id": 537813,
       "kickoff_utc": "2025-08-30T14:00:00Z",
       "matchday": 3,
       "venue": null,
@@ -557,6 +581,7 @@
     },
     {
       "id": "2025-08-30-wolverhampton-wanderers-everton",
+      "external_id": 537814,
       "kickoff_utc": "2025-08-30T14:00:00Z",
       "matchday": 3,
       "venue": null,
@@ -580,6 +605,7 @@
     },
     {
       "id": "2025-08-30-leeds-newcastle",
+      "external_id": 537810,
       "kickoff_utc": "2025-08-30T16:30:00Z",
       "matchday": 3,
       "venue": null,
@@ -603,6 +629,7 @@
     },
     {
       "id": "2025-08-31-brighton-manchester-city",
+      "external_id": 537807,
       "kickoff_utc": "2025-08-31T13:00:00Z",
       "matchday": 3,
       "venue": null,
@@ -626,6 +653,7 @@
     },
     {
       "id": "2025-08-31-nottingham-forest-west-ham",
+      "external_id": 537812,
       "kickoff_utc": "2025-08-31T13:00:00Z",
       "matchday": 3,
       "venue": null,
@@ -649,6 +677,7 @@
     },
     {
       "id": "2025-08-31-liverpool-arsenal",
+      "external_id": 537809,
       "kickoff_utc": "2025-08-31T15:30:00Z",
       "matchday": 3,
       "venue": null,
@@ -672,6 +701,7 @@
     },
     {
       "id": "2025-08-31-aston-villa-crystal-palace",
+      "external_id": 537806,
       "kickoff_utc": "2025-08-31T18:00:00Z",
       "matchday": 3,
       "venue": null,
@@ -695,6 +725,7 @@
     },
     {
       "id": "2025-09-13-arsenal-nottingham-forest",
+      "external_id": 537817,
       "kickoff_utc": "2025-09-13T11:30:00Z",
       "matchday": 4,
       "venue": null,
@@ -718,6 +749,7 @@
     },
     {
       "id": "2025-09-13-bournemouth-brighton",
+      "external_id": 537815,
       "kickoff_utc": "2025-09-13T14:00:00Z",
       "matchday": 4,
       "venue": null,
@@ -741,6 +773,7 @@
     },
     {
       "id": "2025-09-13-crystal-palace-sunderland",
+      "external_id": 537816,
       "kickoff_utc": "2025-09-13T14:00:00Z",
       "matchday": 4,
       "venue": null,
@@ -764,6 +797,7 @@
     },
     {
       "id": "2025-09-13-everton-aston-villa",
+      "external_id": 537820,
       "kickoff_utc": "2025-09-13T14:00:00Z",
       "matchday": 4,
       "venue": null,
@@ -787,6 +821,7 @@
     },
     {
       "id": "2025-09-13-fulham-leeds",
+      "external_id": 537821,
       "kickoff_utc": "2025-09-13T14:00:00Z",
       "matchday": 4,
       "venue": null,
@@ -810,6 +845,7 @@
     },
     {
       "id": "2025-09-13-newcastle-wolverhampton-wanderers",
+      "external_id": 537823,
       "kickoff_utc": "2025-09-13T14:00:00Z",
       "matchday": 4,
       "venue": null,
@@ -833,6 +869,7 @@
     },
     {
       "id": "2025-09-13-west-ham-tottenham",
+      "external_id": 537824,
       "kickoff_utc": "2025-09-13T16:30:00Z",
       "matchday": 4,
       "venue": null,
@@ -856,6 +893,7 @@
     },
     {
       "id": "2025-09-13-brentford-chelsea",
+      "external_id": 537818,
       "kickoff_utc": "2025-09-13T19:00:00Z",
       "matchday": 4,
       "venue": null,
@@ -879,6 +917,7 @@
     },
     {
       "id": "2025-09-14-burnley-liverpool",
+      "external_id": 537819,
       "kickoff_utc": "2025-09-14T13:00:00Z",
       "matchday": 4,
       "venue": null,
@@ -902,6 +941,7 @@
     },
     {
       "id": "2025-09-14-manchester-city-manchester-united",
+      "external_id": 537822,
       "kickoff_utc": "2025-09-14T15:30:00Z",
       "matchday": 4,
       "venue": null,
@@ -925,6 +965,7 @@
     },
     {
       "id": "2025-09-20-liverpool-everton",
+      "external_id": 537831,
       "kickoff_utc": "2025-09-20T11:30:00Z",
       "matchday": 5,
       "venue": null,
@@ -948,6 +989,7 @@
     },
     {
       "id": "2025-09-20-brighton-tottenham",
+      "external_id": 537827,
       "kickoff_utc": "2025-09-20T14:00:00Z",
       "matchday": 5,
       "venue": null,
@@ -971,6 +1013,7 @@
     },
     {
       "id": "2025-09-20-burnley-nottingham-forest",
+      "external_id": 537829,
       "kickoff_utc": "2025-09-20T14:00:00Z",
       "matchday": 5,
       "venue": null,
@@ -994,6 +1037,7 @@
     },
     {
       "id": "2025-09-20-west-ham-crystal-palace",
+      "external_id": 537833,
       "kickoff_utc": "2025-09-20T14:00:00Z",
       "matchday": 5,
       "venue": null,
@@ -1017,6 +1061,7 @@
     },
     {
       "id": "2025-09-20-wolverhampton-wanderers-leeds",
+      "external_id": 537834,
       "kickoff_utc": "2025-09-20T14:00:00Z",
       "matchday": 5,
       "venue": null,
@@ -1040,6 +1085,7 @@
     },
     {
       "id": "2025-09-20-manchester-united-chelsea",
+      "external_id": 537832,
       "kickoff_utc": "2025-09-20T16:30:00Z",
       "matchday": 5,
       "venue": null,
@@ -1063,6 +1109,7 @@
     },
     {
       "id": "2025-09-20-fulham-brentford",
+      "external_id": 537830,
       "kickoff_utc": "2025-09-20T19:00:00Z",
       "matchday": 5,
       "venue": null,
@@ -1086,6 +1133,7 @@
     },
     {
       "id": "2025-09-21-bournemouth-newcastle",
+      "external_id": 537825,
       "kickoff_utc": "2025-09-21T13:00:00Z",
       "matchday": 5,
       "venue": null,
@@ -1109,6 +1157,7 @@
     },
     {
       "id": "2025-09-21-sunderland-aston-villa",
+      "external_id": 537826,
       "kickoff_utc": "2025-09-21T13:00:00Z",
       "matchday": 5,
       "venue": null,
@@ -1132,6 +1181,7 @@
     },
     {
       "id": "2025-09-21-arsenal-manchester-city",
+      "external_id": 537828,
       "kickoff_utc": "2025-09-21T15:30:00Z",
       "matchday": 5,
       "venue": null,
@@ -1155,6 +1205,7 @@
     },
     {
       "id": "2025-09-27-brentford-manchester-united",
+      "external_id": 537837,
       "kickoff_utc": "2025-09-27T11:30:00Z",
       "matchday": 6,
       "venue": null,
@@ -1178,6 +1229,7 @@
     },
     {
       "id": "2025-09-27-crystal-palace-liverpool",
+      "external_id": 537836,
       "kickoff_utc": "2025-09-27T14:00:00Z",
       "matchday": 6,
       "venue": null,
@@ -1201,6 +1253,7 @@
     },
     {
       "id": "2025-09-27-chelsea-brighton",
+      "external_id": 537838,
       "kickoff_utc": "2025-09-27T14:00:00Z",
       "matchday": 6,
       "venue": null,
@@ -1224,6 +1277,7 @@
     },
     {
       "id": "2025-09-27-leeds-bournemouth",
+      "external_id": 537840,
       "kickoff_utc": "2025-09-27T14:00:00Z",
       "matchday": 6,
       "venue": null,
@@ -1247,6 +1301,7 @@
     },
     {
       "id": "2025-09-27-manchester-city-burnley",
+      "external_id": 537841,
       "kickoff_utc": "2025-09-27T14:00:00Z",
       "matchday": 6,
       "venue": null,
@@ -1270,6 +1325,7 @@
     },
     {
       "id": "2025-09-27-nottingham-forest-sunderland",
+      "external_id": 537843,
       "kickoff_utc": "2025-09-27T16:30:00Z",
       "matchday": 6,
       "venue": null,
@@ -1293,6 +1349,7 @@
     },
     {
       "id": "2025-09-27-tottenham-wolverhampton-wanderers",
+      "external_id": 537844,
       "kickoff_utc": "2025-09-27T19:00:00Z",
       "matchday": 6,
       "venue": null,
@@ -1316,6 +1373,7 @@
     },
     {
       "id": "2025-09-28-aston-villa-fulham",
+      "external_id": 537835,
       "kickoff_utc": "2025-09-28T13:00:00Z",
       "matchday": 6,
       "venue": null,
@@ -1339,6 +1397,7 @@
     },
     {
       "id": "2025-09-28-newcastle-arsenal",
+      "external_id": 537842,
       "kickoff_utc": "2025-09-28T15:30:00Z",
       "matchday": 6,
       "venue": null,
@@ -1362,6 +1421,7 @@
     },
     {
       "id": "2025-09-29-everton-west-ham",
+      "external_id": 537839,
       "kickoff_utc": "2025-09-29T19:00:00Z",
       "matchday": 6,
       "venue": null,
@@ -1385,6 +1445,7 @@
     },
     {
       "id": "2025-10-03-bournemouth-fulham",
+      "external_id": 537845,
       "kickoff_utc": "2025-10-03T19:00:00Z",
       "matchday": 7,
       "venue": null,
@@ -1408,6 +1469,7 @@
     },
     {
       "id": "2025-10-04-leeds-tottenham",
+      "external_id": 537851,
       "kickoff_utc": "2025-10-04T11:30:00Z",
       "matchday": 7,
       "venue": null,
@@ -1431,6 +1493,7 @@
     },
     {
       "id": "2025-10-04-arsenal-west-ham",
+      "external_id": 537847,
       "kickoff_utc": "2025-10-04T14:00:00Z",
       "matchday": 7,
       "venue": null,
@@ -1454,6 +1517,7 @@
     },
     {
       "id": "2025-10-04-manchester-united-sunderland",
+      "external_id": 537852,
       "kickoff_utc": "2025-10-04T14:00:00Z",
       "matchday": 7,
       "venue": null,
@@ -1477,6 +1541,7 @@
     },
     {
       "id": "2025-10-04-chelsea-liverpool",
+      "external_id": 537849,
       "kickoff_utc": "2025-10-04T16:30:00Z",
       "matchday": 7,
       "venue": null,
@@ -1500,6 +1565,7 @@
     },
     {
       "id": "2025-10-05-aston-villa-burnley",
+      "external_id": 537846,
       "kickoff_utc": "2025-10-05T13:00:00Z",
       "matchday": 7,
       "venue": null,
@@ -1523,6 +1589,7 @@
     },
     {
       "id": "2025-10-05-everton-crystal-palace",
+      "external_id": 537850,
       "kickoff_utc": "2025-10-05T13:00:00Z",
       "matchday": 7,
       "venue": null,
@@ -1546,6 +1613,7 @@
     },
     {
       "id": "2025-10-05-newcastle-nottingham-forest",
+      "external_id": 537853,
       "kickoff_utc": "2025-10-05T13:00:00Z",
       "matchday": 7,
       "venue": null,
@@ -1569,6 +1637,7 @@
     },
     {
       "id": "2025-10-05-wolverhampton-wanderers-brighton",
+      "external_id": 537854,
       "kickoff_utc": "2025-10-05T13:00:00Z",
       "matchday": 7,
       "venue": null,
@@ -1592,6 +1661,7 @@
     },
     {
       "id": "2025-10-05-brentford-manchester-city",
+      "external_id": 537848,
       "kickoff_utc": "2025-10-05T15:30:00Z",
       "matchday": 7,
       "venue": null,
@@ -1615,6 +1685,7 @@
     },
     {
       "id": "2025-10-18-nottingham-forest-chelsea",
+      "external_id": 537862,
       "kickoff_utc": "2025-10-18T11:30:00Z",
       "matchday": 8,
       "venue": null,
@@ -1638,6 +1709,7 @@
     },
     {
       "id": "2025-10-18-brighton-newcastle",
+      "external_id": 537856,
       "kickoff_utc": "2025-10-18T14:00:00Z",
       "matchday": 8,
       "venue": null,
@@ -1661,6 +1733,7 @@
     },
     {
       "id": "2025-10-18-crystal-palace-bournemouth",
+      "external_id": 537857,
       "kickoff_utc": "2025-10-18T14:00:00Z",
       "matchday": 8,
       "venue": null,
@@ -1684,6 +1757,7 @@
     },
     {
       "id": "2025-10-18-burnley-leeds",
+      "external_id": 537858,
       "kickoff_utc": "2025-10-18T14:00:00Z",
       "matchday": 8,
       "venue": null,
@@ -1707,6 +1781,7 @@
     },
     {
       "id": "2025-10-18-manchester-city-everton",
+      "external_id": 537861,
       "kickoff_utc": "2025-10-18T14:00:00Z",
       "matchday": 8,
       "venue": null,
@@ -1730,6 +1805,7 @@
     },
     {
       "id": "2025-10-18-sunderland-wolverhampton-wanderers",
+      "external_id": 537855,
       "kickoff_utc": "2025-10-18T14:00:00Z",
       "matchday": 8,
       "venue": null,
@@ -1753,6 +1829,7 @@
     },
     {
       "id": "2025-10-18-fulham-arsenal",
+      "external_id": 537859,
       "kickoff_utc": "2025-10-18T16:30:00Z",
       "matchday": 8,
       "venue": null,
@@ -1776,6 +1853,7 @@
     },
     {
       "id": "2025-10-19-tottenham-aston-villa",
+      "external_id": 537863,
       "kickoff_utc": "2025-10-19T13:00:00Z",
       "matchday": 8,
       "venue": null,
@@ -1799,6 +1877,7 @@
     },
     {
       "id": "2025-10-19-liverpool-manchester-united",
+      "external_id": 537860,
       "kickoff_utc": "2025-10-19T15:30:00Z",
       "matchday": 8,
       "venue": null,
@@ -1822,6 +1901,7 @@
     },
     {
       "id": "2025-10-20-west-ham-brentford",
+      "external_id": 537864,
       "kickoff_utc": "2025-10-20T19:00:00Z",
       "matchday": 8,
       "venue": null,
@@ -1845,6 +1925,7 @@
     },
     {
       "id": "2025-10-24-leeds-west-ham",
+      "external_id": 537871,
       "kickoff_utc": "2025-10-24T19:00:00Z",
       "matchday": 9,
       "venue": null,
@@ -1868,6 +1949,7 @@
     },
     {
       "id": "2025-10-25-chelsea-sunderland",
+      "external_id": 537869,
       "kickoff_utc": "2025-10-25T14:00:00Z",
       "matchday": 9,
       "venue": null,
@@ -1891,6 +1973,7 @@
     },
     {
       "id": "2025-10-25-newcastle-fulham",
+      "external_id": 537873,
       "kickoff_utc": "2025-10-25T14:00:00Z",
       "matchday": 9,
       "venue": null,
@@ -1914,6 +1997,7 @@
     },
     {
       "id": "2025-10-25-manchester-united-brighton",
+      "external_id": 537872,
       "kickoff_utc": "2025-10-25T16:30:00Z",
       "matchday": 9,
       "venue": null,
@@ -1937,6 +2021,7 @@
     },
     {
       "id": "2025-10-25-brentford-liverpool",
+      "external_id": 537868,
       "kickoff_utc": "2025-10-25T19:00:00Z",
       "matchday": 9,
       "venue": null,
@@ -1960,6 +2045,7 @@
     },
     {
       "id": "2025-10-26-bournemouth-nottingham-forest",
+      "external_id": 537865,
       "kickoff_utc": "2025-10-26T14:00:00Z",
       "matchday": 9,
       "venue": null,
@@ -1983,6 +2069,7 @@
     },
     {
       "id": "2025-10-26-aston-villa-manchester-city",
+      "external_id": 537866,
       "kickoff_utc": "2025-10-26T14:00:00Z",
       "matchday": 9,
       "venue": null,
@@ -2006,6 +2093,7 @@
     },
     {
       "id": "2025-10-26-arsenal-crystal-palace",
+      "external_id": 537867,
       "kickoff_utc": "2025-10-26T14:00:00Z",
       "matchday": 9,
       "venue": null,
@@ -2029,6 +2117,7 @@
     },
     {
       "id": "2025-10-26-wolverhampton-wanderers-burnley",
+      "external_id": 537874,
       "kickoff_utc": "2025-10-26T14:00:00Z",
       "matchday": 9,
       "venue": null,
@@ -2052,6 +2141,7 @@
     },
     {
       "id": "2025-10-26-everton-tottenham",
+      "external_id": 537870,
       "kickoff_utc": "2025-10-26T16:30:00Z",
       "matchday": 9,
       "venue": null,
@@ -2075,6 +2165,7 @@
     },
     {
       "id": "2025-11-01-brighton-leeds",
+      "external_id": 537876,
       "kickoff_utc": "2025-11-01T15:00:00Z",
       "matchday": 10,
       "venue": null,
@@ -2098,6 +2189,7 @@
     },
     {
       "id": "2025-11-01-crystal-palace-brentford",
+      "external_id": 537877,
       "kickoff_utc": "2025-11-01T15:00:00Z",
       "matchday": 10,
       "venue": null,
@@ -2121,6 +2213,7 @@
     },
     {
       "id": "2025-11-01-burnley-arsenal",
+      "external_id": 537878,
       "kickoff_utc": "2025-11-01T15:00:00Z",
       "matchday": 10,
       "venue": null,
@@ -2144,6 +2237,7 @@
     },
     {
       "id": "2025-11-01-fulham-wolverhampton-wanderers",
+      "external_id": 537879,
       "kickoff_utc": "2025-11-01T15:00:00Z",
       "matchday": 10,
       "venue": null,
@@ -2167,6 +2261,7 @@
     },
     {
       "id": "2025-11-01-nottingham-forest-manchester-united",
+      "external_id": 537882,
       "kickoff_utc": "2025-11-01T15:00:00Z",
       "matchday": 10,
       "venue": null,
@@ -2190,6 +2285,7 @@
     },
     {
       "id": "2025-11-01-tottenham-chelsea",
+      "external_id": 537883,
       "kickoff_utc": "2025-11-01T17:30:00Z",
       "matchday": 10,
       "venue": null,
@@ -2213,6 +2309,7 @@
     },
     {
       "id": "2025-11-01-liverpool-aston-villa",
+      "external_id": 537880,
       "kickoff_utc": "2025-11-01T20:00:00Z",
       "matchday": 10,
       "venue": null,
@@ -2236,6 +2333,7 @@
     },
     {
       "id": "2025-11-02-west-ham-newcastle",
+      "external_id": 537884,
       "kickoff_utc": "2025-11-02T14:00:00Z",
       "matchday": 10,
       "venue": null,
@@ -2259,6 +2357,7 @@
     },
     {
       "id": "2025-11-02-manchester-city-bournemouth",
+      "external_id": 537881,
       "kickoff_utc": "2025-11-02T16:30:00Z",
       "matchday": 10,
       "venue": null,
@@ -2282,6 +2381,7 @@
     },
     {
       "id": "2025-11-03-sunderland-everton",
+      "external_id": 537875,
       "kickoff_utc": "2025-11-03T20:00:00Z",
       "matchday": 10,
       "venue": null,
@@ -2305,6 +2405,7 @@
     },
     {
       "id": "2025-11-08-tottenham-manchester-united",
+      "external_id": 537893,
       "kickoff_utc": "2025-11-08T12:30:00Z",
       "matchday": 11,
       "venue": null,
@@ -2328,6 +2429,7 @@
     },
     {
       "id": "2025-11-08-everton-fulham",
+      "external_id": 537890,
       "kickoff_utc": "2025-11-08T15:00:00Z",
       "matchday": 11,
       "venue": null,
@@ -2351,6 +2453,7 @@
     },
     {
       "id": "2025-11-08-west-ham-burnley",
+      "external_id": 537894,
       "kickoff_utc": "2025-11-08T15:00:00Z",
       "matchday": 11,
       "venue": null,
@@ -2374,6 +2477,7 @@
     },
     {
       "id": "2025-11-08-sunderland-arsenal",
+      "external_id": 537885,
       "kickoff_utc": "2025-11-08T17:30:00Z",
       "matchday": 11,
       "venue": null,
@@ -2397,6 +2501,7 @@
     },
     {
       "id": "2025-11-08-chelsea-wolverhampton-wanderers",
+      "external_id": 537889,
       "kickoff_utc": "2025-11-08T20:00:00Z",
       "matchday": 11,
       "venue": null,
@@ -2420,6 +2525,7 @@
     },
     {
       "id": "2025-11-09-aston-villa-bournemouth",
+      "external_id": 537886,
       "kickoff_utc": "2025-11-09T14:00:00Z",
       "matchday": 11,
       "venue": null,
@@ -2443,6 +2549,7 @@
     },
     {
       "id": "2025-11-09-crystal-palace-brighton",
+      "external_id": 537887,
       "kickoff_utc": "2025-11-09T14:00:00Z",
       "matchday": 11,
       "venue": null,
@@ -2466,6 +2573,7 @@
     },
     {
       "id": "2025-11-09-brentford-newcastle",
+      "external_id": 537888,
       "kickoff_utc": "2025-11-09T14:00:00Z",
       "matchday": 11,
       "venue": null,
@@ -2489,6 +2597,7 @@
     },
     {
       "id": "2025-11-09-nottingham-forest-leeds",
+      "external_id": 537892,
       "kickoff_utc": "2025-11-09T14:00:00Z",
       "matchday": 11,
       "venue": null,
@@ -2512,6 +2621,7 @@
     },
     {
       "id": "2025-11-09-manchester-city-liverpool",
+      "external_id": 537891,
       "kickoff_utc": "2025-11-09T16:30:00Z",
       "matchday": 11,
       "venue": null,
@@ -2535,6 +2645,7 @@
     },
     {
       "id": "2025-11-22-burnley-chelsea",
+      "external_id": 537898,
       "kickoff_utc": "2025-11-22T12:30:00Z",
       "matchday": 12,
       "venue": null,
@@ -2558,6 +2669,7 @@
     },
     {
       "id": "2025-11-22-bournemouth-west-ham",
+      "external_id": 537895,
       "kickoff_utc": "2025-11-22T15:00:00Z",
       "matchday": 12,
       "venue": null,
@@ -2581,6 +2693,7 @@
     },
     {
       "id": "2025-11-22-brighton-brentford",
+      "external_id": 537896,
       "kickoff_utc": "2025-11-22T15:00:00Z",
       "matchday": 12,
       "venue": null,
@@ -2604,6 +2717,7 @@
     },
     {
       "id": "2025-11-22-fulham-sunderland",
+      "external_id": 537899,
       "kickoff_utc": "2025-11-22T15:00:00Z",
       "matchday": 12,
       "venue": null,
@@ -2627,6 +2741,7 @@
     },
     {
       "id": "2025-11-22-liverpool-nottingham-forest",
+      "external_id": 537900,
       "kickoff_utc": "2025-11-22T15:00:00Z",
       "matchday": 12,
       "venue": null,
@@ -2650,6 +2765,7 @@
     },
     {
       "id": "2025-11-22-wolverhampton-wanderers-crystal-palace",
+      "external_id": 537904,
       "kickoff_utc": "2025-11-22T15:00:00Z",
       "matchday": 12,
       "venue": null,
@@ -2673,6 +2789,7 @@
     },
     {
       "id": "2025-11-22-newcastle-manchester-city",
+      "external_id": 537903,
       "kickoff_utc": "2025-11-22T17:30:00Z",
       "matchday": 12,
       "venue": null,
@@ -2696,6 +2813,7 @@
     },
     {
       "id": "2025-11-23-leeds-aston-villa",
+      "external_id": 537901,
       "kickoff_utc": "2025-11-23T14:00:00Z",
       "matchday": 12,
       "venue": null,
@@ -2719,6 +2837,7 @@
     },
     {
       "id": "2025-11-23-arsenal-tottenham",
+      "external_id": 537897,
       "kickoff_utc": "2025-11-23T16:30:00Z",
       "matchday": 12,
       "venue": null,
@@ -2742,6 +2861,7 @@
     },
     {
       "id": "2025-11-24-manchester-united-everton",
+      "external_id": 537902,
       "kickoff_utc": "2025-11-24T20:00:00Z",
       "matchday": 12,
       "venue": null,
@@ -2765,6 +2885,7 @@
     },
     {
       "id": "2025-11-29-sunderland-bournemouth",
+      "external_id": 537905,
       "kickoff_utc": "2025-11-29T15:00:00Z",
       "matchday": 13,
       "venue": null,
@@ -2788,6 +2909,7 @@
     },
     {
       "id": "2025-11-29-brentford-burnley",
+      "external_id": 537908,
       "kickoff_utc": "2025-11-29T15:00:00Z",
       "matchday": 13,
       "venue": null,
@@ -2811,6 +2933,7 @@
     },
     {
       "id": "2025-11-29-manchester-city-leeds",
+      "external_id": 537911,
       "kickoff_utc": "2025-11-29T15:00:00Z",
       "matchday": 13,
       "venue": null,
@@ -2834,6 +2957,7 @@
     },
     {
       "id": "2025-11-29-everton-newcastle",
+      "external_id": 537910,
       "kickoff_utc": "2025-11-29T17:30:00Z",
       "matchday": 13,
       "venue": null,
@@ -2857,6 +2981,7 @@
     },
     {
       "id": "2025-11-29-tottenham-fulham",
+      "external_id": 537913,
       "kickoff_utc": "2025-11-29T20:00:00Z",
       "matchday": 13,
       "venue": null,
@@ -2880,6 +3005,7 @@
     },
     {
       "id": "2025-11-30-crystal-palace-manchester-united",
+      "external_id": 537907,
       "kickoff_utc": "2025-11-30T12:00:00Z",
       "matchday": 13,
       "venue": null,
@@ -2903,6 +3029,7 @@
     },
     {
       "id": "2025-11-30-aston-villa-wolverhampton-wanderers",
+      "external_id": 537906,
       "kickoff_utc": "2025-11-30T14:05:00Z",
       "matchday": 13,
       "venue": null,
@@ -2926,6 +3053,7 @@
     },
     {
       "id": "2025-11-30-nottingham-forest-brighton",
+      "external_id": 537912,
       "kickoff_utc": "2025-11-30T14:05:00Z",
       "matchday": 13,
       "venue": null,
@@ -2949,6 +3077,7 @@
     },
     {
       "id": "2025-11-30-west-ham-liverpool",
+      "external_id": 537914,
       "kickoff_utc": "2025-11-30T14:05:00Z",
       "matchday": 13,
       "venue": null,
@@ -2972,6 +3101,7 @@
     },
     {
       "id": "2025-11-30-chelsea-arsenal",
+      "external_id": 537909,
       "kickoff_utc": "2025-11-30T16:30:00Z",
       "matchday": 13,
       "venue": null,
@@ -2995,6 +3125,7 @@
     },
     {
       "id": "2025-12-02-bournemouth-everton",
+      "external_id": 537915,
       "kickoff_utc": "2025-12-02T19:30:00Z",
       "matchday": 14,
       "venue": null,
@@ -3018,6 +3149,7 @@
     },
     {
       "id": "2025-12-02-fulham-manchester-city",
+      "external_id": 537919,
       "kickoff_utc": "2025-12-02T19:30:00Z",
       "matchday": 14,
       "venue": null,
@@ -3041,6 +3173,7 @@
     },
     {
       "id": "2025-12-02-newcastle-tottenham",
+      "external_id": 537923,
       "kickoff_utc": "2025-12-02T20:15:00Z",
       "matchday": 14,
       "venue": null,
@@ -3064,6 +3197,7 @@
     },
     {
       "id": "2025-12-03-brighton-aston-villa",
+      "external_id": 537916,
       "kickoff_utc": "2025-12-03T19:30:00Z",
       "matchday": 14,
       "venue": null,
@@ -3087,6 +3221,7 @@
     },
     {
       "id": "2025-12-03-arsenal-brentford",
+      "external_id": 537917,
       "kickoff_utc": "2025-12-03T19:30:00Z",
       "matchday": 14,
       "venue": null,
@@ -3110,6 +3245,7 @@
     },
     {
       "id": "2025-12-03-burnley-crystal-palace",
+      "external_id": 537918,
       "kickoff_utc": "2025-12-03T19:30:00Z",
       "matchday": 14,
       "venue": null,
@@ -3133,6 +3269,7 @@
     },
     {
       "id": "2025-12-03-wolverhampton-wanderers-nottingham-forest",
+      "external_id": 537924,
       "kickoff_utc": "2025-12-03T19:30:00Z",
       "matchday": 14,
       "venue": null,
@@ -3156,6 +3293,7 @@
     },
     {
       "id": "2025-12-03-liverpool-sunderland",
+      "external_id": 537920,
       "kickoff_utc": "2025-12-03T20:15:00Z",
       "matchday": 14,
       "venue": null,
@@ -3179,6 +3317,7 @@
     },
     {
       "id": "2025-12-03-leeds-chelsea",
+      "external_id": 537921,
       "kickoff_utc": "2025-12-03T20:15:00Z",
       "matchday": 14,
       "venue": null,
@@ -3202,6 +3341,7 @@
     },
     {
       "id": "2025-12-04-manchester-united-west-ham",
+      "external_id": 537922,
       "kickoff_utc": "2025-12-04T20:00:00Z",
       "matchday": 14,
       "venue": null,
@@ -3225,6 +3365,7 @@
     },
     {
       "id": "2025-12-06-aston-villa-arsenal",
+      "external_id": 537926,
       "kickoff_utc": "2025-12-06T12:30:00Z",
       "matchday": 15,
       "venue": null,
@@ -3248,6 +3389,7 @@
     },
     {
       "id": "2025-12-06-bournemouth-chelsea",
+      "external_id": 537925,
       "kickoff_utc": "2025-12-06T15:00:00Z",
       "matchday": 15,
       "venue": null,
@@ -3271,6 +3413,7 @@
     },
     {
       "id": "2025-12-06-everton-nottingham-forest",
+      "external_id": 537928,
       "kickoff_utc": "2025-12-06T15:00:00Z",
       "matchday": 15,
       "venue": null,
@@ -3294,6 +3437,7 @@
     },
     {
       "id": "2025-12-06-manchester-city-sunderland",
+      "external_id": 537931,
       "kickoff_utc": "2025-12-06T15:00:00Z",
       "matchday": 15,
       "venue": null,
@@ -3317,6 +3461,7 @@
     },
     {
       "id": "2025-12-06-newcastle-burnley",
+      "external_id": 537932,
       "kickoff_utc": "2025-12-06T15:00:00Z",
       "matchday": 15,
       "venue": null,
@@ -3340,6 +3485,7 @@
     },
     {
       "id": "2025-12-06-tottenham-brentford",
+      "external_id": 537933,
       "kickoff_utc": "2025-12-06T15:00:00Z",
       "matchday": 15,
       "venue": null,
@@ -3363,6 +3509,7 @@
     },
     {
       "id": "2025-12-06-leeds-liverpool",
+      "external_id": 537930,
       "kickoff_utc": "2025-12-06T17:30:00Z",
       "matchday": 15,
       "venue": null,
@@ -3386,6 +3533,7 @@
     },
     {
       "id": "2025-12-07-brighton-west-ham",
+      "external_id": 537927,
       "kickoff_utc": "2025-12-07T14:00:00Z",
       "matchday": 15,
       "venue": null,
@@ -3409,6 +3557,7 @@
     },
     {
       "id": "2025-12-07-fulham-crystal-palace",
+      "external_id": 537929,
       "kickoff_utc": "2025-12-07T16:30:00Z",
       "matchday": 15,
       "venue": null,
@@ -3432,6 +3581,7 @@
     },
     {
       "id": "2025-12-08-wolverhampton-wanderers-manchester-united",
+      "external_id": 537934,
       "kickoff_utc": "2025-12-08T20:00:00Z",
       "matchday": 15,
       "venue": null,
@@ -3455,6 +3605,7 @@
     },
     {
       "id": "2025-12-13-chelsea-everton",
+      "external_id": 537940,
       "kickoff_utc": "2025-12-13T15:00:00Z",
       "matchday": 16,
       "venue": null,
@@ -3478,6 +3629,7 @@
     },
     {
       "id": "2025-12-13-liverpool-brighton",
+      "external_id": 537941,
       "kickoff_utc": "2025-12-13T15:00:00Z",
       "matchday": 16,
       "venue": null,
@@ -3501,6 +3653,7 @@
     },
     {
       "id": "2025-12-13-burnley-fulham",
+      "external_id": 537939,
       "kickoff_utc": "2025-12-13T17:30:00Z",
       "matchday": 16,
       "venue": null,
@@ -3524,6 +3677,7 @@
     },
     {
       "id": "2025-12-13-arsenal-wolverhampton-wanderers",
+      "external_id": 537937,
       "kickoff_utc": "2025-12-13T20:00:00Z",
       "matchday": 16,
       "venue": null,
@@ -3547,6 +3701,7 @@
     },
     {
       "id": "2025-12-14-sunderland-newcastle",
+      "external_id": 537935,
       "kickoff_utc": "2025-12-14T14:00:00Z",
       "matchday": 16,
       "venue": null,
@@ -3570,6 +3725,7 @@
     },
     {
       "id": "2025-12-14-crystal-palace-manchester-city",
+      "external_id": 537936,
       "kickoff_utc": "2025-12-14T14:00:00Z",
       "matchday": 16,
       "venue": null,
@@ -3593,6 +3749,7 @@
     },
     {
       "id": "2025-12-14-nottingham-forest-tottenham",
+      "external_id": 537943,
       "kickoff_utc": "2025-12-14T14:00:00Z",
       "matchday": 16,
       "venue": null,
@@ -3616,6 +3773,7 @@
     },
     {
       "id": "2025-12-14-west-ham-aston-villa",
+      "external_id": 537944,
       "kickoff_utc": "2025-12-14T14:00:00Z",
       "matchday": 16,
       "venue": null,
@@ -3639,6 +3797,7 @@
     },
     {
       "id": "2025-12-14-brentford-leeds",
+      "external_id": 537938,
       "kickoff_utc": "2025-12-14T16:30:00Z",
       "matchday": 16,
       "venue": null,
@@ -3662,6 +3821,7 @@
     },
     {
       "id": "2025-12-15-manchester-united-bournemouth",
+      "external_id": 537942,
       "kickoff_utc": "2025-12-15T20:00:00Z",
       "matchday": 16,
       "venue": null,
@@ -3685,6 +3845,7 @@
     },
     {
       "id": "2025-12-20-newcastle-chelsea",
+      "external_id": 537952,
       "kickoff_utc": "2025-12-20T12:30:00Z",
       "matchday": 17,
       "venue": null,
@@ -3708,6 +3869,7 @@
     },
     {
       "id": "2025-12-20-bournemouth-burnley",
+      "external_id": 537945,
       "kickoff_utc": "2025-12-20T15:00:00Z",
       "matchday": 17,
       "venue": null,
@@ -3731,6 +3893,7 @@
     },
     {
       "id": "2025-12-20-brighton-sunderland",
+      "external_id": 537947,
       "kickoff_utc": "2025-12-20T15:00:00Z",
       "matchday": 17,
       "venue": null,
@@ -3754,6 +3917,7 @@
     },
     {
       "id": "2025-12-20-manchester-city-west-ham",
+      "external_id": 537951,
       "kickoff_utc": "2025-12-20T15:00:00Z",
       "matchday": 17,
       "venue": null,
@@ -3777,6 +3941,7 @@
     },
     {
       "id": "2025-12-20-wolverhampton-wanderers-brentford",
+      "external_id": 537954,
       "kickoff_utc": "2025-12-20T15:00:00Z",
       "matchday": 17,
       "venue": null,
@@ -3800,6 +3965,7 @@
     },
     {
       "id": "2025-12-20-tottenham-liverpool",
+      "external_id": 537953,
       "kickoff_utc": "2025-12-20T17:30:00Z",
       "matchday": 17,
       "venue": null,
@@ -3823,6 +3989,7 @@
     },
     {
       "id": "2025-12-20-everton-arsenal",
+      "external_id": 537948,
       "kickoff_utc": "2025-12-20T20:00:00Z",
       "matchday": 17,
       "venue": null,
@@ -3846,6 +4013,7 @@
     },
     {
       "id": "2025-12-20-leeds-crystal-palace",
+      "external_id": 537950,
       "kickoff_utc": "2025-12-20T20:00:00Z",
       "matchday": 17,
       "venue": null,
@@ -3869,6 +4037,7 @@
     },
     {
       "id": "2025-12-21-aston-villa-manchester-united",
+      "external_id": 537946,
       "kickoff_utc": "2025-12-21T16:30:00Z",
       "matchday": 17,
       "venue": null,
@@ -3892,6 +4061,7 @@
     },
     {
       "id": "2025-12-22-fulham-nottingham-forest",
+      "external_id": 537949,
       "kickoff_utc": "2025-12-22T20:00:00Z",
       "matchday": 17,
       "venue": null,
@@ -3915,6 +4085,7 @@
     },
     {
       "id": "2025-12-26-manchester-united-newcastle",
+      "external_id": 537962,
       "kickoff_utc": "2025-12-26T20:00:00Z",
       "matchday": 18,
       "venue": null,
@@ -3938,6 +4109,7 @@
     },
     {
       "id": "2025-12-27-nottingham-forest-manchester-city",
+      "external_id": 537963,
       "kickoff_utc": "2025-12-27T12:30:00Z",
       "matchday": 18,
       "venue": null,
@@ -3961,6 +4133,7 @@
     },
     {
       "id": "2025-12-27-arsenal-brighton",
+      "external_id": 537957,
       "kickoff_utc": "2025-12-27T15:00:00Z",
       "matchday": 18,
       "venue": null,
@@ -3984,6 +4157,7 @@
     },
     {
       "id": "2025-12-27-brentford-bournemouth",
+      "external_id": 537958,
       "kickoff_utc": "2025-12-27T15:00:00Z",
       "matchday": 18,
       "venue": null,
@@ -4007,6 +4181,7 @@
     },
     {
       "id": "2025-12-27-burnley-everton",
+      "external_id": 537959,
       "kickoff_utc": "2025-12-27T15:00:00Z",
       "matchday": 18,
       "venue": null,
@@ -4030,6 +4205,7 @@
     },
     {
       "id": "2025-12-27-liverpool-wolverhampton-wanderers",
+      "external_id": 537961,
       "kickoff_utc": "2025-12-27T15:00:00Z",
       "matchday": 18,
       "venue": null,
@@ -4053,6 +4229,7 @@
     },
     {
       "id": "2025-12-27-west-ham-fulham",
+      "external_id": 537964,
       "kickoff_utc": "2025-12-27T15:00:00Z",
       "matchday": 18,
       "venue": null,
@@ -4076,6 +4253,7 @@
     },
     {
       "id": "2025-12-27-chelsea-aston-villa",
+      "external_id": 537960,
       "kickoff_utc": "2025-12-27T17:30:00Z",
       "matchday": 18,
       "venue": null,
@@ -4099,6 +4277,7 @@
     },
     {
       "id": "2025-12-28-sunderland-leeds",
+      "external_id": 537955,
       "kickoff_utc": "2025-12-28T14:00:00Z",
       "matchday": 18,
       "venue": null,
@@ -4122,6 +4301,7 @@
     },
     {
       "id": "2025-12-28-crystal-palace-tottenham",
+      "external_id": 537956,
       "kickoff_utc": "2025-12-28T16:30:00Z",
       "matchday": 18,
       "venue": null,
@@ -4145,6 +4325,7 @@
     },
     {
       "id": "2025-12-30-burnley-newcastle",
+      "external_id": 537969,
       "kickoff_utc": "2025-12-30T19:30:00Z",
       "matchday": 19,
       "venue": null,
@@ -4168,6 +4349,7 @@
     },
     {
       "id": "2025-12-30-chelsea-bournemouth",
+      "external_id": 537970,
       "kickoff_utc": "2025-12-30T19:30:00Z",
       "matchday": 19,
       "venue": null,
@@ -4191,6 +4373,7 @@
     },
     {
       "id": "2025-12-30-nottingham-forest-everton",
+      "external_id": 537973,
       "kickoff_utc": "2025-12-30T19:30:00Z",
       "matchday": 19,
       "venue": null,
@@ -4214,6 +4397,7 @@
     },
     {
       "id": "2025-12-30-west-ham-brighton",
+      "external_id": 537974,
       "kickoff_utc": "2025-12-30T19:30:00Z",
       "matchday": 19,
       "venue": null,
@@ -4237,6 +4421,7 @@
     },
     {
       "id": "2025-12-30-arsenal-aston-villa",
+      "external_id": 537967,
       "kickoff_utc": "2025-12-30T20:15:00Z",
       "matchday": 19,
       "venue": null,
@@ -4260,6 +4445,7 @@
     },
     {
       "id": "2025-12-30-manchester-united-wolverhampton-wanderers",
+      "external_id": 537972,
       "kickoff_utc": "2025-12-30T20:15:00Z",
       "matchday": 19,
       "venue": null,
@@ -4283,6 +4469,7 @@
     },
     {
       "id": "2026-01-01-crystal-palace-fulham",
+      "external_id": 537966,
       "kickoff_utc": "2026-01-01T17:30:00Z",
       "matchday": 19,
       "venue": null,
@@ -4306,6 +4493,7 @@
     },
     {
       "id": "2026-01-01-liverpool-leeds",
+      "external_id": 537971,
       "kickoff_utc": "2026-01-01T17:30:00Z",
       "matchday": 19,
       "venue": null,
@@ -4329,6 +4517,7 @@
     },
     {
       "id": "2026-01-01-sunderland-manchester-city",
+      "external_id": 537965,
       "kickoff_utc": "2026-01-01T20:00:00Z",
       "matchday": 19,
       "venue": null,
@@ -4352,6 +4541,7 @@
     },
     {
       "id": "2026-01-01-brentford-tottenham",
+      "external_id": 537968,
       "kickoff_utc": "2026-01-01T20:00:00Z",
       "matchday": 19,
       "venue": null,
@@ -4375,6 +4565,7 @@
     },
     {
       "id": "2026-01-03-aston-villa-nottingham-forest",
+      "external_id": 537976,
       "kickoff_utc": "2026-01-03T12:30:00Z",
       "matchday": 20,
       "venue": null,
@@ -4398,6 +4589,7 @@
     },
     {
       "id": "2026-01-03-brighton-burnley",
+      "external_id": 537977,
       "kickoff_utc": "2026-01-03T15:00:00Z",
       "matchday": 20,
       "venue": null,
@@ -4421,6 +4613,7 @@
     },
     {
       "id": "2026-01-03-wolverhampton-wanderers-west-ham",
+      "external_id": 537984,
       "kickoff_utc": "2026-01-03T15:00:00Z",
       "matchday": 20,
       "venue": null,
@@ -4444,6 +4637,7 @@
     },
     {
       "id": "2026-01-03-bournemouth-arsenal",
+      "external_id": 537975,
       "kickoff_utc": "2026-01-03T17:30:00Z",
       "matchday": 20,
       "venue": null,
@@ -4467,6 +4661,7 @@
     },
     {
       "id": "2026-01-04-leeds-manchester-united",
+      "external_id": 537980,
       "kickoff_utc": "2026-01-04T12:30:00Z",
       "matchday": 20,
       "venue": null,
@@ -4490,6 +4685,7 @@
     },
     {
       "id": "2026-01-04-everton-brentford",
+      "external_id": 537978,
       "kickoff_utc": "2026-01-04T15:00:00Z",
       "matchday": 20,
       "venue": null,
@@ -4513,6 +4709,7 @@
     },
     {
       "id": "2026-01-04-newcastle-crystal-palace",
+      "external_id": 537982,
       "kickoff_utc": "2026-01-04T15:00:00Z",
       "matchday": 20,
       "venue": null,
@@ -4536,6 +4733,7 @@
     },
     {
       "id": "2026-01-04-tottenham-sunderland",
+      "external_id": 537983,
       "kickoff_utc": "2026-01-04T15:00:00Z",
       "matchday": 20,
       "venue": null,
@@ -4559,6 +4757,7 @@
     },
     {
       "id": "2026-01-04-fulham-liverpool",
+      "external_id": 537979,
       "kickoff_utc": "2026-01-04T15:15:00Z",
       "matchday": 20,
       "venue": null,
@@ -4582,6 +4781,7 @@
     },
     {
       "id": "2026-01-04-manchester-city-chelsea",
+      "external_id": 537981,
       "kickoff_utc": "2026-01-04T17:30:00Z",
       "matchday": 20,
       "venue": null,
@@ -4605,6 +4805,7 @@
     },
     {
       "id": "2026-01-06-west-ham-nottingham-forest",
+      "external_id": 537994,
       "kickoff_utc": "2026-01-06T20:00:00Z",
       "matchday": 21,
       "venue": null,
@@ -4628,6 +4829,7 @@
     },
     {
       "id": "2026-01-07-bournemouth-tottenham",
+      "external_id": 537985,
       "kickoff_utc": "2026-01-07T19:30:00Z",
       "matchday": 21,
       "venue": null,
@@ -4651,6 +4853,7 @@
     },
     {
       "id": "2026-01-07-crystal-palace-aston-villa",
+      "external_id": 537986,
       "kickoff_utc": "2026-01-07T19:30:00Z",
       "matchday": 21,
       "venue": null,
@@ -4674,6 +4877,7 @@
     },
     {
       "id": "2026-01-07-brentford-sunderland",
+      "external_id": 537988,
       "kickoff_utc": "2026-01-07T19:30:00Z",
       "matchday": 21,
       "venue": null,
@@ -4697,6 +4901,7 @@
     },
     {
       "id": "2026-01-07-everton-wolverhampton-wanderers",
+      "external_id": 537990,
       "kickoff_utc": "2026-01-07T19:30:00Z",
       "matchday": 21,
       "venue": null,
@@ -4720,6 +4925,7 @@
     },
     {
       "id": "2026-01-07-fulham-chelsea",
+      "external_id": 537991,
       "kickoff_utc": "2026-01-07T19:30:00Z",
       "matchday": 21,
       "venue": null,
@@ -4743,6 +4949,7 @@
     },
     {
       "id": "2026-01-07-manchester-city-brighton",
+      "external_id": 537992,
       "kickoff_utc": "2026-01-07T19:30:00Z",
       "matchday": 21,
       "venue": null,
@@ -4766,6 +4973,7 @@
     },
     {
       "id": "2026-01-07-burnley-manchester-united",
+      "external_id": 537989,
       "kickoff_utc": "2026-01-07T20:15:00Z",
       "matchday": 21,
       "venue": null,
@@ -4789,6 +4997,7 @@
     },
     {
       "id": "2026-01-07-newcastle-leeds",
+      "external_id": 537993,
       "kickoff_utc": "2026-01-07T20:15:00Z",
       "matchday": 21,
       "venue": null,
@@ -4812,6 +5021,7 @@
     },
     {
       "id": "2026-01-08-arsenal-liverpool",
+      "external_id": 537987,
       "kickoff_utc": "2026-01-08T20:00:00Z",
       "matchday": 21,
       "venue": null,
@@ -4835,6 +5045,7 @@
     },
     {
       "id": "2026-01-17-manchester-united-manchester-city",
+      "external_id": 538001,
       "kickoff_utc": "2026-01-17T12:30:00Z",
       "matchday": 22,
       "venue": null,
@@ -4858,6 +5069,7 @@
     },
     {
       "id": "2026-01-17-sunderland-crystal-palace",
+      "external_id": 537995,
       "kickoff_utc": "2026-01-17T15:00:00Z",
       "matchday": 22,
       "venue": null,
@@ -4881,6 +5093,7 @@
     },
     {
       "id": "2026-01-17-chelsea-brentford",
+      "external_id": 537998,
       "kickoff_utc": "2026-01-17T15:00:00Z",
       "matchday": 22,
       "venue": null,
@@ -4904,6 +5117,7 @@
     },
     {
       "id": "2026-01-17-liverpool-burnley",
+      "external_id": 537999,
       "kickoff_utc": "2026-01-17T15:00:00Z",
       "matchday": 22,
       "venue": null,
@@ -4927,6 +5141,7 @@
     },
     {
       "id": "2026-01-17-leeds-fulham",
+      "external_id": 538000,
       "kickoff_utc": "2026-01-17T15:00:00Z",
       "matchday": 22,
       "venue": null,
@@ -4950,6 +5165,7 @@
     },
     {
       "id": "2026-01-17-tottenham-west-ham",
+      "external_id": 538003,
       "kickoff_utc": "2026-01-17T15:00:00Z",
       "matchday": 22,
       "venue": null,
@@ -4973,6 +5189,7 @@
     },
     {
       "id": "2026-01-17-nottingham-forest-arsenal",
+      "external_id": 538002,
       "kickoff_utc": "2026-01-17T17:30:00Z",
       "matchday": 22,
       "venue": null,
@@ -4996,6 +5213,7 @@
     },
     {
       "id": "2026-01-18-wolverhampton-wanderers-newcastle",
+      "external_id": 538004,
       "kickoff_utc": "2026-01-18T14:00:00Z",
       "matchday": 22,
       "venue": null,
@@ -5019,6 +5237,7 @@
     },
     {
       "id": "2026-01-18-aston-villa-everton",
+      "external_id": 537996,
       "kickoff_utc": "2026-01-18T16:30:00Z",
       "matchday": 22,
       "venue": null,
@@ -5042,6 +5261,7 @@
     },
     {
       "id": "2026-01-19-brighton-bournemouth",
+      "external_id": 537997,
       "kickoff_utc": "2026-01-19T20:00:00Z",
       "matchday": 22,
       "venue": null,
@@ -5065,6 +5285,7 @@
     },
     {
       "id": "2026-01-24-west-ham-sunderland",
+      "external_id": 538014,
       "kickoff_utc": "2026-01-24T12:30:00Z",
       "matchday": 23,
       "venue": null,
@@ -5088,6 +5309,7 @@
     },
     {
       "id": "2026-01-24-burnley-tottenham",
+      "external_id": 538009,
       "kickoff_utc": "2026-01-24T15:00:00Z",
       "matchday": 23,
       "venue": null,
@@ -5111,6 +5333,7 @@
     },
     {
       "id": "2026-01-24-fulham-brighton",
+      "external_id": 538011,
       "kickoff_utc": "2026-01-24T15:00:00Z",
       "matchday": 23,
       "venue": null,
@@ -5134,6 +5357,7 @@
     },
     {
       "id": "2026-01-24-manchester-city-wolverhampton-wanderers",
+      "external_id": 538012,
       "kickoff_utc": "2026-01-24T15:00:00Z",
       "matchday": 23,
       "venue": null,
@@ -5157,6 +5381,7 @@
     },
     {
       "id": "2026-01-24-bournemouth-liverpool",
+      "external_id": 538005,
       "kickoff_utc": "2026-01-24T17:30:00Z",
       "matchday": 23,
       "venue": null,
@@ -5180,6 +5405,7 @@
     },
     {
       "id": "2026-01-25-crystal-palace-chelsea",
+      "external_id": 538006,
       "kickoff_utc": "2026-01-25T14:00:00Z",
       "matchday": 23,
       "venue": null,
@@ -5203,6 +5429,7 @@
     },
     {
       "id": "2026-01-25-brentford-nottingham-forest",
+      "external_id": 538008,
       "kickoff_utc": "2026-01-25T14:00:00Z",
       "matchday": 23,
       "venue": null,
@@ -5226,6 +5453,7 @@
     },
     {
       "id": "2026-01-25-newcastle-aston-villa",
+      "external_id": 538013,
       "kickoff_utc": "2026-01-25T14:00:00Z",
       "matchday": 23,
       "venue": null,
@@ -5249,6 +5477,7 @@
     },
     {
       "id": "2026-01-25-arsenal-manchester-united",
+      "external_id": 538007,
       "kickoff_utc": "2026-01-25T16:30:00Z",
       "matchday": 23,
       "venue": null,
@@ -5272,6 +5501,7 @@
     },
     {
       "id": "2026-01-26-everton-leeds",
+      "external_id": 538010,
       "kickoff_utc": "2026-01-26T20:00:00Z",
       "matchday": 23,
       "venue": null,
@@ -5295,6 +5525,7 @@
     },
     {
       "id": "2026-01-31-brighton-everton",
+      "external_id": 538017,
       "kickoff_utc": "2026-01-31T15:00:00Z",
       "matchday": 24,
       "venue": null,
@@ -5318,6 +5549,7 @@
     },
     {
       "id": "2026-01-31-leeds-arsenal",
+      "external_id": 538020,
       "kickoff_utc": "2026-01-31T15:00:00Z",
       "matchday": 24,
       "venue": null,
@@ -5341,6 +5573,7 @@
     },
     {
       "id": "2026-01-31-wolverhampton-wanderers-bournemouth",
+      "external_id": 538024,
       "kickoff_utc": "2026-01-31T15:00:00Z",
       "matchday": 24,
       "venue": null,
@@ -5364,6 +5597,7 @@
     },
     {
       "id": "2026-01-31-chelsea-west-ham",
+      "external_id": 538018,
       "kickoff_utc": "2026-01-31T17:30:00Z",
       "matchday": 24,
       "venue": null,
@@ -5387,6 +5621,7 @@
     },
     {
       "id": "2026-01-31-liverpool-newcastle",
+      "external_id": 538019,
       "kickoff_utc": "2026-01-31T20:00:00Z",
       "matchday": 24,
       "venue": null,
@@ -5410,6 +5645,7 @@
     },
     {
       "id": "2026-02-01-aston-villa-brentford",
+      "external_id": 538016,
       "kickoff_utc": "2026-02-01T14:00:00Z",
       "matchday": 24,
       "venue": null,
@@ -5433,6 +5669,7 @@
     },
     {
       "id": "2026-02-01-manchester-united-fulham",
+      "external_id": 538021,
       "kickoff_utc": "2026-02-01T14:00:00Z",
       "matchday": 24,
       "venue": null,
@@ -5456,6 +5693,7 @@
     },
     {
       "id": "2026-02-01-nottingham-forest-crystal-palace",
+      "external_id": 538022,
       "kickoff_utc": "2026-02-01T14:00:00Z",
       "matchday": 24,
       "venue": null,
@@ -5479,6 +5717,7 @@
     },
     {
       "id": "2026-02-01-tottenham-manchester-city",
+      "external_id": 538023,
       "kickoff_utc": "2026-02-01T16:30:00Z",
       "matchday": 24,
       "venue": null,
@@ -5502,6 +5741,7 @@
     },
     {
       "id": "2026-02-02-sunderland-burnley",
+      "external_id": 538015,
       "kickoff_utc": "2026-02-02T20:00:00Z",
       "matchday": 24,
       "venue": null,
@@ -5525,6 +5765,7 @@
     },
     {
       "id": "2026-02-06-leeds-nottingham-forest",
+      "external_id": 538031,
       "kickoff_utc": "2026-02-06T20:00:00Z",
       "matchday": 25,
       "venue": null,
@@ -5548,6 +5789,7 @@
     },
     {
       "id": "2026-02-07-manchester-united-tottenham",
+      "external_id": 538032,
       "kickoff_utc": "2026-02-07T12:30:00Z",
       "matchday": 25,
       "venue": null,
@@ -5571,6 +5813,7 @@
     },
     {
       "id": "2026-02-07-bournemouth-aston-villa",
+      "external_id": 538025,
       "kickoff_utc": "2026-02-07T15:00:00Z",
       "matchday": 25,
       "venue": null,
@@ -5594,6 +5837,7 @@
     },
     {
       "id": "2026-02-07-arsenal-sunderland",
+      "external_id": 538027,
       "kickoff_utc": "2026-02-07T15:00:00Z",
       "matchday": 25,
       "venue": null,
@@ -5617,6 +5861,7 @@
     },
     {
       "id": "2026-02-07-burnley-west-ham",
+      "external_id": 538028,
       "kickoff_utc": "2026-02-07T15:00:00Z",
       "matchday": 25,
       "venue": null,
@@ -5640,6 +5885,7 @@
     },
     {
       "id": "2026-02-07-fulham-everton",
+      "external_id": 538029,
       "kickoff_utc": "2026-02-07T15:00:00Z",
       "matchday": 25,
       "venue": null,
@@ -5663,6 +5909,7 @@
     },
     {
       "id": "2026-02-07-wolverhampton-wanderers-chelsea",
+      "external_id": 538034,
       "kickoff_utc": "2026-02-07T15:00:00Z",
       "matchday": 25,
       "venue": null,
@@ -5686,6 +5933,7 @@
     },
     {
       "id": "2026-02-07-newcastle-brentford",
+      "external_id": 538033,
       "kickoff_utc": "2026-02-07T17:30:00Z",
       "matchday": 25,
       "venue": null,
@@ -5709,6 +5957,7 @@
     },
     {
       "id": "2026-02-08-brighton-crystal-palace",
+      "external_id": 538026,
       "kickoff_utc": "2026-02-08T14:00:00Z",
       "matchday": 25,
       "venue": null,
@@ -5732,6 +5981,7 @@
     },
     {
       "id": "2026-02-08-liverpool-manchester-city",
+      "external_id": 538030,
       "kickoff_utc": "2026-02-08T16:30:00Z",
       "matchday": 25,
       "venue": null,
@@ -5755,6 +6005,7 @@
     },
     {
       "id": "2026-02-10-chelsea-leeds",
+      "external_id": 538039,
       "kickoff_utc": "2026-02-10T19:30:00Z",
       "matchday": 26,
       "venue": null,
@@ -5778,6 +6029,7 @@
     },
     {
       "id": "2026-02-10-everton-bournemouth",
+      "external_id": 538040,
       "kickoff_utc": "2026-02-10T19:30:00Z",
       "matchday": 26,
       "venue": null,
@@ -5801,6 +6053,7 @@
     },
     {
       "id": "2026-02-10-tottenham-newcastle",
+      "external_id": 538043,
       "kickoff_utc": "2026-02-10T19:30:00Z",
       "matchday": 26,
       "venue": null,
@@ -5824,6 +6077,7 @@
     },
     {
       "id": "2026-02-10-west-ham-manchester-united",
+      "external_id": 538044,
       "kickoff_utc": "2026-02-10T20:15:00Z",
       "matchday": 26,
       "venue": null,
@@ -5847,6 +6101,7 @@
     },
     {
       "id": "2026-02-11-aston-villa-brighton",
+      "external_id": 538036,
       "kickoff_utc": "2026-02-11T19:30:00Z",
       "matchday": 26,
       "venue": null,
@@ -5870,6 +6125,7 @@
     },
     {
       "id": "2026-02-11-manchester-city-fulham",
+      "external_id": 538041,
       "kickoff_utc": "2026-02-11T19:30:00Z",
       "matchday": 26,
       "venue": null,
@@ -5893,6 +6149,7 @@
     },
     {
       "id": "2026-02-11-nottingham-forest-wolverhampton-wanderers",
+      "external_id": 538042,
       "kickoff_utc": "2026-02-11T19:30:00Z",
       "matchday": 26,
       "venue": null,
@@ -5916,6 +6173,7 @@
     },
     {
       "id": "2026-02-11-crystal-palace-burnley",
+      "external_id": 538037,
       "kickoff_utc": "2026-02-11T19:40:00Z",
       "matchday": 26,
       "venue": null,
@@ -5939,6 +6197,7 @@
     },
     {
       "id": "2026-02-11-sunderland-liverpool",
+      "external_id": 538035,
       "kickoff_utc": "2026-02-11T20:15:00Z",
       "matchday": 26,
       "venue": null,
@@ -5962,6 +6221,7 @@
     },
     {
       "id": "2026-02-12-brentford-arsenal",
+      "external_id": 538038,
       "kickoff_utc": "2026-02-12T20:00:00Z",
       "matchday": 26,
       "venue": null,
@@ -5985,6 +6245,7 @@
     },
     {
       "id": "2026-02-18-wolverhampton-wanderers-arsenal",
+      "external_id": 538094,
       "kickoff_utc": "2026-02-18T20:00:00Z",
       "matchday": 31,
       "venue": null,
@@ -6008,6 +6269,7 @@
     },
     {
       "id": "2026-02-21-aston-villa-leeds",
+      "external_id": 538046,
       "kickoff_utc": "2026-02-21T15:00:00Z",
       "matchday": 27,
       "venue": null,
@@ -6031,6 +6293,7 @@
     },
     {
       "id": "2026-02-21-brentford-brighton",
+      "external_id": 538048,
       "kickoff_utc": "2026-02-21T15:00:00Z",
       "matchday": 27,
       "venue": null,
@@ -6054,6 +6317,7 @@
     },
     {
       "id": "2026-02-21-chelsea-burnley",
+      "external_id": 538049,
       "kickoff_utc": "2026-02-21T15:00:00Z",
       "matchday": 27,
       "venue": null,
@@ -6077,6 +6341,7 @@
     },
     {
       "id": "2026-02-21-west-ham-bournemouth",
+      "external_id": 538054,
       "kickoff_utc": "2026-02-21T17:30:00Z",
       "matchday": 27,
       "venue": null,
@@ -6100,6 +6365,7 @@
     },
     {
       "id": "2026-02-21-manchester-city-newcastle",
+      "external_id": 538051,
       "kickoff_utc": "2026-02-21T20:00:00Z",
       "matchday": 27,
       "venue": null,
@@ -6123,6 +6389,7 @@
     },
     {
       "id": "2026-02-22-sunderland-fulham",
+      "external_id": 538045,
       "kickoff_utc": "2026-02-22T14:00:00Z",
       "matchday": 27,
       "venue": null,
@@ -6146,6 +6413,7 @@
     },
     {
       "id": "2026-02-22-crystal-palace-wolverhampton-wanderers",
+      "external_id": 538047,
       "kickoff_utc": "2026-02-22T14:00:00Z",
       "matchday": 27,
       "venue": null,
@@ -6169,6 +6437,7 @@
     },
     {
       "id": "2026-02-22-nottingham-forest-liverpool",
+      "external_id": 538052,
       "kickoff_utc": "2026-02-22T14:00:00Z",
       "matchday": 27,
       "venue": null,
@@ -6192,6 +6461,7 @@
     },
     {
       "id": "2026-02-22-tottenham-arsenal",
+      "external_id": 538053,
       "kickoff_utc": "2026-02-22T16:30:00Z",
       "matchday": 27,
       "venue": null,
@@ -6215,6 +6485,7 @@
     },
     {
       "id": "2026-02-23-everton-manchester-united",
+      "external_id": 538050,
       "kickoff_utc": "2026-02-23T20:00:00Z",
       "matchday": 27,
       "venue": null,
@@ -6238,6 +6509,7 @@
     },
     {
       "id": "2026-02-27-wolverhampton-wanderers-aston-villa",
+      "external_id": 538064,
       "kickoff_utc": "2026-02-27T20:00:00Z",
       "matchday": 28,
       "venue": null,
@@ -6261,6 +6533,7 @@
     },
     {
       "id": "2026-02-28-bournemouth-sunderland",
+      "external_id": 538055,
       "kickoff_utc": "2026-02-28T12:30:00Z",
       "matchday": 28,
       "venue": null,
@@ -6284,6 +6557,7 @@
     },
     {
       "id": "2026-02-28-burnley-brentford",
+      "external_id": 538058,
       "kickoff_utc": "2026-02-28T15:00:00Z",
       "matchday": 28,
       "venue": null,
@@ -6307,6 +6581,7 @@
     },
     {
       "id": "2026-02-28-liverpool-west-ham",
+      "external_id": 538060,
       "kickoff_utc": "2026-02-28T15:00:00Z",
       "matchday": 28,
       "venue": null,
@@ -6330,6 +6605,7 @@
     },
     {
       "id": "2026-02-28-newcastle-everton",
+      "external_id": 538063,
       "kickoff_utc": "2026-02-28T15:00:00Z",
       "matchday": 28,
       "venue": null,
@@ -6353,6 +6629,7 @@
     },
     {
       "id": "2026-02-28-leeds-manchester-city",
+      "external_id": 538061,
       "kickoff_utc": "2026-02-28T17:30:00Z",
       "matchday": 28,
       "venue": null,
@@ -6376,6 +6653,7 @@
     },
     {
       "id": "2026-03-01-brighton-nottingham-forest",
+      "external_id": 538056,
       "kickoff_utc": "2026-03-01T14:00:00Z",
       "matchday": 28,
       "venue": null,
@@ -6399,6 +6677,7 @@
     },
     {
       "id": "2026-03-01-fulham-tottenham",
+      "external_id": 538059,
       "kickoff_utc": "2026-03-01T14:00:00Z",
       "matchday": 28,
       "venue": null,
@@ -6422,6 +6701,7 @@
     },
     {
       "id": "2026-03-01-manchester-united-crystal-palace",
+      "external_id": 538062,
       "kickoff_utc": "2026-03-01T14:00:00Z",
       "matchday": 28,
       "venue": null,
@@ -6445,6 +6725,7 @@
     },
     {
       "id": "2026-03-01-arsenal-chelsea",
+      "external_id": 538057,
       "kickoff_utc": "2026-03-01T16:30:00Z",
       "matchday": 28,
       "venue": null,
@@ -6468,6 +6749,7 @@
     },
     {
       "id": "2026-03-03-bournemouth-brentford",
+      "external_id": 538065,
       "kickoff_utc": "2026-03-03T19:30:00Z",
       "matchday": 29,
       "venue": null,
@@ -6491,6 +6773,7 @@
     },
     {
       "id": "2026-03-03-everton-burnley",
+      "external_id": 538068,
       "kickoff_utc": "2026-03-03T19:30:00Z",
       "matchday": 29,
       "venue": null,
@@ -6514,6 +6797,7 @@
     },
     {
       "id": "2026-03-03-leeds-sunderland",
+      "external_id": 538070,
       "kickoff_utc": "2026-03-03T19:30:00Z",
       "matchday": 29,
       "venue": null,
@@ -6537,6 +6821,7 @@
     },
     {
       "id": "2026-03-03-wolverhampton-wanderers-liverpool",
+      "external_id": 538074,
       "kickoff_utc": "2026-03-03T20:15:00Z",
       "matchday": 29,
       "venue": null,
@@ -6560,6 +6845,7 @@
     },
     {
       "id": "2026-03-04-aston-villa-chelsea",
+      "external_id": 538066,
       "kickoff_utc": "2026-03-04T19:30:00Z",
       "matchday": 29,
       "venue": null,
@@ -6583,6 +6869,7 @@
     },
     {
       "id": "2026-03-04-brighton-arsenal",
+      "external_id": 538067,
       "kickoff_utc": "2026-03-04T19:30:00Z",
       "matchday": 29,
       "venue": null,
@@ -6606,6 +6893,7 @@
     },
     {
       "id": "2026-03-04-fulham-west-ham",
+      "external_id": 538069,
       "kickoff_utc": "2026-03-04T19:30:00Z",
       "matchday": 29,
       "venue": null,
@@ -6629,6 +6917,7 @@
     },
     {
       "id": "2026-03-04-manchester-city-nottingham-forest",
+      "external_id": 538071,
       "kickoff_utc": "2026-03-04T19:30:00Z",
       "matchday": 29,
       "venue": null,
@@ -6652,6 +6941,7 @@
     },
     {
       "id": "2026-03-04-newcastle-manchester-united",
+      "external_id": 538072,
       "kickoff_utc": "2026-03-04T20:15:00Z",
       "matchday": 29,
       "venue": null,
@@ -6675,6 +6965,7 @@
     },
     {
       "id": "2026-03-05-tottenham-crystal-palace",
+      "external_id": 538073,
       "kickoff_utc": "2026-03-05T20:00:00Z",
       "matchday": 29,
       "venue": null,
@@ -6698,6 +6989,7 @@
     },
     {
       "id": "2026-03-14-sunderland-brighton",
+      "external_id": 538075,
       "kickoff_utc": "2026-03-14T15:00:00Z",
       "matchday": 30,
       "venue": null,
@@ -6721,6 +7013,7 @@
     },
     {
       "id": "2026-03-14-burnley-bournemouth",
+      "external_id": 538079,
       "kickoff_utc": "2026-03-14T15:00:00Z",
       "matchday": 30,
       "venue": null,
@@ -6744,6 +7037,7 @@
     },
     {
       "id": "2026-03-14-arsenal-everton",
+      "external_id": 538077,
       "kickoff_utc": "2026-03-14T17:30:00Z",
       "matchday": 30,
       "venue": null,
@@ -6767,6 +7061,7 @@
     },
     {
       "id": "2026-03-14-chelsea-newcastle",
+      "external_id": 538080,
       "kickoff_utc": "2026-03-14T17:30:00Z",
       "matchday": 30,
       "venue": null,
@@ -6790,6 +7085,7 @@
     },
     {
       "id": "2026-03-14-west-ham-manchester-city",
+      "external_id": 538084,
       "kickoff_utc": "2026-03-14T20:00:00Z",
       "matchday": 30,
       "venue": null,
@@ -6813,6 +7109,7 @@
     },
     {
       "id": "2026-03-15-crystal-palace-leeds",
+      "external_id": 538076,
       "kickoff_utc": "2026-03-15T14:00:00Z",
       "matchday": 30,
       "venue": null,
@@ -6836,6 +7133,7 @@
     },
     {
       "id": "2026-03-15-manchester-united-aston-villa",
+      "external_id": 538082,
       "kickoff_utc": "2026-03-15T14:00:00Z",
       "matchday": 30,
       "venue": null,
@@ -6859,6 +7157,7 @@
     },
     {
       "id": "2026-03-15-nottingham-forest-fulham",
+      "external_id": 538083,
       "kickoff_utc": "2026-03-15T14:00:00Z",
       "matchday": 30,
       "venue": null,
@@ -6882,6 +7181,7 @@
     },
     {
       "id": "2026-03-15-liverpool-tottenham",
+      "external_id": 538081,
       "kickoff_utc": "2026-03-15T16:30:00Z",
       "matchday": 30,
       "venue": null,
@@ -6905,6 +7205,7 @@
     },
     {
       "id": "2026-03-16-brentford-wolverhampton-wanderers",
+      "external_id": 538078,
       "kickoff_utc": "2026-03-16T20:00:00Z",
       "matchday": 30,
       "venue": null,
@@ -6928,6 +7229,7 @@
     },
     {
       "id": "2026-03-20-bournemouth-manchester-united",
+      "external_id": 538085,
       "kickoff_utc": "2026-03-20T20:00:00Z",
       "matchday": 31,
       "venue": null,
@@ -6951,6 +7253,7 @@
     },
     {
       "id": "2026-03-21-brighton-liverpool",
+      "external_id": 538087,
       "kickoff_utc": "2026-03-21T12:45:00Z",
       "matchday": 31,
       "venue": null,
@@ -6974,6 +7277,7 @@
     },
     {
       "id": "2026-03-21-fulham-burnley",
+      "external_id": 538089,
       "kickoff_utc": "2026-03-21T15:00:00Z",
       "matchday": 31,
       "venue": null,
@@ -6997,6 +7301,7 @@
     },
     {
       "id": "2026-03-21-everton-chelsea",
+      "external_id": 538088,
       "kickoff_utc": "2026-03-21T17:30:00Z",
       "matchday": 31,
       "venue": null,
@@ -7020,6 +7325,7 @@
     },
     {
       "id": "2026-03-21-leeds-brentford",
+      "external_id": 538090,
       "kickoff_utc": "2026-03-21T20:00:00Z",
       "matchday": 31,
       "venue": null,
@@ -7043,6 +7349,7 @@
     },
     {
       "id": "2026-03-22-newcastle-sunderland",
+      "external_id": 538092,
       "kickoff_utc": "2026-03-22T12:00:00Z",
       "matchday": 31,
       "venue": null,
@@ -7066,6 +7373,7 @@
     },
     {
       "id": "2026-03-22-aston-villa-west-ham",
+      "external_id": 538086,
       "kickoff_utc": "2026-03-22T14:15:00Z",
       "matchday": 31,
       "venue": null,
@@ -7089,6 +7397,7 @@
     },
     {
       "id": "2026-03-22-tottenham-nottingham-forest",
+      "external_id": 538093,
       "kickoff_utc": "2026-03-22T14:15:00Z",
       "matchday": 31,
       "venue": null,
@@ -7112,6 +7421,7 @@
     },
     {
       "id": "2026-04-10-west-ham-wolverhampton-wanderers",
+      "external_id": 538104,
       "kickoff_utc": "2026-04-10T19:00:00Z",
       "matchday": 32,
       "venue": null,
@@ -7135,6 +7445,7 @@
     },
     {
       "id": "2026-04-11-arsenal-bournemouth",
+      "external_id": 538097,
       "kickoff_utc": "2026-04-11T11:30:00Z",
       "matchday": 32,
       "venue": null,
@@ -7158,6 +7469,7 @@
     },
     {
       "id": "2026-04-11-brentford-everton",
+      "external_id": 538098,
       "kickoff_utc": "2026-04-11T14:00:00Z",
       "matchday": 32,
       "venue": null,
@@ -7181,6 +7493,7 @@
     },
     {
       "id": "2026-04-11-burnley-brighton",
+      "external_id": 538099,
       "kickoff_utc": "2026-04-11T14:00:00Z",
       "matchday": 32,
       "venue": null,
@@ -7204,6 +7517,7 @@
     },
     {
       "id": "2026-04-11-liverpool-fulham",
+      "external_id": 538101,
       "kickoff_utc": "2026-04-11T16:30:00Z",
       "matchday": 32,
       "venue": null,
@@ -7227,6 +7541,7 @@
     },
     {
       "id": "2026-04-12-sunderland-tottenham",
+      "external_id": 538095,
       "kickoff_utc": "2026-04-12T13:00:00Z",
       "matchday": 32,
       "venue": null,
@@ -7250,6 +7565,7 @@
     },
     {
       "id": "2026-04-12-crystal-palace-newcastle",
+      "external_id": 538096,
       "kickoff_utc": "2026-04-12T13:00:00Z",
       "matchday": 32,
       "venue": null,
@@ -7273,6 +7589,7 @@
     },
     {
       "id": "2026-04-12-nottingham-forest-aston-villa",
+      "external_id": 538103,
       "kickoff_utc": "2026-04-12T13:00:00Z",
       "matchday": 32,
       "venue": null,
@@ -7296,6 +7613,7 @@
     },
     {
       "id": "2026-04-12-chelsea-manchester-city",
+      "external_id": 538100,
       "kickoff_utc": "2026-04-12T15:30:00Z",
       "matchday": 32,
       "venue": null,
@@ -7319,6 +7637,7 @@
     },
     {
       "id": "2026-04-13-manchester-united-leeds",
+      "external_id": 538102,
       "kickoff_utc": "2026-04-13T19:00:00Z",
       "matchday": 32,
       "venue": null,
@@ -7342,6 +7661,7 @@
     },
     {
       "id": "2026-04-18-brentford-fulham",
+      "external_id": 538107,
       "kickoff_utc": "2026-04-18T11:30:00Z",
       "matchday": 33,
       "venue": null,
@@ -7365,6 +7685,7 @@
     },
     {
       "id": "2026-04-18-newcastle-bournemouth",
+      "external_id": 538112,
       "kickoff_utc": "2026-04-18T14:00:00Z",
       "matchday": 33,
       "venue": null,
@@ -7388,6 +7709,7 @@
     },
     {
       "id": "2026-04-18-leeds-wolverhampton-wanderers",
+      "external_id": 538110,
       "kickoff_utc": "2026-04-18T14:00:00Z",
       "matchday": 33,
       "venue": null,
@@ -7411,6 +7733,7 @@
     },
     {
       "id": "2026-04-18-tottenham-brighton",
+      "external_id": 538114,
       "kickoff_utc": "2026-04-18T16:30:00Z",
       "matchday": 33,
       "venue": null,
@@ -7434,6 +7757,7 @@
     },
     {
       "id": "2026-04-18-chelsea-manchester-united",
+      "external_id": 538108,
       "kickoff_utc": "2026-04-18T19:00:00Z",
       "matchday": 33,
       "venue": null,
@@ -7457,6 +7781,7 @@
     },
     {
       "id": "2026-04-19-nottingham-forest-burnley",
+      "external_id": 538113,
       "kickoff_utc": "2026-04-19T13:00:00Z",
       "matchday": 33,
       "venue": null,
@@ -7480,6 +7805,7 @@
     },
     {
       "id": "2026-04-19-aston-villa-sunderland",
+      "external_id": 538105,
       "kickoff_utc": "2026-04-19T13:00:00Z",
       "matchday": 33,
       "venue": null,
@@ -7503,6 +7829,7 @@
     },
     {
       "id": "2026-04-19-everton-liverpool",
+      "external_id": 538109,
       "kickoff_utc": "2026-04-19T13:00:00Z",
       "matchday": 33,
       "venue": null,
@@ -7526,6 +7853,7 @@
     },
     {
       "id": "2026-04-19-manchester-city-arsenal",
+      "external_id": 538111,
       "kickoff_utc": "2026-04-19T15:30:00Z",
       "matchday": 33,
       "venue": null,
@@ -7549,6 +7877,7 @@
     },
     {
       "id": "2026-04-20-crystal-palace-west-ham",
+      "external_id": 538106,
       "kickoff_utc": "2026-04-20T19:00:00Z",
       "matchday": 33,
       "venue": null,
@@ -7572,6 +7901,7 @@
     },
     {
       "id": "2026-04-21-brighton-chelsea",
+      "external_id": 538117,
       "kickoff_utc": "2026-04-21T19:00:00Z",
       "matchday": 34,
       "venue": null,
@@ -7595,6 +7925,7 @@
     },
     {
       "id": "2026-04-22-bournemouth-leeds",
+      "external_id": 538115,
       "kickoff_utc": "2026-04-22T19:00:00Z",
       "matchday": 34,
       "venue": null,
@@ -7618,6 +7949,7 @@
     },
     {
       "id": "2026-04-22-burnley-manchester-city",
+      "external_id": 538119,
       "kickoff_utc": "2026-04-22T19:00:00Z",
       "matchday": 34,
       "venue": null,
@@ -7641,6 +7973,7 @@
     },
     {
       "id": "2026-04-24-sunderland-nottingham-forest",
+      "external_id": 538116,
       "kickoff_utc": "2026-04-24T19:00:00Z",
       "matchday": 34,
       "venue": null,
@@ -7664,6 +7997,7 @@
     },
     {
       "id": "2026-04-25-fulham-aston-villa",
+      "external_id": 538120,
       "kickoff_utc": "2026-04-25T11:30:00Z",
       "matchday": 34,
       "venue": null,
@@ -7687,6 +8021,7 @@
     },
     {
       "id": "2026-04-25-liverpool-crystal-palace",
+      "external_id": 538121,
       "kickoff_utc": "2026-04-25T14:00:00Z",
       "matchday": 34,
       "venue": null,
@@ -7710,6 +8045,7 @@
     },
     {
       "id": "2026-04-25-west-ham-everton",
+      "external_id": 538123,
       "kickoff_utc": "2026-04-25T14:00:00Z",
       "matchday": 34,
       "venue": null,
@@ -7733,6 +8069,7 @@
     },
     {
       "id": "2026-04-25-wolverhampton-wanderers-tottenham",
+      "external_id": 538124,
       "kickoff_utc": "2026-04-25T14:00:00Z",
       "matchday": 34,
       "venue": null,
@@ -7756,6 +8093,7 @@
     },
     {
       "id": "2026-04-25-arsenal-newcastle",
+      "external_id": 538118,
       "kickoff_utc": "2026-04-25T16:30:00Z",
       "matchday": 34,
       "venue": null,
@@ -7779,6 +8117,7 @@
     },
     {
       "id": "2026-04-27-manchester-united-brentford",
+      "external_id": 538122,
       "kickoff_utc": "2026-04-27T19:00:00Z",
       "matchday": 34,
       "venue": null,
@@ -7802,10 +8141,11 @@
     },
     {
       "id": "2026-05-01-leeds-burnley",
+      "external_id": 538131,
       "kickoff_utc": "2026-05-01T19:00:00Z",
       "matchday": 35,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "leeds",
         "name": "Leeds",
@@ -7819,12 +8159,13 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/burnley.png"
       },
       "score": {
-        "home": 1,
-        "away": 0
+        "home": 3,
+        "away": 1
       }
     },
     {
       "id": "2026-05-02-brentford-west-ham",
+      "external_id": 538128,
       "kickoff_utc": "2026-05-02T14:00:00Z",
       "matchday": 35,
       "venue": null,
@@ -7845,6 +8186,7 @@
     },
     {
       "id": "2026-05-02-newcastle-brighton",
+      "external_id": 538133,
       "kickoff_utc": "2026-05-02T14:00:00Z",
       "matchday": 35,
       "venue": null,
@@ -7865,6 +8207,7 @@
     },
     {
       "id": "2026-05-02-wolverhampton-wanderers-sunderland",
+      "external_id": 538134,
       "kickoff_utc": "2026-05-02T14:00:00Z",
       "matchday": 35,
       "venue": null,
@@ -7885,6 +8228,7 @@
     },
     {
       "id": "2026-05-02-arsenal-fulham",
+      "external_id": 538127,
       "kickoff_utc": "2026-05-02T16:30:00Z",
       "matchday": 35,
       "venue": null,
@@ -7905,6 +8249,7 @@
     },
     {
       "id": "2026-05-03-bournemouth-crystal-palace",
+      "external_id": 538125,
       "kickoff_utc": "2026-05-03T13:00:00Z",
       "matchday": 35,
       "venue": null,
@@ -7925,6 +8270,7 @@
     },
     {
       "id": "2026-05-03-manchester-united-liverpool",
+      "external_id": 538132,
       "kickoff_utc": "2026-05-03T14:30:00Z",
       "matchday": 35,
       "venue": null,
@@ -7945,6 +8291,7 @@
     },
     {
       "id": "2026-05-03-aston-villa-tottenham",
+      "external_id": 538126,
       "kickoff_utc": "2026-05-03T18:00:00Z",
       "matchday": 35,
       "venue": null,
@@ -7965,6 +8312,7 @@
     },
     {
       "id": "2026-05-04-chelsea-nottingham-forest",
+      "external_id": 538129,
       "kickoff_utc": "2026-05-04T14:00:00Z",
       "matchday": 35,
       "venue": null,
@@ -7985,6 +8333,7 @@
     },
     {
       "id": "2026-05-04-everton-manchester-city",
+      "external_id": 538130,
       "kickoff_utc": "2026-05-04T19:00:00Z",
       "matchday": 35,
       "venue": null,
@@ -8005,6 +8354,7 @@
     },
     {
       "id": "2026-05-09-liverpool-chelsea",
+      "external_id": 538140,
       "kickoff_utc": "2026-05-09T11:30:00Z",
       "matchday": 36,
       "venue": null,
@@ -8025,6 +8375,7 @@
     },
     {
       "id": "2026-05-09-sunderland-manchester-united",
+      "external_id": 538135,
       "kickoff_utc": "2026-05-09T14:00:00Z",
       "matchday": 36,
       "venue": null,
@@ -8045,6 +8396,7 @@
     },
     {
       "id": "2026-05-09-brighton-wolverhampton-wanderers",
+      "external_id": 538136,
       "kickoff_utc": "2026-05-09T14:00:00Z",
       "matchday": 36,
       "venue": null,
@@ -8065,6 +8417,7 @@
     },
     {
       "id": "2026-05-09-fulham-bournemouth",
+      "external_id": 538139,
       "kickoff_utc": "2026-05-09T14:00:00Z",
       "matchday": 36,
       "venue": null,
@@ -8085,6 +8438,7 @@
     },
     {
       "id": "2026-05-09-manchester-city-brentford",
+      "external_id": 538141,
       "kickoff_utc": "2026-05-09T16:30:00Z",
       "matchday": 36,
       "venue": null,
@@ -8105,6 +8459,7 @@
     },
     {
       "id": "2026-05-10-crystal-palace-everton",
+      "external_id": 538137,
       "kickoff_utc": "2026-05-10T13:00:00Z",
       "matchday": 36,
       "venue": null,
@@ -8125,6 +8480,7 @@
     },
     {
       "id": "2026-05-10-burnley-aston-villa",
+      "external_id": 538138,
       "kickoff_utc": "2026-05-10T13:00:00Z",
       "matchday": 36,
       "venue": null,
@@ -8145,6 +8501,7 @@
     },
     {
       "id": "2026-05-10-nottingham-forest-newcastle",
+      "external_id": 538142,
       "kickoff_utc": "2026-05-10T13:00:00Z",
       "matchday": 36,
       "venue": null,
@@ -8165,6 +8522,7 @@
     },
     {
       "id": "2026-05-10-west-ham-arsenal",
+      "external_id": 538144,
       "kickoff_utc": "2026-05-10T15:30:00Z",
       "matchday": 36,
       "venue": null,
@@ -8185,6 +8543,7 @@
     },
     {
       "id": "2026-05-11-tottenham-leeds",
+      "external_id": 538143,
       "kickoff_utc": "2026-05-11T19:00:00Z",
       "matchday": 36,
       "venue": null,
@@ -8205,6 +8564,7 @@
     },
     {
       "id": "2026-05-13-manchester-city-crystal-palace",
+      "external_id": 538091,
       "kickoff_utc": "2026-05-13T19:00:00Z",
       "matchday": 31,
       "venue": null,
@@ -8225,6 +8585,7 @@
     },
     {
       "id": "2026-05-17-aston-villa-liverpool",
+      "external_id": 538146,
       "kickoff_utc": "2026-05-17T11:30:00Z",
       "matchday": 37,
       "venue": null,
@@ -8245,6 +8606,7 @@
     },
     {
       "id": "2026-05-17-manchester-united-nottingham-forest",
+      "external_id": 538152,
       "kickoff_utc": "2026-05-17T11:30:00Z",
       "matchday": 37,
       "venue": null,
@@ -8265,6 +8627,7 @@
     },
     {
       "id": "2026-05-17-brentford-crystal-palace",
+      "external_id": 538148,
       "kickoff_utc": "2026-05-17T14:00:00Z",
       "matchday": 37,
       "venue": null,
@@ -8285,6 +8648,7 @@
     },
     {
       "id": "2026-05-17-everton-sunderland",
+      "external_id": 538150,
       "kickoff_utc": "2026-05-17T14:00:00Z",
       "matchday": 37,
       "venue": null,
@@ -8305,6 +8669,7 @@
     },
     {
       "id": "2026-05-17-leeds-brighton",
+      "external_id": 538151,
       "kickoff_utc": "2026-05-17T14:00:00Z",
       "matchday": 37,
       "venue": null,
@@ -8325,6 +8690,7 @@
     },
     {
       "id": "2026-05-17-wolverhampton-wanderers-fulham",
+      "external_id": 538154,
       "kickoff_utc": "2026-05-17T14:00:00Z",
       "matchday": 37,
       "venue": null,
@@ -8345,6 +8711,7 @@
     },
     {
       "id": "2026-05-17-newcastle-west-ham",
+      "external_id": 538153,
       "kickoff_utc": "2026-05-17T16:30:00Z",
       "matchday": 37,
       "venue": null,
@@ -8365,6 +8732,7 @@
     },
     {
       "id": "2026-05-18-arsenal-burnley",
+      "external_id": 538147,
       "kickoff_utc": "2026-05-18T19:00:00Z",
       "matchday": 37,
       "venue": null,
@@ -8385,6 +8753,7 @@
     },
     {
       "id": "2026-05-19-bournemouth-manchester-city",
+      "external_id": 538145,
       "kickoff_utc": "2026-05-19T18:30:00Z",
       "matchday": 37,
       "venue": null,
@@ -8405,6 +8774,7 @@
     },
     {
       "id": "2026-05-19-chelsea-tottenham",
+      "external_id": 538149,
       "kickoff_utc": "2026-05-19T19:15:00Z",
       "matchday": 37,
       "venue": null,
@@ -8425,6 +8795,7 @@
     },
     {
       "id": "2026-05-24-sunderland-chelsea",
+      "external_id": 538155,
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
@@ -8445,6 +8816,7 @@
     },
     {
       "id": "2026-05-24-brighton-manchester-united",
+      "external_id": 538156,
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
@@ -8465,6 +8837,7 @@
     },
     {
       "id": "2026-05-24-crystal-palace-arsenal",
+      "external_id": 538157,
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
@@ -8485,6 +8858,7 @@
     },
     {
       "id": "2026-05-24-burnley-wolverhampton-wanderers",
+      "external_id": 538158,
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
@@ -8505,6 +8879,7 @@
     },
     {
       "id": "2026-05-24-fulham-newcastle",
+      "external_id": 538159,
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
@@ -8525,6 +8900,7 @@
     },
     {
       "id": "2026-05-24-liverpool-brentford",
+      "external_id": 538160,
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
@@ -8545,6 +8921,7 @@
     },
     {
       "id": "2026-05-24-manchester-city-aston-villa",
+      "external_id": 538161,
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
@@ -8565,6 +8942,7 @@
     },
     {
       "id": "2026-05-24-nottingham-forest-bournemouth",
+      "external_id": 538162,
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
@@ -8585,6 +8963,7 @@
     },
     {
       "id": "2026-05-24-tottenham-everton",
+      "external_id": 538163,
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
@@ -8605,6 +8984,7 @@
     },
     {
       "id": "2026-05-24-west-ham-leeds",
+      "external_id": 538164,
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
