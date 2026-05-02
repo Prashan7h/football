@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-02T14:00:00Z",
     "matchday": 35,
     "venue": null,
-    "status": "scheduled",
+    "status": "live",
     "home": {
       "slug": "newcastle",
       "name": "Newcastle",
@@ -18,7 +18,10 @@
       "primary": "#0057B8",
       "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
     },
-    "score": null
+    "score": {
+      "home": 2,
+      "away": 0
+    }
   },
   "preview": null,
   "review": null

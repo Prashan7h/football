@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-02T14:00:00Z",
     "matchday": 35,
     "venue": null,
-    "status": "scheduled",
+    "status": "live",
     "home": {
       "slug": "brentford",
       "name": "Brentford",
@@ -18,7 +18,10 @@
       "primary": "#7A263A",
       "crest": "https://prashan7h.github.io/football/assets/crests/west-ham.png"
     },
-    "score": null
+    "score": {
+      "home": 1,
+      "away": 1
+    }
   },
   "preview": null,
   "review": null
