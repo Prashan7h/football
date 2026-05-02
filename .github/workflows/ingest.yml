@@ -9,6 +9,8 @@ on:
     - cron: '*/15 11-22 * * 0,6'
     # Weekday evenings: every 15 min, 18:00–22:45 UTC, Mon–Fri (covers midweek + Mon/Fri kickoffs)
     - cron: '*/15 18-22 * * 1-5'
+    # Post-match stats every 30 min (Fri–Mon only, but global is OK — harmless when no new finishes)
+    - cron: '*/30 * * * *'
 
 permissions:
   contents: write
@@ -32,9 +34,14 @@ jobs:
           FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
         run: python scripts/ingest_football_data.py
 
-      # - name: Ingest Understat (shot-level)
-      #   run: python scripts/ingest_understat.py
-      #
+      - name: Ingest Understat (shot-level data for finished matches)
+        run: python scripts/ingest_understat.py
+
+      - name: Ingest API-Football (goals, cards, subs, lineups for finished matches)
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: python scripts/ingest_api_football.py
+
       # - name: Fit Dixon–Coles model
       #   run: python scripts/model_dixon_coles.py
 
