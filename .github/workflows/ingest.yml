@@ -35,6 +35,7 @@ jobs:
         run: python scripts/ingest_football_data.py
 
       - name: Ingest Understat (shot-level data for finished matches)
+        continue-on-error: true
         run: python scripts/ingest_understat.py
 
       - name: Ingest API-Football (goals, cards, subs, lineups for finished matches)
