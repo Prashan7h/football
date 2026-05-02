@@ -9,13 +9,13 @@
       "slug": "brentford",
       "name": "Brentford",
       "primary": "#E30613",
-      "crest": "https://crests.football-data.org/402.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
     },
     "away": {
       "slug": "everton",
       "name": "Everton",
       "primary": "#003399",
-      "crest": "https://crests.football-data.org/62.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
     },
     "score": {
       "home": 2,

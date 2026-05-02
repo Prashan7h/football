@@ -9,13 +9,13 @@
       "slug": "brighton",
       "name": "Brighton",
       "primary": "#0057B8",
-      "crest": "https://crests.football-data.org/397.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
     },
     "away": {
       "slug": "aston-villa",
       "name": "Aston Villa",
       "primary": "#670E36",
-      "crest": "https://crests.football-data.org/58.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
     },
     "score": {
       "home": 3,

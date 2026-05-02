@@ -30,6 +30,10 @@ ASSETS = ROOT / "assets"
 API_BASE = "https://api.football-data.org/v4"
 PL_CODE = "PL"
 
+# Crests are mirrored to assets/crests/<slug>.png and served from our Pages site
+# so the app does not depend on football-data.org's CDN at runtime.
+CRESTS_BASE = "https://prashan7h.github.io/football/assets/crests"
+
 STATUS_MAP = {
     "SCHEDULED": "scheduled",
     "TIMED": "scheduled",
@@ -101,7 +105,7 @@ def team_block(team: dict, clubs: dict) -> dict:
         "slug": slug,
         "name": palette.get("name") or team.get("shortName") or team["name"],
         "primary": palette["primary"],
-        "crest": team.get("crest"),
+        "crest": f"{CRESTS_BASE}/{slug}.png",
     }
 
 

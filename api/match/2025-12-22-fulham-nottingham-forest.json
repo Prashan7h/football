@@ -9,13 +9,13 @@
       "slug": "fulham",
       "name": "Fulham",
       "primary": "#000000",
-      "crest": "https://crests.football-data.org/63.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
     },
     "away": {
       "slug": "nottingham-forest",
       "name": "Nottingham Forest",
       "primary": "#DD0000",
-      "crest": "https://crests.football-data.org/351.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
     },
     "score": {
       "home": 1,

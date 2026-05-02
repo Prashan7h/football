@@ -9,13 +9,13 @@
       "slug": "burnley",
       "name": "Burnley",
       "primary": "#6C1D45",
-      "crest": "https://crests.football-data.org/328.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/burnley.png"
     },
     "away": {
       "slug": "aston-villa",
       "name": "Aston Villa",
       "primary": "#670E36",
-      "crest": "https://crests.football-data.org/58.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
     },
     "score": null
   },

@@ -9,13 +9,13 @@
       "slug": "crystal-palace",
       "name": "Crystal Palace",
       "primary": "#1B458F",
-      "crest": "https://crests.football-data.org/354.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
     },
     "away": {
       "slug": "sunderland",
       "name": "Unknown",
       "primary": "#5A6470",
-      "crest": "https://crests.football-data.org/71.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
     },
     "score": {
       "home": 0,

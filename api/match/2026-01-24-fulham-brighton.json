@@ -9,13 +9,13 @@
       "slug": "fulham",
       "name": "Fulham",
       "primary": "#000000",
-      "crest": "https://crests.football-data.org/63.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
     },
     "away": {
       "slug": "brighton",
       "name": "Brighton",
       "primary": "#0057B8",
-      "crest": "https://crests.football-data.org/397.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
     },
     "score": {
       "home": 2,

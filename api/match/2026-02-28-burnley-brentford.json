@@ -9,13 +9,13 @@
       "slug": "burnley",
       "name": "Burnley",
       "primary": "#6C1D45",
-      "crest": "https://crests.football-data.org/328.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/burnley.png"
     },
     "away": {
       "slug": "brentford",
       "name": "Brentford",
       "primary": "#E30613",
-      "crest": "https://crests.football-data.org/402.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
     },
     "score": {
       "home": 3,

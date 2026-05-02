@@ -9,13 +9,13 @@
       "slug": "nottingham-forest",
       "name": "Nottingham Forest",
       "primary": "#DD0000",
-      "crest": "https://crests.football-data.org/351.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
     },
     "away": {
       "slug": "crystal-palace",
       "name": "Crystal Palace",
       "primary": "#1B458F",
-      "crest": "https://crests.football-data.org/354.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
     },
     "score": {
       "home": 1,

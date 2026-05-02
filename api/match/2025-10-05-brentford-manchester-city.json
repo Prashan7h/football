@@ -9,13 +9,13 @@
       "slug": "brentford",
       "name": "Brentford",
       "primary": "#E30613",
-      "crest": "https://crests.football-data.org/402.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
     },
     "away": {
       "slug": "manchester-city",
       "name": "Manchester City",
       "primary": "#6CABDD",
-      "crest": "https://crests.football-data.org/65.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
     },
     "score": {
       "home": 0,

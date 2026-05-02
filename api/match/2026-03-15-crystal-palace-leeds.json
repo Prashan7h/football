@@ -9,13 +9,13 @@
       "slug": "crystal-palace",
       "name": "Crystal Palace",
       "primary": "#1B458F",
-      "crest": "https://crests.football-data.org/354.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
     },
     "away": {
       "slug": "leeds",
       "name": "Leeds",
       "primary": "#FFCD00",
-      "crest": "https://crests.football-data.org/341.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
     },
     "score": {
       "home": 0,

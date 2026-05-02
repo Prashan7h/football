@@ -9,13 +9,13 @@
       "slug": "sunderland",
       "name": "Unknown",
       "primary": "#5A6470",
-      "crest": "https://crests.football-data.org/71.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
     },
     "away": {
       "slug": "chelsea",
       "name": "Chelsea",
       "primary": "#034694",
-      "crest": "https://crests.football-data.org/61.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
     },
     "score": null
   },

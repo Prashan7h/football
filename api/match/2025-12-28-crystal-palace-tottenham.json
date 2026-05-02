@@ -9,13 +9,13 @@
       "slug": "crystal-palace",
       "name": "Crystal Palace",
       "primary": "#1B458F",
-      "crest": "https://crests.football-data.org/354.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
     },
     "away": {
       "slug": "tottenham",
       "name": "Tottenham",
       "primary": "#132257",
-      "crest": "https://crests.football-data.org/73.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
     },
     "score": {
       "home": 0,

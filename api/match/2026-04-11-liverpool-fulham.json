@@ -9,13 +9,13 @@
       "slug": "liverpool",
       "name": "Liverpool",
       "primary": "#C8102E",
-      "crest": "https://crests.football-data.org/64.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
     },
     "away": {
       "slug": "fulham",
       "name": "Fulham",
       "primary": "#000000",
-      "crest": "https://crests.football-data.org/63.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
     },
     "score": {
       "home": 2,

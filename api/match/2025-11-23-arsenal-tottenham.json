@@ -9,13 +9,13 @@
       "slug": "arsenal",
       "name": "Arsenal",
       "primary": "#EF0107",
-      "crest": "https://crests.football-data.org/57.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
     },
     "away": {
       "slug": "tottenham",
       "name": "Tottenham",
       "primary": "#132257",
-      "crest": "https://crests.football-data.org/73.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
     },
     "score": {
       "home": 4,

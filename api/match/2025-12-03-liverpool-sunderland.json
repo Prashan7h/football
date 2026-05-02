@@ -9,13 +9,13 @@
       "slug": "liverpool",
       "name": "Liverpool",
       "primary": "#C8102E",
-      "crest": "https://crests.football-data.org/64.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
     },
     "away": {
       "slug": "sunderland",
       "name": "Unknown",
       "primary": "#5A6470",
-      "crest": "https://crests.football-data.org/71.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
     },
     "score": {
       "home": 1,

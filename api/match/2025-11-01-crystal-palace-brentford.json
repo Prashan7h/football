@@ -9,13 +9,13 @@
       "slug": "crystal-palace",
       "name": "Crystal Palace",
       "primary": "#1B458F",
-      "crest": "https://crests.football-data.org/354.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
     },
     "away": {
       "slug": "brentford",
       "name": "Brentford",
       "primary": "#E30613",
-      "crest": "https://crests.football-data.org/402.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
     },
     "score": {
       "home": 2,

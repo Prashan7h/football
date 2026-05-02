@@ -9,13 +9,13 @@
       "slug": "newcastle",
       "name": "Newcastle",
       "primary": "#241F20",
-      "crest": "https://crests.football-data.org/67.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
     },
     "away": {
       "slug": "manchester-united",
       "name": "Manchester United",
       "primary": "#DA291C",
-      "crest": "https://crests.football-data.org/66.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-united.png"
     },
     "score": {
       "home": 2,

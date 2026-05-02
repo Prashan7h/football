@@ -9,13 +9,13 @@
       "slug": "newcastle",
       "name": "Newcastle",
       "primary": "#241F20",
-      "crest": "https://crests.football-data.org/67.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
     },
     "away": {
       "slug": "wolverhampton-wanderers",
       "name": "Wolves",
       "primary": "#FDB913",
-      "crest": "https://crests.football-data.org/76.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/wolverhampton-wanderers.png"
     },
     "score": {
       "home": 1,

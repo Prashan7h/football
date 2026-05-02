@@ -9,13 +9,13 @@
       "slug": "chelsea",
       "name": "Chelsea",
       "primary": "#034694",
-      "crest": "https://crests.football-data.org/61.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
     },
     "away": {
       "slug": "west-ham",
       "name": "West Ham",
       "primary": "#7A263A",
-      "crest": "https://crests.football-data.org/563.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/west-ham.png"
     },
     "score": {
       "home": 3,

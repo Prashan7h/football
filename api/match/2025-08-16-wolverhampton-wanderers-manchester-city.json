@@ -9,13 +9,13 @@
       "slug": "wolverhampton-wanderers",
       "name": "Wolves",
       "primary": "#FDB913",
-      "crest": "https://crests.football-data.org/76.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/wolverhampton-wanderers.png"
     },
     "away": {
       "slug": "manchester-city",
       "name": "Manchester City",
       "primary": "#6CABDD",
-      "crest": "https://crests.football-data.org/65.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
     },
     "score": {
       "home": 0,

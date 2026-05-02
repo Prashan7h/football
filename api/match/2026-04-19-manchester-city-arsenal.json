@@ -9,13 +9,13 @@
       "slug": "manchester-city",
       "name": "Manchester City",
       "primary": "#6CABDD",
-      "crest": "https://crests.football-data.org/65.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
     },
     "away": {
       "slug": "arsenal",
       "name": "Arsenal",
       "primary": "#EF0107",
-      "crest": "https://crests.football-data.org/57.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
     },
     "score": {
       "home": 2,

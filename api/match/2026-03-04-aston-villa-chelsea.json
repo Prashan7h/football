@@ -9,13 +9,13 @@
       "slug": "aston-villa",
       "name": "Aston Villa",
       "primary": "#670E36",
-      "crest": "https://crests.football-data.org/58.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
     },
     "away": {
       "slug": "chelsea",
       "name": "Chelsea",
       "primary": "#034694",
-      "crest": "https://crests.football-data.org/61.png"
+      "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
     },
     "score": {
       "home": 1,
