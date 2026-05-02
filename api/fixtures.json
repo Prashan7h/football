@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 35,
-  "updated_at": "2026-05-02T14:57:52Z",
+  "updated_at": "2026-05-02T15:41:25Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8183,7 +8183,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/west-ham.png"
       },
       "score": {
-        "home": 1,
+        "home": 2,
         "away": 0
       }
     },
@@ -8208,7 +8208,7 @@
       },
       "score": {
         "home": 2,
-        "away": 0
+        "away": 1
       }
     },
     {
@@ -8231,7 +8231,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
       },
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 1
       }
     },
