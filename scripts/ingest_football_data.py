@@ -141,6 +141,7 @@ def normalise_match(m: dict, clubs: dict) -> dict:
 
     return {
         "id": mid,
+        "external_id": m.get("id"),
         "kickoff_utc": kickoff,
         "matchday": m.get("matchday"),
         "venue": m.get("venue"),
