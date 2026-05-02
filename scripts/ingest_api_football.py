@@ -85,27 +85,16 @@ def api_get(key: str, path: str, params: dict | None = None) -> dict:
     return body
 
 
-def build_fixture_index(key: str) -> dict[tuple[str, str, str], int]:
-    """(date, home_slug, away_slug) → api-football fixture id."""
-    print("Fetching API-Football PL fixture list…")
-    body = api_get(key, "/fixtures", {"league": PL_LEAGUE_ID, "season": SEASON})
-    index: dict[tuple[str, str, str], int] = {}
+def lookup_fixture_id(key: str, date: str, home_slug: str, away_slug: str) -> int | None:
+    """Fetch fixtures for a specific date+league to find the API-Football fixture id.
+    Uses date-based lookup to avoid the season restriction on free plans."""
+    body = api_get(key, "/fixtures", {"date": date, "league": PL_LEAGUE_ID})
     for f in body.get("response", []):
-        fixture_id = f["fixture"]["id"]
-        date = f["fixture"]["date"][:10]
-        home = NAME_TO_SLUG.get(f["teams"]["home"]["name"])
-        away = NAME_TO_SLUG.get(f["teams"]["away"]["name"])
-        if home and away:
-            index[(date, home, away)] = fixture_id
-        else:
-            h_raw = f["teams"]["home"]["name"]
-            a_raw = f["teams"]["away"]["name"]
-            if not home:
-                print(f"  WARN: unknown home team '{h_raw}'", file=sys.stderr)
-            if not away:
-                print(f"  WARN: unknown away team '{a_raw}'", file=sys.stderr)
-    print(f"Indexed {len(index)} API-Football fixtures.")
-    return index
+        h = NAME_TO_SLUG.get(f["teams"]["home"]["name"])
+        a = NAME_TO_SLUG.get(f["teams"]["away"]["name"])
+        if h == home_slug and a == away_slug:
+            return f["fixture"]["id"]
+    return None
 
 
 def normalise_events(raw: list[dict], home_slug: str, away_slug: str) -> list[dict]:
@@ -196,16 +185,33 @@ def main() -> int:
         return 0
     print(f"Found {len(to_process)} matches to augment.")
 
-    index = build_fixture_index(key)
-
     augmented = skipped = failed = 0
+    # Cache date → list of fixtures so we only call /fixtures?date= once per date
+    date_cache: dict[str, dict[tuple[str, str], int]] = {}
 
     for our_match in to_process:
         date = our_match["kickoff_utc"][:10]
-        key_tuple = (date, our_match["home"]["slug"], our_match["away"]["slug"])
-        af_id = index.get(key_tuple)
+        home_slug = our_match["home"]["slug"]
+        away_slug = our_match["away"]["slug"]
+
+        # Build per-date cache on first encounter
+        if date not in date_cache:
+            try:
+                body = api_get(key, "/fixtures", {"date": date, "league": PL_LEAGUE_ID})
+                date_cache[date] = {}
+                for f in body.get("response", []):
+                    h = NAME_TO_SLUG.get(f["teams"]["home"]["name"])
+                    a = NAME_TO_SLUG.get(f["teams"]["away"]["name"])
+                    if h and a:
+                        date_cache[date][(h, a)] = f["fixture"]["id"]
+                time.sleep(0.3)
+            except Exception as e:
+                print(f"  FAIL fetching fixtures for {date}: {e}", file=sys.stderr)
+                date_cache[date] = {}
+
+        af_id = date_cache[date].get((home_slug, away_slug))
         if not af_id:
-            print(f"  SKIP {our_match['id']}: no API-Football fixture found for {key_tuple}")
+            print(f"  SKIP {our_match['id']}: no API-Football fixture for {date} {home_slug} vs {away_slug}")
             skipped += 1
             continue
 
