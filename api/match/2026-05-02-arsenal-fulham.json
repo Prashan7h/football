@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-02T16:30:00Z",
     "matchday": 35,
     "venue": null,
-    "status": "scheduled",
+    "status": "live",
     "home": {
       "slug": "arsenal",
       "name": "Arsenal",
@@ -18,7 +18,10 @@
       "primary": "#000000",
       "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
     },
-    "score": null
+    "score": {
+      "home": 3,
+      "away": 0
+    }
   },
   "preview": null,
   "review": null

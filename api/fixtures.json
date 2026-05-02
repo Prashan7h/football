@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 35,
-  "updated_at": "2026-05-02T16:30:46Z",
+  "updated_at": "2026-05-02T17:30:25Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8241,7 +8241,7 @@
       "kickoff_utc": "2026-05-02T16:30:00Z",
       "matchday": 35,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "arsenal",
         "name": "Arsenal",
@@ -8254,7 +8254,10 @@
         "primary": "#000000",
         "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
       },
-      "score": null
+      "score": {
+        "home": 3,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-03-bournemouth-crystal-palace",
