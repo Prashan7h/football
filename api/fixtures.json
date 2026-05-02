@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 35,
-  "updated_at": "2026-05-02T15:53:58Z",
+  "updated_at": "2026-05-02T16:30:46Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8169,7 +8169,7 @@
       "kickoff_utc": "2026-05-02T14:00:00Z",
       "matchday": 35,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "brentford",
         "name": "Brentford",
@@ -8193,7 +8193,7 @@
       "kickoff_utc": "2026-05-02T14:00:00Z",
       "matchday": 35,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "newcastle",
         "name": "Newcastle",
@@ -8207,7 +8207,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
       },
       "score": {
-        "home": 2,
+        "home": 3,
         "away": 1
       }
     },
@@ -8217,7 +8217,7 @@
       "kickoff_utc": "2026-05-02T14:00:00Z",
       "matchday": 35,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "wolverhampton-wanderers",
         "name": "Wolves",
