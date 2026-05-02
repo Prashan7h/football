@@ -110,6 +110,22 @@ def match_id(kickoff_utc: str, home_slug: str, away_slug: str) -> str:
     return f"{date}-{home_slug}-{away_slug}"
 
 
+def stable_updated_at(path: Path, new_content_no_ts: dict) -> str:
+    """Reuse the previous `updated_at` when content is byte-identical, so a
+    no-op ingest run produces no git diff and no commit."""
+    if path.exists():
+        try:
+            existing = json.loads(path.read_text())
+        except json.JSONDecodeError:
+            existing = None
+        if existing is not None:
+            existing_no_ts = {k: v for k, v in existing.items() if k != "updated_at"}
+            prior = existing.get("updated_at")
+            if existing_no_ts == new_content_no_ts and prior:
+                return prior
+    return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
 def normalise_match(m: dict, clubs: dict) -> dict:
     home = team_block(m["homeTeam"], clubs)
     away = team_block(m["awayTeam"], clubs)
@@ -157,15 +173,21 @@ def main() -> int:
     matches = [normalise_match(m, clubs) for m in matches_raw["matches"]]
     matches.sort(key=lambda x: x["kickoff_utc"])
 
-    fixtures = {
+    fixtures_no_ts = {
         "season": int(season_start_year),
         "current_matchday": current_matchday,
-        "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "matches": matches,
+    }
+    fixtures_path = API / "fixtures.json"
+    fixtures = {
+        "season": fixtures_no_ts["season"],
+        "current_matchday": fixtures_no_ts["current_matchday"],
+        "updated_at": stable_updated_at(fixtures_path, fixtures_no_ts),
+        "matches": fixtures_no_ts["matches"],
     }
 
     API.mkdir(parents=True, exist_ok=True)
-    (API / "fixtures.json").write_text(json.dumps(fixtures, indent=2))
+    fixtures_path.write_text(json.dumps(fixtures, indent=2))
 
     match_dir = API / "match"
     match_dir.mkdir(parents=True, exist_ok=True)

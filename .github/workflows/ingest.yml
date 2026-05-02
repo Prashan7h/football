@@ -1,8 +1,14 @@
 name: Ingest
 
-# Phase 0: manual dispatch only. Cron will be enabled once the scripts work end-to-end.
 on:
   workflow_dispatch:
+  schedule:
+    # Daily baseline at 06:00 UTC (catches overnight rescheduling, table changes)
+    - cron: '0 6 * * *'
+    # Weekend match windows: every 15 min, 11:00–22:45 UTC, Sat & Sun
+    - cron: '*/15 11-22 * * 0,6'
+    # Weekday evenings: every 15 min, 18:00–22:45 UTC, Mon–Fri (covers midweek + Mon/Fri kickoffs)
+    - cron: '*/15 18-22 * * 1-5'
 
 permissions:
   contents: write
