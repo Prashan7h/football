@@ -24,6 +24,7 @@
   "nottingham-forest":        { "name": "Nottingham Forest",  "primary": "#DD0000" },
   "sheffield-united":         { "name": "Sheffield United",   "primary": "#EE2737" },
   "southampton":              { "name": "Southampton",        "primary": "#D71920" },
+  "sunderland":               { "name": "Sunderland",         "primary": "#EB172B" },
   "tottenham":                { "name": "Tottenham",          "primary": "#132257" },
   "watford":                  { "name": "Watford",            "primary": "#FBEE23" },
   "west-ham":                 { "name": "West Ham",           "primary": "#7A263A" },
