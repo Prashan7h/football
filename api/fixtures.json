@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 35,
-  "updated_at": "2026-05-03T16:30:37Z",
+  "updated_at": "2026-05-03T17:12:26Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8289,7 +8289,7 @@
       "kickoff_utc": "2026-05-03T14:30:00Z",
       "matchday": 35,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "manchester-united",
         "name": "Manchester United",
