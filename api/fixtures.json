@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 35,
-  "updated_at": "2026-05-03T17:12:26Z",
+  "updated_at": "2026-05-03T18:07:25Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8313,7 +8313,7 @@
       "kickoff_utc": "2026-05-03T18:00:00Z",
       "matchday": 35,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "aston-villa",
         "name": "Aston Villa",
@@ -8326,7 +8326,10 @@
         "primary": "#132257",
         "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-04-chelsea-nottingham-forest",
