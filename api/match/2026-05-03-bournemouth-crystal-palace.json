@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-03T13:00:00Z",
     "matchday": 35,
     "venue": null,
-    "status": "scheduled",
+    "status": "live",
     "home": {
       "slug": "bournemouth",
       "name": "Bournemouth",
@@ -18,7 +18,10 @@
       "primary": "#1B458F",
       "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
     },
-    "score": null
+    "score": {
+      "home": 2,
+      "away": 0
+    }
   },
   "preview": null,
   "review": null
