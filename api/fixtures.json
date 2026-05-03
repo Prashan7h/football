@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 35,
-  "updated_at": "2026-05-03T18:07:25Z",
+  "updated_at": "2026-05-03T18:35:58Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8328,7 +8328,7 @@
       },
       "score": {
         "home": 0,
-        "away": 0
+        "away": 2
       }
     },
     {
