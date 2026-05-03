@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 35,
-  "updated_at": "2026-05-03T13:59:48Z",
+  "updated_at": "2026-05-03T14:55:54Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8279,7 +8279,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
       },
       "score": {
-        "home": 2,
+        "home": 3,
         "away": 0
       }
     },
@@ -8289,7 +8289,7 @@
       "kickoff_utc": "2026-05-03T14:30:00Z",
       "matchday": 35,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "manchester-united",
         "name": "Manchester United",
@@ -8302,7 +8302,10 @@
         "primary": "#C8102E",
         "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
       },
-      "score": null
+      "score": {
+        "home": 2,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-03-aston-villa-tottenham",
