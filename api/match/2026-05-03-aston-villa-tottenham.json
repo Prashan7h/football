@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-03T18:00:00Z",
     "matchday": 35,
     "venue": null,
-    "status": "live",
+    "status": "finished",
     "home": {
       "slug": "aston-villa",
       "name": "Aston Villa",
@@ -19,7 +19,7 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
     },
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 2
     }
   },
