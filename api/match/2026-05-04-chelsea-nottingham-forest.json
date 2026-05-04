@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-04T14:00:00Z",
     "matchday": 35,
     "venue": null,
-    "status": "live",
+    "status": "finished",
     "home": {
       "slug": "chelsea",
       "name": "Chelsea",
@@ -19,8 +19,8 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
     },
     "score": {
-      "home": 0,
-      "away": 2
+      "home": 1,
+      "away": 3
     }
   },
   "preview": null,
