@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 35,
-  "updated_at": "2026-05-04T17:10:10Z",
+  "updated_at": "2026-05-04T19:20:55Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8361,7 +8361,7 @@
       "kickoff_utc": "2026-05-04T19:00:00Z",
       "matchday": 35,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "everton",
         "name": "Everton",
@@ -8374,7 +8374,10 @@
         "primary": "#6CABDD",
         "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-09-liverpool-chelsea",

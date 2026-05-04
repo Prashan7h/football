@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-04T19:00:00Z",
     "matchday": 35,
     "venue": null,
-    "status": "scheduled",
+    "status": "live",
     "home": {
       "slug": "everton",
       "name": "Everton",
@@ -18,7 +18,10 @@
       "primary": "#6CABDD",
       "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
     },
-    "score": null
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   "preview": null,
   "review": null
