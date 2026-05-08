@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-05-15-aston-villa-liverpool",
+    "external_id": 538146,
+    "kickoff_utc": "2026-05-15T19:00:00Z",
+    "matchday": 37,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+    },
+    "away": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}
