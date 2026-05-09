@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-09T14:00:00Z",
     "matchday": 36,
     "venue": null,
-    "status": "scheduled",
+    "status": "finished",
     "home": {
       "slug": "fulham",
       "name": "Fulham",
@@ -18,7 +18,10 @@
       "primary": "#DA291C",
       "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
     },
-    "score": null
+    "score": {
+      "home": 0,
+      "away": 1
+    }
   },
   "preview": null,
   "review": null

@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 36,
-  "updated_at": "2026-05-09T19:48:13Z",
+  "updated_at": "2026-05-09T20:28:13Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8385,7 +8385,7 @@
       "kickoff_utc": "2026-05-09T11:30:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "liverpool",
         "name": "Liverpool",
@@ -8398,7 +8398,10 @@
         "primary": "#034694",
         "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 1
+      }
     },
     {
       "id": "2026-05-09-sunderland-manchester-united",
@@ -8406,7 +8409,7 @@
       "kickoff_utc": "2026-05-09T14:00:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "sunderland",
         "name": "Sunderland",
@@ -8419,7 +8422,10 @@
         "primary": "#DA291C",
         "crest": "https://prashan7h.github.io/football/assets/crests/manchester-united.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-09-brighton-wolverhampton-wanderers",
@@ -8427,7 +8433,7 @@
       "kickoff_utc": "2026-05-09T14:00:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "brighton",
         "name": "Brighton",
@@ -8440,7 +8446,10 @@
         "primary": "#FDB913",
         "crest": "https://prashan7h.github.io/football/assets/crests/wolverhampton-wanderers.png"
       },
-      "score": null
+      "score": {
+        "home": 3,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-09-fulham-bournemouth",
@@ -8448,7 +8457,7 @@
       "kickoff_utc": "2026-05-09T14:00:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "fulham",
         "name": "Fulham",
@@ -8461,7 +8470,10 @@
         "primary": "#DA291C",
         "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 1
+      }
     },
     {
       "id": "2026-05-09-manchester-city-brentford",
@@ -8469,7 +8481,7 @@
       "kickoff_utc": "2026-05-09T16:30:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "manchester-city",
         "name": "Manchester City",
@@ -8482,7 +8494,10 @@
         "primary": "#E30613",
         "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
       },
-      "score": null
+      "score": {
+        "home": 3,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-10-crystal-palace-everton",

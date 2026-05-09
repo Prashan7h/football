@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-09T14:00:00Z",
     "matchday": 36,
     "venue": null,
-    "status": "scheduled",
+    "status": "finished",
     "home": {
       "slug": "brighton",
       "name": "Brighton",
@@ -18,7 +18,10 @@
       "primary": "#FDB913",
       "crest": "https://prashan7h.github.io/football/assets/crests/wolverhampton-wanderers.png"
     },
-    "score": null
+    "score": {
+      "home": 3,
+      "away": 0
+    }
   },
   "preview": null,
   "review": null
