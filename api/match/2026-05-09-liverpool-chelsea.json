@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-09T11:30:00Z",
     "matchday": 36,
     "venue": null,
-    "status": "live",
+    "status": "scheduled",
     "home": {
       "slug": "liverpool",
       "name": "Liverpool",
@@ -18,10 +18,7 @@
       "primary": "#034694",
       "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
     },
-    "score": {
-      "home": 1,
-      "away": 0
-    }
+    "score": null
   },
   "preview": null,
   "review": null

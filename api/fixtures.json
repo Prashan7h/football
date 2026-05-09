@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 36,
-  "updated_at": "2026-05-09T12:06:51Z",
+  "updated_at": "2026-05-09T13:05:37Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8385,7 +8385,7 @@
       "kickoff_utc": "2026-05-09T11:30:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "live",
+      "status": "scheduled",
       "home": {
         "slug": "liverpool",
         "name": "Liverpool",
@@ -8398,10 +8398,7 @@
         "primary": "#034694",
         "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
       },
-      "score": {
-        "home": 1,
-        "away": 0
-      }
+      "score": null
     },
     {
       "id": "2026-05-09-sunderland-manchester-united",
