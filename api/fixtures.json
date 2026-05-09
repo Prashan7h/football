@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 36,
-  "updated_at": "2026-05-09T16:38:40Z",
+  "updated_at": "2026-05-09T18:32:42Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8481,7 +8481,7 @@
       "kickoff_utc": "2026-05-09T16:30:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "manchester-city",
         "name": "Manchester City",
@@ -8495,7 +8495,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
       },
       "score": {
-        "home": 0,
+        "home": 3,
         "away": 0
       }
     },
