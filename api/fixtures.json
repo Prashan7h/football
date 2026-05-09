@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 36,
-  "updated_at": "2026-05-09T15:29:09Z",
+  "updated_at": "2026-05-09T15:39:35Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8385,7 +8385,7 @@
       "kickoff_utc": "2026-05-09T11:30:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "finished",
+      "status": "scheduled",
       "home": {
         "slug": "liverpool",
         "name": "Liverpool",
@@ -8398,10 +8398,7 @@
         "primary": "#034694",
         "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
       },
-      "score": {
-        "home": 1,
-        "away": 2
-      }
+      "score": null
     },
     {
       "id": "2026-05-09-sunderland-manchester-united",
@@ -8409,7 +8406,7 @@
       "kickoff_utc": "2026-05-09T14:00:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "live",
+      "status": "scheduled",
       "home": {
         "slug": "sunderland",
         "name": "Sunderland",
@@ -8422,10 +8419,7 @@
         "primary": "#DA291C",
         "crest": "https://prashan7h.github.io/football/assets/crests/manchester-united.png"
       },
-      "score": {
-        "home": 0,
-        "away": 0
-      }
+      "score": null
     },
     {
       "id": "2026-05-09-brighton-wolverhampton-wanderers",
@@ -8433,7 +8427,7 @@
       "kickoff_utc": "2026-05-09T14:00:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "live",
+      "status": "scheduled",
       "home": {
         "slug": "brighton",
         "name": "Brighton",
@@ -8446,10 +8440,7 @@
         "primary": "#FDB913",
         "crest": "https://prashan7h.github.io/football/assets/crests/wolverhampton-wanderers.png"
       },
-      "score": {
-        "home": 2,
-        "away": 0
-      }
+      "score": null
     },
     {
       "id": "2026-05-09-fulham-bournemouth",
@@ -8457,7 +8448,7 @@
       "kickoff_utc": "2026-05-09T14:00:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "live",
+      "status": "scheduled",
       "home": {
         "slug": "fulham",
         "name": "Fulham",
@@ -8470,10 +8461,7 @@
         "primary": "#DA291C",
         "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
       },
-      "score": {
-        "home": 0,
-        "away": 1
-      }
+      "score": null
     },
     {
       "id": "2026-05-09-manchester-city-brentford",
