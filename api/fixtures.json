@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 36,
-  "updated_at": "2026-05-10T15:29:03Z",
+  "updated_at": "2026-05-10T15:36:35Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8577,7 +8577,7 @@
       "kickoff_utc": "2026-05-10T15:30:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "west-ham",
         "name": "West Ham",
@@ -8590,7 +8590,10 @@
         "primary": "#EF0107",
         "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-11-tottenham-leeds",
