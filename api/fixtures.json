@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 36,
-  "updated_at": "2026-05-10T17:36:37Z",
+  "updated_at": "2026-05-10T18:12:40Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8577,7 +8577,7 @@
       "kickoff_utc": "2026-05-10T15:30:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "west-ham",
         "name": "West Ham",
