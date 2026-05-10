@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-10T13:00:00Z",
     "matchday": 36,
     "venue": null,
-    "status": "scheduled",
+    "status": "live",
     "home": {
       "slug": "nottingham-forest",
       "name": "Nottingham Forest",
@@ -18,7 +18,10 @@
       "primary": "#241F20",
       "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
     },
-    "score": null
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   "preview": null,
   "review": null

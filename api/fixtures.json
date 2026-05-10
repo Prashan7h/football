@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 36,
-  "updated_at": "2026-05-09T20:28:13Z",
+  "updated_at": "2026-05-10T13:07:20Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8505,7 +8505,7 @@
       "kickoff_utc": "2026-05-10T13:00:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "crystal-palace",
         "name": "Crystal Palace",
@@ -8518,7 +8518,10 @@
         "primary": "#003399",
         "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-10-burnley-aston-villa",
@@ -8526,7 +8529,7 @@
       "kickoff_utc": "2026-05-10T13:00:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "burnley",
         "name": "Burnley",
@@ -8539,7 +8542,10 @@
         "primary": "#670E36",
         "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-10-nottingham-forest-newcastle",
@@ -8547,7 +8553,7 @@
       "kickoff_utc": "2026-05-10T13:00:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "nottingham-forest",
         "name": "Nottingham Forest",
@@ -8560,7 +8566,10 @@
         "primary": "#241F20",
         "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-10-west-ham-arsenal",
