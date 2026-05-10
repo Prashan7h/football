@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 36,
-  "updated_at": "2026-05-10T14:32:49Z",
+  "updated_at": "2026-05-10T15:29:03Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8505,7 +8505,7 @@
       "kickoff_utc": "2026-05-10T13:00:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "crystal-palace",
         "name": "Crystal Palace",
@@ -8519,7 +8519,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
       },
       "score": {
-        "home": 1,
+        "home": 2,
         "away": 2
       }
     },
@@ -8529,7 +8529,7 @@
       "kickoff_utc": "2026-05-10T13:00:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "burnley",
         "name": "Burnley",
@@ -8553,7 +8553,7 @@
       "kickoff_utc": "2026-05-10T13:00:00Z",
       "matchday": 36,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "nottingham-forest",
         "name": "Nottingham Forest",
@@ -8567,8 +8567,8 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
       },
       "score": {
-        "home": 0,
-        "away": 0
+        "home": 1,
+        "away": 1
       }
     },
     {

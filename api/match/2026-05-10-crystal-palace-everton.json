@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-10T13:00:00Z",
     "matchday": 36,
     "venue": null,
-    "status": "live",
+    "status": "finished",
     "home": {
       "slug": "crystal-palace",
       "name": "Crystal Palace",
@@ -19,7 +19,7 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
     },
     "score": {
-      "home": 1,
+      "home": 2,
       "away": 2
     }
   },
