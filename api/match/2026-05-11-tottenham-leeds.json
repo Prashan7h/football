@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-11T19:00:00Z",
     "matchday": 36,
     "venue": null,
-    "status": "scheduled",
+    "status": "live",
     "home": {
       "slug": "tottenham",
       "name": "Tottenham",
@@ -18,7 +18,10 @@
       "primary": "#FFCD00",
       "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
     },
-    "score": null
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   "preview": null,
   "review": null
