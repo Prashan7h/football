@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 36,
-  "updated_at": "2026-05-10T18:12:40Z",
+  "updated_at": "2026-05-11T01:51:18Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8591,7 +8591,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
       },
       "score": {
-        "home": 1,
+        "home": 0,
         "away": 1
       }
     },
