@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 36,
-  "updated_at": "2026-05-13T20:15:32Z",
+  "updated_at": "2026-05-13T21:21:13Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8625,7 +8625,7 @@
       "kickoff_utc": "2026-05-13T19:00:00Z",
       "matchday": 31,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "manchester-city",
         "name": "Manchester City",
@@ -8639,7 +8639,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
       },
       "score": {
-        "home": 2,
+        "home": 3,
         "away": 0
       }
     },
