@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 37,
-  "updated_at": "2026-05-17T16:39:24Z",
+  "updated_at": "2026-05-17T17:41:07Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8807,7 +8807,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/west-ham.png"
       },
       "score": {
-        "home": 0,
+        "home": 2,
         "away": 0
       }
     },
