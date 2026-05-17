@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-17T14:00:00Z",
     "matchday": 37,
     "venue": null,
-    "status": "scheduled",
+    "status": "live",
     "home": {
       "slug": "leeds",
       "name": "Leeds",
@@ -18,7 +18,10 @@
       "primary": "#0057B8",
       "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
     },
-    "score": null
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   "preview": null,
   "review": null

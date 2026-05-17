@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 37,
-  "updated_at": "2026-05-17T13:24:38Z",
+  "updated_at": "2026-05-17T14:19:11Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8673,7 +8673,7 @@
       "kickoff_utc": "2026-05-17T11:30:00Z",
       "matchday": 37,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "manchester-united",
         "name": "Manchester United",
@@ -8697,7 +8697,7 @@
       "kickoff_utc": "2026-05-17T14:00:00Z",
       "matchday": 37,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "brentford",
         "name": "Brentford",
@@ -8710,7 +8710,10 @@
         "primary": "#1B458F",
         "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 1
+      }
     },
     {
       "id": "2026-05-17-everton-sunderland",
@@ -8718,7 +8721,7 @@
       "kickoff_utc": "2026-05-17T14:00:00Z",
       "matchday": 37,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "everton",
         "name": "Everton",
@@ -8731,7 +8734,10 @@
         "primary": "#EB172B",
         "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-17-leeds-brighton",
@@ -8739,7 +8745,7 @@
       "kickoff_utc": "2026-05-17T14:00:00Z",
       "matchday": 37,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "leeds",
         "name": "Leeds",
@@ -8752,7 +8758,10 @@
         "primary": "#0057B8",
         "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-17-wolverhampton-wanderers-fulham",
@@ -8760,7 +8769,7 @@
       "kickoff_utc": "2026-05-17T14:00:00Z",
       "matchday": 37,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "wolverhampton-wanderers",
         "name": "Wolves",
@@ -8773,7 +8782,10 @@
         "primary": "#000000",
         "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-17-newcastle-west-ham",
