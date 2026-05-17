@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 37,
-  "updated_at": "2026-05-17T15:33:39Z",
+  "updated_at": "2026-05-17T16:39:24Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8697,7 +8697,7 @@
       "kickoff_utc": "2026-05-17T14:00:00Z",
       "matchday": 37,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "brentford",
         "name": "Brentford",
@@ -8711,7 +8711,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
       },
       "score": {
-        "home": 1,
+        "home": 2,
         "away": 2
       }
     },
@@ -8721,7 +8721,7 @@
       "kickoff_utc": "2026-05-17T14:00:00Z",
       "matchday": 37,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "everton",
         "name": "Everton",
@@ -8736,7 +8736,7 @@
       },
       "score": {
         "home": 1,
-        "away": 1
+        "away": 3
       }
     },
     {
@@ -8745,7 +8745,7 @@
       "kickoff_utc": "2026-05-17T14:00:00Z",
       "matchday": 37,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "leeds",
         "name": "Leeds",
@@ -8759,7 +8759,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
       },
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
       }
     },
@@ -8769,7 +8769,7 @@
       "kickoff_utc": "2026-05-17T14:00:00Z",
       "matchday": 37,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "wolverhampton-wanderers",
         "name": "Wolves",
@@ -8793,7 +8793,7 @@
       "kickoff_utc": "2026-05-17T16:30:00Z",
       "matchday": 37,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "newcastle",
         "name": "Newcastle",
@@ -8806,7 +8806,10 @@
         "primary": "#7A263A",
         "crest": "https://prashan7h.github.io/football/assets/crests/west-ham.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-18-arsenal-burnley",

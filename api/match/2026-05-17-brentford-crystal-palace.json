@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-17T14:00:00Z",
     "matchday": 37,
     "venue": null,
-    "status": "live",
+    "status": "finished",
     "home": {
       "slug": "brentford",
       "name": "Brentford",
@@ -19,7 +19,7 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
     },
     "score": {
-      "home": 1,
+      "home": 2,
       "away": 2
     }
   },
