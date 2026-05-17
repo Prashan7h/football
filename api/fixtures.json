@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 37,
-  "updated_at": "2026-05-17T12:49:20Z",
+  "updated_at": "2026-05-17T13:24:38Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8687,8 +8687,8 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
       },
       "score": {
-        "home": 1,
-        "away": 1
+        "home": 3,
+        "away": 2
       }
     },
     {
