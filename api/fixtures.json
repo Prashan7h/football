@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 37,
-  "updated_at": "2026-05-17T14:19:11Z",
+  "updated_at": "2026-05-17T14:43:05Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8783,7 +8783,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
       },
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
       }
     },
