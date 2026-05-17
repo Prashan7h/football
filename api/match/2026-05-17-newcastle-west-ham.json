@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-17T16:30:00Z",
     "matchday": 37,
     "venue": null,
-    "status": "live",
+    "status": "finished",
     "home": {
       "slug": "newcastle",
       "name": "Newcastle",
@@ -19,8 +19,8 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/west-ham.png"
     },
     "score": {
-      "home": 2,
-      "away": 0
+      "home": 3,
+      "away": 1
     }
   },
   "preview": null,
