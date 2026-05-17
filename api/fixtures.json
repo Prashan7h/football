@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 37,
-  "updated_at": "2026-05-15T21:41:06Z",
+  "updated_at": "2026-05-17T11:57:56Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8673,7 +8673,7 @@
       "kickoff_utc": "2026-05-17T11:30:00Z",
       "matchday": 37,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "manchester-united",
         "name": "Manchester United",
@@ -8686,7 +8686,10 @@
         "primary": "#DD0000",
         "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-17-brentford-crystal-palace",
