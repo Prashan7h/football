@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-18T19:00:00Z",
     "matchday": 37,
     "venue": null,
-    "status": "scheduled",
+    "status": "live",
     "home": {
       "slug": "arsenal",
       "name": "Arsenal",
@@ -18,7 +18,10 @@
       "primary": "#6C1D45",
       "crest": "https://prashan7h.github.io/football/assets/crests/burnley.png"
     },
-    "score": null
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   "preview": null,
   "review": null

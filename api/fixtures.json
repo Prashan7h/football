@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 37,
-  "updated_at": "2026-05-17T18:43:42Z",
+  "updated_at": "2026-05-18T19:10:23Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8817,7 +8817,7 @@
       "kickoff_utc": "2026-05-18T19:00:00Z",
       "matchday": 37,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "arsenal",
         "name": "Arsenal",
@@ -8830,7 +8830,10 @@
         "primary": "#6C1D45",
         "crest": "https://prashan7h.github.io/football/assets/crests/burnley.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-19-bournemouth-manchester-city",
