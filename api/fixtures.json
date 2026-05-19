@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 37,
-  "updated_at": "2026-05-19T21:14:24Z",
+  "updated_at": "2026-05-19T21:51:24Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8865,7 +8865,7 @@
       "kickoff_utc": "2026-05-19T19:15:00Z",
       "matchday": 37,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "chelsea",
         "name": "Chelsea",
