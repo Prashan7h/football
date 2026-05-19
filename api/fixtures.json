@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 37,
-  "updated_at": "2026-05-18T21:57:20Z",
+  "updated_at": "2026-05-19T19:46:11Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8841,7 +8841,7 @@
       "kickoff_utc": "2026-05-19T18:30:00Z",
       "matchday": 37,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "bournemouth",
         "name": "Bournemouth",
@@ -8854,7 +8854,10 @@
         "primary": "#6CABDD",
         "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-19-chelsea-tottenham",
@@ -8862,7 +8865,7 @@
       "kickoff_utc": "2026-05-19T19:15:00Z",
       "matchday": 37,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "chelsea",
         "name": "Chelsea",
@@ -8875,7 +8878,10 @@
         "primary": "#132257",
         "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 0
+      }
     },
     {
       "id": "2026-05-24-sunderland-chelsea",
