@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 37,
-  "updated_at": "2026-05-21T23:58:05Z",
+  "updated_at": "2026-05-22T02:51:10Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8841,7 +8841,7 @@
       "kickoff_utc": "2026-05-19T18:30:00Z",
       "matchday": 37,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "bournemouth",
         "name": "Bournemouth",
@@ -8856,7 +8856,7 @@
       },
       "score": {
         "home": 1,
-        "away": 0
+        "away": 1
       }
     },
     {
