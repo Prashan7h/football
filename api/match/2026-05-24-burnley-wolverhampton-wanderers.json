@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-24T15:00:00Z",
     "matchday": 38,
     "venue": null,
-    "status": "scheduled",
+    "status": "live",
     "home": {
       "slug": "burnley",
       "name": "Burnley",
@@ -18,7 +18,10 @@
       "primary": "#FDB913",
       "crest": "https://prashan7h.github.io/football/assets/crests/wolverhampton-wanderers.png"
     },
-    "score": null
+    "score": {
+      "home": 0,
+      "away": 1
+    }
   },
   "preview": null,
   "review": null
