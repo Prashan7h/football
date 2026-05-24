@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 38,
-  "updated_at": "2026-05-24T16:06:42Z",
+  "updated_at": "2026-05-24T16:47:47Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8903,8 +8903,8 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
       },
       "score": {
-        "home": 1,
-        "away": 0
+        "home": 2,
+        "away": 1
       }
     },
     {
@@ -8928,7 +8928,7 @@
       },
       "score": {
         "home": 0,
-        "away": 2
+        "away": 3
       }
     },
     {
@@ -8952,7 +8952,7 @@
       },
       "score": {
         "home": 0,
-        "away": 1
+        "away": 2
       }
     },
     {
@@ -8975,7 +8975,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/wolverhampton-wanderers.png"
       },
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 1
       }
     },
@@ -8999,7 +8999,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
       },
       "score": {
-        "home": 1,
+        "home": 2,
         "away": 0
       }
     },
@@ -9023,8 +9023,8 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
       },
       "score": {
-        "home": 0,
-        "away": 0
+        "home": 1,
+        "away": 1
       }
     },
     {
@@ -9048,7 +9048,7 @@
       },
       "score": {
         "home": 1,
-        "away": 0
+        "away": 2
       }
     },
     {
@@ -9072,7 +9072,7 @@
       },
       "score": {
         "home": 1,
-        "away": 0
+        "away": 1
       }
     },
     {
@@ -9119,7 +9119,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
       },
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
       }
     }
