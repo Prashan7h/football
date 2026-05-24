@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 38,
-  "updated_at": "2026-05-24T16:47:47Z",
+  "updated_at": "2026-05-24T17:15:16Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8889,7 +8889,7 @@
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "sunderland",
         "name": "Sunderland",
@@ -8913,7 +8913,7 @@
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "brighton",
         "name": "Brighton",
@@ -8937,7 +8937,7 @@
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "crystal-palace",
         "name": "Crystal Palace",
@@ -8951,7 +8951,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
       },
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 2
       }
     },
@@ -8961,7 +8961,7 @@
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "burnley",
         "name": "Burnley",
@@ -8985,7 +8985,7 @@
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "fulham",
         "name": "Fulham",
@@ -9009,7 +9009,7 @@
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "liverpool",
         "name": "Liverpool",
@@ -9033,7 +9033,7 @@
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "manchester-city",
         "name": "Manchester City",
@@ -9047,7 +9047,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
       },
       "score": {
-        "home": 1,
+        "home": 2,
         "away": 2
       }
     },
@@ -9057,7 +9057,7 @@
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "nottingham-forest",
         "name": "Nottingham Forest",
@@ -9081,7 +9081,7 @@
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "tottenham",
         "name": "Tottenham",
@@ -9105,7 +9105,7 @@
       "kickoff_utc": "2026-05-24T15:00:00Z",
       "matchday": 38,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "west-ham",
         "name": "West Ham",
@@ -9119,7 +9119,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
       },
       "score": {
-        "home": 1,
+        "home": 3,
         "away": 0
       }
     }

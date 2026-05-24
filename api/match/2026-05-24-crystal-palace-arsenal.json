@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-05-24T15:00:00Z",
     "matchday": 38,
     "venue": null,
-    "status": "live",
+    "status": "finished",
     "home": {
       "slug": "crystal-palace",
       "name": "Crystal Palace",
@@ -19,7 +19,7 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
     },
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 2
     }
   },
