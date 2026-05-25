@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 38,
-  "updated_at": "2026-05-24T22:44:16Z",
+  "updated_at": "2026-05-25T02:02:56Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -9047,7 +9047,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
       },
       "score": {
-        "home": 2,
+        "home": 1,
         "away": 2
       }
     },
