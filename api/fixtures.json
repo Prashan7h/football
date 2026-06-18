@@ -1,7 +1,7 @@
 {
   "season": 2025,
   "current_matchday": 38,
-  "updated_at": "2026-06-17T15:44:17Z",
+  "updated_at": "2026-06-18T21:38:27Z",
   "matches": [
     {
       "id": "2025-08-15-liverpool-bournemouth",
@@ -8841,7 +8841,7 @@
       "kickoff_utc": "2026-05-19T18:30:00Z",
       "matchday": 37,
       "venue": null,
-      "status": "finished",
+      "status": "live",
       "home": {
         "slug": "bournemouth",
         "name": "Bournemouth",
@@ -8856,7 +8856,7 @@
       },
       "score": {
         "home": 1,
-        "away": 1
+        "away": 0
       }
     },
     {
@@ -9047,7 +9047,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
       },
       "score": {
-        "home": 1,
+        "home": 2,
         "away": 2
       }
     },
