@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-09-19-nottingham-forest-coventry-city",
+    "external_id": 560589,
+    "kickoff_utc": "2026-09-19T14:00:00Z",
+    "matchday": 5,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
+    },
+    "away": {
+      "slug": "coventry-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

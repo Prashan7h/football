@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-03-03-brentford-ipswich",
+    "external_id": 560820,
+    "kickoff_utc": "2027-03-03T12:00:00Z",
+    "matchday": 28,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "away": {
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

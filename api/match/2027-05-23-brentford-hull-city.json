@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-23-brentford-hull-city",
+    "external_id": 560902,
+    "kickoff_utc": "2027-05-23T12:00:00Z",
+    "matchday": 37,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "away": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

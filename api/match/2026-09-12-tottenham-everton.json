@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-09-12-tottenham-everton",
+    "external_id": 560575,
+    "kickoff_utc": "2026-09-12T14:00:00Z",
+    "matchday": 4,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "away": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

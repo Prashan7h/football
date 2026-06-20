@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-01-23-ipswich-hull-city",
+    "external_id": 560752,
+    "kickoff_utc": "2027-01-23T12:00:00Z",
+    "matchday": 22,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+    },
+    "away": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

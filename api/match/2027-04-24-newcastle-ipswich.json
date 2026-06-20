@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-04-24-newcastle-ipswich",
+    "external_id": 560868,
+    "kickoff_utc": "2027-04-24T12:00:00Z",
+    "matchday": 33,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
+    },
+    "away": {
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

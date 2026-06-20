@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-08-22-brentford-tottenham",
+    "external_id": 560547,
+    "kickoff_utc": "2026-08-22T16:30:00Z",
+    "matchday": 1,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

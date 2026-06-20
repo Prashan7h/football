@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-08-29-coventry-city-hull-city",
+    "external_id": 560561,
+    "kickoff_utc": "2026-08-29T14:00:00Z",
+    "matchday": 2,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "coventry-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+    },
+    "away": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

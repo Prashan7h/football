@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-19-manchester-city-hull-city",
+    "external_id": 560696,
+    "kickoff_utc": "2026-12-19T15:00:00Z",
+    "matchday": 16,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
+    },
+    "away": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

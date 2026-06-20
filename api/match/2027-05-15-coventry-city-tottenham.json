@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-15-coventry-city-tottenham",
+    "external_id": 560901,
+    "kickoff_utc": "2027-05-15T12:00:00Z",
+    "matchday": 36,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "coventry-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

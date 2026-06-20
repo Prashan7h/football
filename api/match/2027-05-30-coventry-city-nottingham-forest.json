@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-30-coventry-city-nottingham-forest",
+    "external_id": 560915,
+    "kickoff_utc": "2027-05-30T12:00:00Z",
+    "matchday": 38,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "coventry-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+    },
+    "away": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

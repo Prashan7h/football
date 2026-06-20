@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-04-24-tottenham-hull-city",
+    "external_id": 560864,
+    "kickoff_utc": "2027-04-24T12:00:00Z",
+    "matchday": 33,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "away": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

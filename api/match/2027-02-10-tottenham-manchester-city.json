@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-02-10-tottenham-manchester-city",
+    "external_id": 560789,
+    "kickoff_utc": "2027-02-10T12:00:00Z",
+    "matchday": 25,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "away": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-11-07-arsenal-hull-city",
+    "external_id": 560640,
+    "kickoff_utc": "2026-11-07T15:00:00Z",
+    "matchday": 10,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+    },
+    "away": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

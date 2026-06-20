@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-10-10-arsenal-leeds",
+    "external_id": 560593,
+    "kickoff_utc": "2026-10-10T14:00:00Z",
+    "matchday": 6,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

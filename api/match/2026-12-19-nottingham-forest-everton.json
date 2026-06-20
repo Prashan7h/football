@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-19-nottingham-forest-everton",
+    "external_id": 560694,
+    "kickoff_utc": "2026-12-19T15:00:00Z",
+    "matchday": 16,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
+    },
+    "away": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

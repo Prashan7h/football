@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-03-20-fulham-liverpool",
+    "external_id": 560837,
+    "kickoff_utc": "2027-03-20T12:00:00Z",
+    "matchday": 30,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
+    },
+    "away": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

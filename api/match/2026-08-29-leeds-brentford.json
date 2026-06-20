@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-08-29-leeds-brentford",
+    "external_id": 560559,
+    "kickoff_utc": "2026-08-29T14:00:00Z",
+    "matchday": 2,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

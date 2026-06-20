@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-08-22-everton-crystal-palace",
+    "external_id": 560546,
+    "kickoff_utc": "2026-08-22T14:00:00Z",
+    "matchday": 1,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
+    },
+    "away": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

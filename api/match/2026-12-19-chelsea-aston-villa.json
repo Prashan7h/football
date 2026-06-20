@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-19-chelsea-aston-villa",
+    "external_id": 560701,
+    "kickoff_utc": "2026-12-19T15:00:00Z",
+    "matchday": 16,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
+    },
+    "away": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

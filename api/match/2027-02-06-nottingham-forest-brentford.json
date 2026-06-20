@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-02-06-nottingham-forest-brentford",
+    "external_id": 560781,
+    "kickoff_utc": "2027-02-06T12:00:00Z",
+    "matchday": 24,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

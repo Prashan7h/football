@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-03-03-leeds-hull-city",
+    "external_id": 560816,
+    "kickoff_utc": "2027-03-03T12:00:00Z",
+    "matchday": 28,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "away": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

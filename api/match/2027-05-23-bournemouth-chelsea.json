@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-23-bournemouth-chelsea",
+    "external_id": 560908,
+    "kickoff_utc": "2027-05-23T12:00:00Z",
+    "matchday": 37,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+    },
+    "away": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

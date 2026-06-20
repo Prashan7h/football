@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-11-07-everton-coventry-city",
+    "external_id": 560634,
+    "kickoff_utc": "2026-11-07T15:00:00Z",
+    "matchday": 10,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
+    },
+    "away": {
+      "slug": "coventry-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

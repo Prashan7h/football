@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-10-10-ipswich-fulham",
+    "external_id": 560599,
+    "kickoff_utc": "2026-10-10T14:00:00Z",
+    "matchday": 6,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+    },
+    "away": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

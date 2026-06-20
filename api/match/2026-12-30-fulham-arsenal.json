@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-30-fulham-arsenal",
+    "external_id": 560712,
+    "kickoff_utc": "2026-12-30T20:00:00Z",
+    "matchday": 18,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
+    },
+    "away": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

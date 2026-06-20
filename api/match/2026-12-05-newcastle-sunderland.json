@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-05-newcastle-sunderland",
+    "external_id": 560675,
+    "kickoff_utc": "2026-12-05T15:00:00Z",
+    "matchday": 14,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
+    },
+    "away": {
+      "slug": "sunderland",
+      "name": "Sunderland",
+      "primary": "#EB172B",
+      "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

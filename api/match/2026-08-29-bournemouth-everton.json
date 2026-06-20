@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-08-29-bournemouth-everton",
+    "external_id": 560560,
+    "kickoff_utc": "2026-08-29T14:00:00Z",
+    "matchday": 2,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+    },
+    "away": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

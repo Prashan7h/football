@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-10-17-tottenham-coventry-city",
+    "external_id": 560606,
+    "kickoff_utc": "2026-10-17T14:00:00Z",
+    "matchday": 7,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "away": {
+      "slug": "coventry-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

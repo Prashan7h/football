@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-03-20-brentford-bournemouth",
+    "external_id": 560832,
+    "kickoff_utc": "2027-03-20T12:00:00Z",
+    "matchday": 30,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "away": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

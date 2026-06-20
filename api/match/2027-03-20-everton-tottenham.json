@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-03-20-everton-tottenham",
+    "external_id": 560840,
+    "kickoff_utc": "2027-03-20T12:00:00Z",
+    "matchday": 30,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-15-chelsea-everton",
+    "external_id": 560900,
+    "kickoff_utc": "2027-05-15T12:00:00Z",
+    "matchday": 36,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
+    },
+    "away": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

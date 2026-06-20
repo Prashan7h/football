@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-09-05-fulham-crystal-palace",
+    "external_id": 560568,
+    "kickoff_utc": "2026-09-05T14:00:00Z",
+    "matchday": 3,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
+    },
+    "away": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

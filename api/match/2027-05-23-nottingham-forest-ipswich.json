@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-23-nottingham-forest-ipswich",
+    "external_id": 560907,
+    "kickoff_utc": "2027-05-23T12:00:00Z",
+    "matchday": 37,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
+    },
+    "away": {
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

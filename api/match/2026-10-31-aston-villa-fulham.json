@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-10-31-aston-villa-fulham",
+    "external_id": 560628,
+    "kickoff_utc": "2026-10-31T15:00:00Z",
+    "matchday": 9,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+    },
+    "away": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

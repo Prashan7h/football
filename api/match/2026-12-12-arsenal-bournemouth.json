@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-12-arsenal-bournemouth",
+    "external_id": 560688,
+    "kickoff_utc": "2026-12-12T15:00:00Z",
+    "matchday": 15,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+    },
+    "away": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

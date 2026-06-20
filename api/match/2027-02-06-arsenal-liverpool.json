@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-02-06-arsenal-liverpool",
+    "external_id": 560772,
+    "kickoff_utc": "2027-02-06T12:00:00Z",
+    "matchday": 24,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+    },
+    "away": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

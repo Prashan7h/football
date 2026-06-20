@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-04-17-newcastle-tottenham",
+    "external_id": 560860,
+    "kickoff_utc": "2027-04-17T12:00:00Z",
+    "matchday": 32,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

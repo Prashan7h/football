@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-05-bournemouth-hull-city",
+    "external_id": 560678,
+    "kickoff_utc": "2026-12-05T15:00:00Z",
+    "matchday": 14,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+    },
+    "away": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-01-23-arsenal-newcastle",
+    "external_id": 560756,
+    "kickoff_utc": "2027-01-23T12:00:00Z",
+    "matchday": 22,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+    },
+    "away": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

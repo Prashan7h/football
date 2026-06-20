@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-04-10-chelsea-fulham",
+    "external_id": 560845,
+    "kickoff_utc": "2027-04-10T12:00:00Z",
+    "matchday": 31,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
+    },
+    "away": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

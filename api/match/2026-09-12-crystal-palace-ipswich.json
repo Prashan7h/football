@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-09-12-crystal-palace-ipswich",
+    "external_id": 560572,
+    "kickoff_utc": "2026-09-12T14:00:00Z",
+    "matchday": 4,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
+    },
+    "away": {
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

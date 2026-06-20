@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-01-30-brentford-manchester-united",
+    "external_id": 560763,
+    "kickoff_utc": "2027-01-30T12:00:00Z",
+    "matchday": 23,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "away": {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-united.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

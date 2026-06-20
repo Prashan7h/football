@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-09-12-leeds-newcastle",
+    "external_id": 560579,
+    "kickoff_utc": "2026-09-12T14:00:00Z",
+    "matchday": 4,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "away": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-08-29-tottenham-newcastle",
+    "external_id": 560558,
+    "kickoff_utc": "2026-08-29T14:00:00Z",
+    "matchday": 2,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "away": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

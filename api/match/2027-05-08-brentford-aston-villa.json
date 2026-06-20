@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-08-brentford-aston-villa",
+    "external_id": 560886,
+    "kickoff_utc": "2027-05-08T12:00:00Z",
+    "matchday": 35,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "away": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

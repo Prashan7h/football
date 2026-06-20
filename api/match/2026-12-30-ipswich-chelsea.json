@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-30-ipswich-chelsea",
+    "external_id": 560718,
+    "kickoff_utc": "2026-12-30T20:00:00Z",
+    "matchday": 18,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+    },
+    "away": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

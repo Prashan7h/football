@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-30-crystal-palace-leeds",
+    "external_id": 560921,
+    "kickoff_utc": "2027-05-30T12:00:00Z",
+    "matchday": 38,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

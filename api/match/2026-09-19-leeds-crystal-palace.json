@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-09-19-leeds-crystal-palace",
+    "external_id": 560585,
+    "kickoff_utc": "2026-09-19T14:00:00Z",
+    "matchday": 5,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "away": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

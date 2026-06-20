@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-30-chelsea-brentford",
+    "external_id": 560920,
+    "kickoff_utc": "2027-05-30T12:00:00Z",
+    "matchday": 38,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

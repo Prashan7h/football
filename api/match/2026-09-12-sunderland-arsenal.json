@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-09-12-sunderland-arsenal",
+    "external_id": 560577,
+    "kickoff_utc": "2026-09-12T14:00:00Z",
+    "matchday": 4,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "sunderland",
+      "name": "Sunderland",
+      "primary": "#EB172B",
+      "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
+    },
+    "away": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

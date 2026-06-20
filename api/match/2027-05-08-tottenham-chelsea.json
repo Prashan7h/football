@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-08-tottenham-chelsea",
+    "external_id": 560889,
+    "kickoff_utc": "2027-05-08T12:00:00Z",
+    "matchday": 35,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "away": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

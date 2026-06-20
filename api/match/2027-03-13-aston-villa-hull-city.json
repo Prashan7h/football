@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-03-13-aston-villa-hull-city",
+    "external_id": 560829,
+    "kickoff_utc": "2027-03-13T12:00:00Z",
+    "matchday": 29,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+    },
+    "away": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

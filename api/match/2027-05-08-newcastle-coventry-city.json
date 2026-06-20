@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-08-newcastle-coventry-city",
+    "external_id": 560887,
+    "kickoff_utc": "2027-05-08T12:00:00Z",
+    "matchday": 35,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
+    },
+    "away": {
+      "slug": "coventry-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

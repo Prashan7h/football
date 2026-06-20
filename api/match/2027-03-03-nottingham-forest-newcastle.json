@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-03-03-nottingham-forest-newcastle",
+    "external_id": 560812,
+    "kickoff_utc": "2027-03-03T12:00:00Z",
+    "matchday": 28,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
+    },
+    "away": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

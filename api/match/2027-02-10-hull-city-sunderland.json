@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-02-10-hull-city-sunderland",
+    "external_id": 560784,
+    "kickoff_utc": "2027-02-10T12:00:00Z",
+    "matchday": 25,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+    },
+    "away": {
+      "slug": "sunderland",
+      "name": "Sunderland",
+      "primary": "#EB172B",
+      "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

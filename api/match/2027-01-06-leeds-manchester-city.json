@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-01-06-leeds-manchester-city",
+    "external_id": 560733,
+    "kickoff_utc": "2027-01-06T12:00:00Z",
+    "matchday": 20,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "away": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-11-07-ipswich-bournemouth",
+    "external_id": 560637,
+    "kickoff_utc": "2026-11-07T15:00:00Z",
+    "matchday": 10,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+    },
+    "away": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

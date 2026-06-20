@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-05-brentford-manchester-city",
+    "external_id": 560677,
+    "kickoff_utc": "2026-12-05T15:00:00Z",
+    "matchday": 14,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "away": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

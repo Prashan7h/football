@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-03-13-crystal-palace-fulham",
+    "external_id": 560824,
+    "kickoff_utc": "2027-03-13T12:00:00Z",
+    "matchday": 29,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
+    },
+    "away": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

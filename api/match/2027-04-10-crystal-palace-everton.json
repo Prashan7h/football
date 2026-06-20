@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-04-10-crystal-palace-everton",
+    "external_id": 560849,
+    "kickoff_utc": "2027-04-10T12:00:00Z",
+    "matchday": 31,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
+    },
+    "away": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

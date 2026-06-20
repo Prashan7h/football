@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-02-bournemouth-brighton",
+    "external_id": 560671,
+    "kickoff_utc": "2026-12-02T20:00:00Z",
+    "matchday": 13,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+    },
+    "away": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

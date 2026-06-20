@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-02-06-fulham-manchester-city",
+    "external_id": 560778,
+    "kickoff_utc": "2027-02-06T12:00:00Z",
+    "matchday": 24,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
+    },
+    "away": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

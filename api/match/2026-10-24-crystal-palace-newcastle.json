@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-10-24-crystal-palace-newcastle",
+    "external_id": 560613,
+    "kickoff_utc": "2026-10-24T14:00:00Z",
+    "matchday": 8,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
+    },
+    "away": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

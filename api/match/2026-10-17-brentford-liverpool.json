@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-10-17-brentford-liverpool",
+    "external_id": 560611,
+    "kickoff_utc": "2026-10-17T14:00:00Z",
+    "matchday": 7,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "away": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

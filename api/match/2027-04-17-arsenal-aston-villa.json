@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-04-17-arsenal-aston-villa",
+    "external_id": 560857,
+    "kickoff_utc": "2027-04-17T12:00:00Z",
+    "matchday": 32,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+    },
+    "away": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

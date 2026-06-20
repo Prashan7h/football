@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-01-crystal-palace-aston-villa",
+    "external_id": 560880,
+    "kickoff_utc": "2027-05-01T12:00:00Z",
+    "matchday": 34,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
+    },
+    "away": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

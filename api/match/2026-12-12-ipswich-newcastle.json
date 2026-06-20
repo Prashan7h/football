@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-12-ipswich-newcastle",
+    "external_id": 560686,
+    "kickoff_utc": "2026-12-12T15:00:00Z",
+    "matchday": 15,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+    },
+    "away": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

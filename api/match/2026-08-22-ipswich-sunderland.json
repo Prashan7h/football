@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-08-22-ipswich-sunderland",
+    "external_id": 560544,
+    "kickoff_utc": "2026-08-22T14:00:00Z",
+    "matchday": 1,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+    },
+    "away": {
+      "slug": "sunderland",
+      "name": "Sunderland",
+      "primary": "#EB172B",
+      "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

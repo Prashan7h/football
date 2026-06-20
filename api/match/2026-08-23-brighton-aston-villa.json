@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-08-23-brighton-aston-villa",
+    "external_id": 560549,
+    "kickoff_utc": "2026-08-23T13:00:00Z",
+    "matchday": 1,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
+    },
+    "away": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

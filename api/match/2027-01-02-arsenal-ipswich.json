@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-01-02-arsenal-ipswich",
+    "external_id": 560725,
+    "kickoff_utc": "2027-01-02T12:00:00Z",
+    "matchday": 19,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+    },
+    "away": {
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

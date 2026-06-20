@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-01-06-sunderland-liverpool",
+    "external_id": 560739,
+    "kickoff_utc": "2027-01-06T12:00:00Z",
+    "matchday": 20,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "sunderland",
+      "name": "Sunderland",
+      "primary": "#EB172B",
+      "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
+    },
+    "away": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

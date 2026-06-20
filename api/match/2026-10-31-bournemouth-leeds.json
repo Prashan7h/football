@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-10-31-bournemouth-leeds",
+    "external_id": 560624,
+    "kickoff_utc": "2026-10-31T15:00:00Z",
+    "matchday": 9,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

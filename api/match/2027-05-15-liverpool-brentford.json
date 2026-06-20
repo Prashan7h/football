@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-15-liverpool-brentford",
+    "external_id": 560893,
+    "kickoff_utc": "2027-05-15T12:00:00Z",
+    "matchday": 36,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

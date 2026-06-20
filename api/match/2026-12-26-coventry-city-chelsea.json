@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-26-coventry-city-chelsea",
+    "external_id": 560706,
+    "kickoff_utc": "2026-12-26T15:00:00Z",
+    "matchday": 17,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "coventry-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+    },
+    "away": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

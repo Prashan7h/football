@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-19-brentford-newcastle",
+    "external_id": 560695,
+    "kickoff_utc": "2026-12-19T15:00:00Z",
+    "matchday": 16,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "away": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

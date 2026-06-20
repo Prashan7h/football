@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-03-03-liverpool-aston-villa",
+    "external_id": 560818,
+    "kickoff_utc": "2027-03-03T12:00:00Z",
+    "matchday": 28,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
+    },
+    "away": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

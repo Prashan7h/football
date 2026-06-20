@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-02-27-everton-nottingham-forest",
+    "external_id": 560806,
+    "kickoff_utc": "2027-02-27T12:00:00Z",
+    "matchday": 27,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
+    },
+    "away": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

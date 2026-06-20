@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-26-aston-villa-leeds",
+    "external_id": 560702,
+    "kickoff_utc": "2026-12-26T15:00:00Z",
+    "matchday": 17,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

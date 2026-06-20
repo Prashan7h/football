@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-10-17-fulham-hull-city",
+    "external_id": 560602,
+    "kickoff_utc": "2026-10-17T14:00:00Z",
+    "matchday": 7,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
+    },
+    "away": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

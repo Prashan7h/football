@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-30-liverpool-bournemouth",
+    "external_id": 560914,
+    "kickoff_utc": "2027-05-30T12:00:00Z",
+    "matchday": 38,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
+    },
+    "away": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-04-24-nottingham-forest-sunderland",
+    "external_id": 560867,
+    "kickoff_utc": "2027-04-24T12:00:00Z",
+    "matchday": 33,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
+    },
+    "away": {
+      "slug": "sunderland",
+      "name": "Sunderland",
+      "primary": "#EB172B",
+      "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

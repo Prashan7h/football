@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-11-21-aston-villa-sunderland",
+    "external_id": 560644,
+    "kickoff_utc": "2026-11-21T15:00:00Z",
+    "matchday": 11,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+    },
+    "away": {
+      "slug": "sunderland",
+      "name": "Sunderland",
+      "primary": "#EB172B",
+      "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-11-21-chelsea-leeds",
+    "external_id": 560642,
+    "kickoff_utc": "2026-11-21T15:00:00Z",
+    "matchday": 11,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

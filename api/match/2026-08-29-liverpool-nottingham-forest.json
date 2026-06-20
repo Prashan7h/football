@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-08-29-liverpool-nottingham-forest",
+    "external_id": 560552,
+    "kickoff_utc": "2026-08-29T14:00:00Z",
+    "matchday": 2,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
+    },
+    "away": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-12-manchester-city-chelsea",
+    "external_id": 560689,
+    "kickoff_utc": "2026-12-12T15:00:00Z",
+    "matchday": 15,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
+    },
+    "away": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

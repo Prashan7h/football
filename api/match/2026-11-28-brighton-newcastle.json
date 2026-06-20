@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-11-28-brighton-newcastle",
+    "external_id": 560659,
+    "kickoff_utc": "2026-11-28T15:00:00Z",
+    "matchday": 12,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
+    },
+    "away": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

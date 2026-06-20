@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-11-07-leeds-tottenham",
+    "external_id": 560632,
+    "kickoff_utc": "2026-11-07T15:00:00Z",
+    "matchday": 10,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

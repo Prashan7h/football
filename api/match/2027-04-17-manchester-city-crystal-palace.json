@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-04-17-manchester-city-crystal-palace",
+    "external_id": 560859,
+    "kickoff_utc": "2027-04-17T12:00:00Z",
+    "matchday": 32,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
+    },
+    "away": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-19-bournemouth-coventry-city",
+    "external_id": 560698,
+    "kickoff_utc": "2026-12-19T15:00:00Z",
+    "matchday": 16,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+    },
+    "away": {
+      "slug": "coventry-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

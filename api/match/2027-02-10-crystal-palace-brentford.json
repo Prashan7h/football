@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-02-10-crystal-palace-brentford",
+    "external_id": 560786,
+    "kickoff_utc": "2027-02-10T12:00:00Z",
+    "matchday": 25,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-02-20-manchester-city-newcastle",
+    "external_id": 560792,
+    "kickoff_utc": "2027-02-20T12:00:00Z",
+    "matchday": 26,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
+    },
+    "away": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-12-coventry-city-aston-villa",
+    "external_id": 560687,
+    "kickoff_utc": "2026-12-12T15:00:00Z",
+    "matchday": 15,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "coventry-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+    },
+    "away": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

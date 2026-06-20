@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-03-03-bournemouth-tottenham",
+    "external_id": 560813,
+    "kickoff_utc": "2027-03-03T12:00:00Z",
+    "matchday": 28,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

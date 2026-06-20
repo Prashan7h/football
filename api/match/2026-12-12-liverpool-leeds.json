@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-12-liverpool-leeds",
+    "external_id": 560690,
+    "kickoff_utc": "2026-12-12T15:00:00Z",
+    "matchday": 15,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

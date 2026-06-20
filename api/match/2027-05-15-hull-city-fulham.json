@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-15-hull-city-fulham",
+    "external_id": 560896,
+    "kickoff_utc": "2027-05-15T12:00:00Z",
+    "matchday": 36,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+    },
+    "away": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

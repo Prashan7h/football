@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-03-13-liverpool-ipswich",
+    "external_id": 560825,
+    "kickoff_utc": "2027-03-13T12:00:00Z",
+    "matchday": 29,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
+    },
+    "away": {
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

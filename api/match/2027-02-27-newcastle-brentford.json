@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-02-27-newcastle-brentford",
+    "external_id": 560810,
+    "kickoff_utc": "2027-02-27T12:00:00Z",
+    "matchday": 27,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

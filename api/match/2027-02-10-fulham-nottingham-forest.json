@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-02-10-fulham-nottingham-forest",
+    "external_id": 560788,
+    "kickoff_utc": "2027-02-10T12:00:00Z",
+    "matchday": 25,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
+    },
+    "away": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

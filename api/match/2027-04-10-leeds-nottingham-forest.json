@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-04-10-leeds-nottingham-forest",
+    "external_id": 560843,
+    "kickoff_utc": "2027-04-10T12:00:00Z",
+    "matchday": 31,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "away": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

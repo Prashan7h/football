@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-02-newcastle-manchester-united",
+    "external_id": 560670,
+    "kickoff_utc": "2026-12-02T20:00:00Z",
+    "matchday": 13,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
+    },
+    "away": {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-united.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

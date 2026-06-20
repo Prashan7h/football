@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-10-24-sunderland-leeds",
+    "external_id": 560621,
+    "kickoff_utc": "2026-10-24T14:00:00Z",
+    "matchday": 8,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "sunderland",
+      "name": "Sunderland",
+      "primary": "#EB172B",
+      "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

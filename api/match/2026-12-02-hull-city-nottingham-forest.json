@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-02-hull-city-nottingham-forest",
+    "external_id": 560664,
+    "kickoff_utc": "2026-12-02T20:00:00Z",
+    "matchday": 13,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+    },
+    "away": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

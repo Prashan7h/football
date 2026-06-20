@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-02-06-crystal-palace-coventry-city",
+    "external_id": 560775,
+    "kickoff_utc": "2027-02-06T12:00:00Z",
+    "matchday": 24,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
+    },
+    "away": {
+      "slug": "coventry-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

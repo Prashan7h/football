@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-01-06-everton-aston-villa",
+    "external_id": 560738,
+    "kickoff_utc": "2027-01-06T12:00:00Z",
+    "matchday": 20,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
+    },
+    "away": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

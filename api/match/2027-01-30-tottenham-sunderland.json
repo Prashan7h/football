@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-01-30-tottenham-sunderland",
+    "external_id": 560762,
+    "kickoff_utc": "2027-01-30T12:00:00Z",
+    "matchday": 23,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "away": {
+      "slug": "sunderland",
+      "name": "Sunderland",
+      "primary": "#EB172B",
+      "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

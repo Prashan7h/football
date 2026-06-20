@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-26-ipswich-brentford",
+    "external_id": 560711,
+    "kickoff_utc": "2026-12-26T15:00:00Z",
+    "matchday": 17,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

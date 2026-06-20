@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-04-24-brentford-fulham",
+    "external_id": 560870,
+    "kickoff_utc": "2027-04-24T12:00:00Z",
+    "matchday": 33,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "away": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-02-20-brentford-coventry-city",
+    "external_id": 560794,
+    "kickoff_utc": "2027-02-20T12:00:00Z",
+    "matchday": 26,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "away": {
+      "slug": "coventry-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

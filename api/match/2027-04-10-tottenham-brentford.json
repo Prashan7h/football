@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-04-10-tottenham-brentford",
+    "external_id": 560850,
+    "kickoff_utc": "2027-04-10T12:00:00Z",
+    "matchday": 31,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

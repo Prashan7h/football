@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-01-30-aston-villa-ipswich",
+    "external_id": 560771,
+    "kickoff_utc": "2027-01-30T12:00:00Z",
+    "matchday": 23,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+    },
+    "away": {
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

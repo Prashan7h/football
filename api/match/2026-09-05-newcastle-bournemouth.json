@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-09-05-newcastle-bournemouth",
+    "external_id": 560571,
+    "kickoff_utc": "2026-09-05T14:00:00Z",
+    "matchday": 3,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
+    },
+    "away": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

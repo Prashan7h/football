@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-03-20-arsenal-sunderland",
+    "external_id": 560836,
+    "kickoff_utc": "2027-03-20T12:00:00Z",
+    "matchday": 30,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+    },
+    "away": {
+      "slug": "sunderland",
+      "name": "Sunderland",
+      "primary": "#EB172B",
+      "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

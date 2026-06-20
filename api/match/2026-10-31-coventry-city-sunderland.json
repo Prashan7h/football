@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-10-31-coventry-city-sunderland",
+    "external_id": 560625,
+    "kickoff_utc": "2026-10-31T15:00:00Z",
+    "matchday": 9,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "coventry-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+    },
+    "away": {
+      "slug": "sunderland",
+      "name": "Sunderland",
+      "primary": "#EB172B",
+      "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

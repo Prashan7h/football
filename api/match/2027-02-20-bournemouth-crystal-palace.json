@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-02-20-bournemouth-crystal-palace",
+    "external_id": 560793,
+    "kickoff_utc": "2027-02-20T12:00:00Z",
+    "matchday": 26,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+    },
+    "away": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

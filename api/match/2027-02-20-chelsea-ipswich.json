@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-02-20-chelsea-ipswich",
+    "external_id": 560795,
+    "kickoff_utc": "2027-02-20T12:00:00Z",
+    "matchday": 26,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
+    },
+    "away": {
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

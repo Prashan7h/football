@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-08-leeds-arsenal",
+    "external_id": 560883,
+    "kickoff_utc": "2027-05-08T12:00:00Z",
+    "matchday": 35,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "away": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

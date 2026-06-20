@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-02-manchester-city-leeds",
+    "external_id": 560669,
+    "kickoff_utc": "2026-12-02T20:00:00Z",
+    "matchday": 13,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

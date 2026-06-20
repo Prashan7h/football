@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-08-23-manchester-city-bournemouth",
+    "external_id": 560548,
+    "kickoff_utc": "2026-08-23T13:00:00Z",
+    "matchday": 1,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
+    },
+    "away": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

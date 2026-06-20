@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-01-06-ipswich-coventry-city",
+    "external_id": 560741,
+    "kickoff_utc": "2027-01-06T12:00:00Z",
+    "matchday": 20,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+    },
+    "away": {
+      "slug": "coventry-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

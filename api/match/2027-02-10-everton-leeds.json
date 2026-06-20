@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-02-10-everton-leeds",
+    "external_id": 560782,
+    "kickoff_utc": "2027-02-10T12:00:00Z",
+    "matchday": 25,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

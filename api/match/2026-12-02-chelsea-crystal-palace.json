@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-02-chelsea-crystal-palace",
+    "external_id": 560665,
+    "kickoff_utc": "2026-12-02T20:00:00Z",
+    "matchday": 13,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
+    },
+    "away": {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-03-13-bournemouth-newcastle",
+    "external_id": 560827,
+    "kickoff_utc": "2027-03-13T12:00:00Z",
+    "matchday": 29,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+    },
+    "away": {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

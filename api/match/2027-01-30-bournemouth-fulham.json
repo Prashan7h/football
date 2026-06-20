@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-01-30-bournemouth-fulham",
+    "external_id": 560767,
+    "kickoff_utc": "2027-01-30T12:00:00Z",
+    "matchday": 23,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+    },
+    "away": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

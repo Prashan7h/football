@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-09-19-tottenham-aston-villa",
+    "external_id": 560587,
+    "kickoff_utc": "2026-09-19T14:00:00Z",
+    "matchday": 5,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "away": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

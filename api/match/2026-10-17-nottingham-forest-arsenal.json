@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-10-17-nottingham-forest-arsenal",
+    "external_id": 560608,
+    "kickoff_utc": "2026-10-17T14:00:00Z",
+    "matchday": 7,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
+    },
+    "away": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

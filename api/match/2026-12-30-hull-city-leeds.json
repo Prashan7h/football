@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-30-hull-city-leeds",
+    "external_id": 560716,
+    "kickoff_utc": "2026-12-30T20:00:00Z",
+    "matchday": 18,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

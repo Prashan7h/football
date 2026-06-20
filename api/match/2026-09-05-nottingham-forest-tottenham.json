@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-09-05-nottingham-forest-tottenham",
+    "external_id": 560562,
+    "kickoff_utc": "2026-09-05T14:00:00Z",
+    "matchday": 3,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
+    },
+    "away": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

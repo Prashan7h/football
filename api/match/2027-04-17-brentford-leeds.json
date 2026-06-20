@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-04-17-brentford-leeds",
+    "external_id": 560854,
+    "kickoff_utc": "2027-04-17T12:00:00Z",
+    "matchday": 32,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

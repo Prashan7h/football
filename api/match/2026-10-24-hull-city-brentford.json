@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-10-24-hull-city-brentford",
+    "external_id": 560619,
+    "kickoff_utc": "2026-10-24T14:00:00Z",
+    "matchday": 8,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

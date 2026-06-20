@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-10-10-aston-villa-brentford",
+    "external_id": 560601,
+    "kickoff_utc": "2026-10-10T14:00:00Z",
+    "matchday": 6,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

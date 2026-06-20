@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-15-manchester-united-leeds",
+    "external_id": 560897,
+    "kickoff_utc": "2027-05-15T12:00:00Z",
+    "matchday": 36,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-united.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

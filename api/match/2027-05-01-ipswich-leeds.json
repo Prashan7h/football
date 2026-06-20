@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-01-ipswich-leeds",
+    "external_id": 560881,
+    "kickoff_utc": "2027-05-01T12:00:00Z",
+    "matchday": 34,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+    },
+    "away": {
+      "slug": "leeds",
+      "name": "Leeds",
+      "primary": "#FFCD00",
+      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

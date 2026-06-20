@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-03-20-hull-city-chelsea",
+    "external_id": 560838,
+    "kickoff_utc": "2027-03-20T12:00:00Z",
+    "matchday": 30,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+    },
+    "away": {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "primary": "#034694",
+      "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

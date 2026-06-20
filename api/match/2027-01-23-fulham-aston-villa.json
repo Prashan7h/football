@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-01-23-fulham-aston-villa",
+    "external_id": 560758,
+    "kickoff_utc": "2027-01-23T12:00:00Z",
+    "matchday": 22,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
+    },
+    "away": {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "primary": "#670E36",
+      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

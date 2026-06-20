@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-01-23-everton-brentford",
+    "external_id": 560753,
+    "kickoff_utc": "2027-01-23T12:00:00Z",
+    "matchday": 22,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

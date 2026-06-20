@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-10-31-brentford-nottingham-forest",
+    "external_id": 560630,
+    "kickoff_utc": "2026-10-31T15:00:00Z",
+    "matchday": 9,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "away": {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "primary": "#DD0000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

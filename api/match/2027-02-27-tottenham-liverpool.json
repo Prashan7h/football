@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-02-27-tottenham-liverpool",
+    "external_id": 560809,
+    "kickoff_utc": "2027-02-27T12:00:00Z",
+    "matchday": 27,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "away": {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "primary": "#C8102E",
+      "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

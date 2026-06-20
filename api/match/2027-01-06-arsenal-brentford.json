@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-01-06-arsenal-brentford",
+    "external_id": 560732,
+    "kickoff_utc": "2027-01-06T12:00:00Z",
+    "matchday": 20,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+    },
+    "away": {
+      "slug": "brentford",
+      "name": "Brentford",
+      "primary": "#E30613",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}

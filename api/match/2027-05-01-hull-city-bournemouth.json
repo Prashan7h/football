@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2027-05-01-hull-city-bournemouth",
+    "external_id": 560875,
+    "kickoff_utc": "2027-05-01T12:00:00Z",
+    "matchday": 34,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+    },
+    "away": {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}
