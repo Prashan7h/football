@@ -1,9 +1,9 @@
 {
   "meta": {
-    "id": "2026-09-12-sunderland-arsenal",
-    "external_id": 560577,
-    "kickoff_utc": "2026-09-12T19:00:00Z",
-    "matchday": 4,
+    "id": "2026-08-30-sunderland-fulham",
+    "external_id": 560554,
+    "kickoff_utc": "2026-08-30T13:00:00Z",
+    "matchday": 2,
     "venue": null,
     "status": "scheduled",
     "home": {
@@ -13,10 +13,10 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
     },
     "away": {
-      "slug": "arsenal",
-      "name": "Arsenal",
-      "primary": "#EF0107",
-      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
     },
     "score": null
   },
