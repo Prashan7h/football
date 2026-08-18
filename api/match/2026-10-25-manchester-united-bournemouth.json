@@ -1,9 +1,9 @@
 {
   "meta": {
-    "id": "2026-10-10-manchester-united-tottenham",
-    "external_id": 560600,
-    "kickoff_utc": "2026-10-10T16:30:00Z",
-    "matchday": 6,
+    "id": "2026-10-25-manchester-united-bournemouth",
+    "external_id": 560615,
+    "kickoff_utc": "2026-10-25T14:00:00Z",
+    "matchday": 8,
     "venue": null,
     "status": "scheduled",
     "home": {
@@ -13,10 +13,10 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/manchester-united.png"
     },
     "away": {
-      "slug": "tottenham",
-      "name": "Tottenham",
-      "primary": "#132257",
-      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
     },
     "score": null
   },

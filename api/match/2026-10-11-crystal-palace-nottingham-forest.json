@@ -1,16 +1,16 @@
 {
   "meta": {
-    "id": "2026-10-31-brentford-nottingham-forest",
-    "external_id": 560630,
-    "kickoff_utc": "2026-10-31T15:00:00Z",
-    "matchday": 9,
+    "id": "2026-10-11-crystal-palace-nottingham-forest",
+    "external_id": 560596,
+    "kickoff_utc": "2026-10-11T13:00:00Z",
+    "matchday": 6,
     "venue": null,
     "status": "scheduled",
     "home": {
-      "slug": "brentford",
-      "name": "Brentford",
-      "primary": "#E30613",
-      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
     },
     "away": {
       "slug": "nottingham-forest",

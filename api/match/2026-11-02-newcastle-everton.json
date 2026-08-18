@@ -1,16 +1,16 @@
 {
   "meta": {
-    "id": "2026-10-24-arsenal-everton",
-    "external_id": 560616,
-    "kickoff_utc": "2026-10-24T14:00:00Z",
-    "matchday": 8,
+    "id": "2026-11-02-newcastle-everton",
+    "external_id": 560622,
+    "kickoff_utc": "2026-11-02T20:00:00Z",
+    "matchday": 9,
     "venue": null,
     "status": "scheduled",
     "home": {
-      "slug": "arsenal",
-      "name": "Arsenal",
-      "primary": "#EF0107",
-      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "primary": "#241F20",
+      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
     },
     "away": {
       "slug": "everton",

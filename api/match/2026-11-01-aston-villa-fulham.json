@@ -1,9 +1,9 @@
 {
   "meta": {
-    "id": "2026-10-10-aston-villa-brentford",
-    "external_id": 560601,
-    "kickoff_utc": "2026-10-10T14:00:00Z",
-    "matchday": 6,
+    "id": "2026-11-01-aston-villa-fulham",
+    "external_id": 560628,
+    "kickoff_utc": "2026-11-01T14:00:00Z",
+    "matchday": 9,
     "venue": null,
     "status": "scheduled",
     "home": {
@@ -13,10 +13,10 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
     },
     "away": {
-      "slug": "brentford",
-      "name": "Brentford",
-      "primary": "#E30613",
-      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+      "slug": "fulham",
+      "name": "Fulham",
+      "primary": "#000000",
+      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
     },
     "score": null
   },

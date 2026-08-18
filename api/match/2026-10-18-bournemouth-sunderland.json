@@ -1,16 +1,16 @@
 {
   "meta": {
-    "id": "2026-10-31-coventry-city-sunderland",
-    "external_id": 560625,
-    "kickoff_utc": "2026-10-31T15:00:00Z",
-    "matchday": 9,
+    "id": "2026-10-18-bournemouth-sunderland",
+    "external_id": 560604,
+    "kickoff_utc": "2026-10-18T13:00:00Z",
+    "matchday": 7,
     "venue": null,
     "status": "scheduled",
     "home": {
-      "slug": "coventry-city",
-      "name": "Unknown",
-      "primary": "#5A6470",
-      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
     },
     "away": {
       "slug": "sunderland",

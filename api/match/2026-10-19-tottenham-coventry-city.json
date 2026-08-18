@@ -1,9 +1,9 @@
 {
   "meta": {
-    "id": "2026-10-31-tottenham-crystal-palace",
-    "external_id": 560627,
-    "kickoff_utc": "2026-10-31T17:30:00Z",
-    "matchday": 9,
+    "id": "2026-10-19-tottenham-coventry-city",
+    "external_id": 560606,
+    "kickoff_utc": "2026-10-19T19:00:00Z",
+    "matchday": 7,
     "venue": null,
     "status": "scheduled",
     "home": {
@@ -13,10 +13,10 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
     },
     "away": {
-      "slug": "crystal-palace",
-      "name": "Crystal Palace",
-      "primary": "#1B458F",
-      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
+      "slug": "coventry-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
     },
     "score": null
   },

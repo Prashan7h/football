@@ -1,16 +1,16 @@
 {
   "meta": {
-    "id": "2026-10-31-brentford-nottingham-forest",
-    "external_id": 560630,
-    "kickoff_utc": "2026-10-31T15:00:00Z",
-    "matchday": 9,
+    "id": "2026-10-23-ipswich-nottingham-forest",
+    "external_id": 560620,
+    "kickoff_utc": "2026-10-23T19:00:00Z",
+    "matchday": 8,
     "venue": null,
     "status": "scheduled",
     "home": {
-      "slug": "brentford",
-      "name": "Brentford",
-      "primary": "#E30613",
-      "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "primary": "#3764A8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
     },
     "away": {
       "slug": "nottingham-forest",
