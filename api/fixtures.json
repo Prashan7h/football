@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 1,
-  "updated_at": "2026-08-19T18:58:37Z",
+  "updated_at": "2026-08-21T19:05:56Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -9,7 +9,7 @@
       "kickoff_utc": "2026-08-21T19:00:00Z",
       "matchday": 1,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "arsenal",
         "name": "Arsenal",
@@ -22,7 +22,10 @@
         "primary": "#5A6470",
         "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-08-22-hull-city-manchester-united",
