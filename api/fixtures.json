@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 1,
-  "updated_at": "2026-08-21T20:19:25Z",
+  "updated_at": "2026-08-21T21:11:36Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -9,7 +9,7 @@
       "kickoff_utc": "2026-08-21T19:00:00Z",
       "matchday": 1,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "arsenal",
         "name": "Arsenal",
