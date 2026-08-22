@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 1,
-  "updated_at": "2026-08-22T14:40:42Z",
+  "updated_at": "2026-08-22T14:57:59Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -72,7 +72,7 @@
       },
       "score": {
         "home": 1,
-        "away": 0
+        "away": 1
       }
     },
     {
@@ -119,7 +119,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
       },
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
       }
     },
