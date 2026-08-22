@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 1,
-  "updated_at": "2026-08-22T16:08:47Z",
+  "updated_at": "2026-08-22T16:45:51Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -129,7 +129,7 @@
       "kickoff_utc": "2026-08-22T16:30:00Z",
       "matchday": 1,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "brentford",
         "name": "Brentford",
@@ -142,7 +142,10 @@
         "primary": "#132257",
         "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-08-23-manchester-city-bournemouth",
