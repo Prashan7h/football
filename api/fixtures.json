@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 1,
-  "updated_at": "2026-08-22T17:09:32Z",
+  "updated_at": "2026-08-22T17:41:40Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -143,7 +143,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
       },
       "score": {
-        "home": 2,
+        "home": 3,
         "away": 0
       }
     },
