@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 1,
-  "updated_at": "2026-08-22T15:22:23Z",
+  "updated_at": "2026-08-22T15:58:10Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -71,7 +71,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
       },
       "score": {
-        "home": 1,
+        "home": 2,
         "away": 1
       }
     },
@@ -81,7 +81,7 @@
       "kickoff_utc": "2026-08-22T14:00:00Z",
       "matchday": 1,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "nottingham-forest",
         "name": "Nottingham Forest",
@@ -96,7 +96,7 @@
       },
       "score": {
         "home": 0,
-        "away": 0
+        "away": 1
       }
     },
     {
