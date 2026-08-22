@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-08-22T14:00:00Z",
     "matchday": 1,
     "venue": null,
-    "status": "scheduled",
+    "status": "live",
     "home": {
       "slug": "ipswich",
       "name": "Ipswich",
@@ -18,7 +18,10 @@
       "primary": "#EB172B",
       "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
     },
-    "score": null
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   "preview": null,
   "review": null

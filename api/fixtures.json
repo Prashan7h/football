@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 1,
-  "updated_at": "2026-08-22T13:48:40Z",
+  "updated_at": "2026-08-22T14:09:14Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -57,7 +57,7 @@
       "kickoff_utc": "2026-08-22T14:00:00Z",
       "matchday": 1,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "ipswich",
         "name": "Ipswich",
@@ -70,7 +70,10 @@
         "primary": "#EB172B",
         "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-08-22-nottingham-forest-leeds",
@@ -78,7 +81,7 @@
       "kickoff_utc": "2026-08-22T14:00:00Z",
       "matchday": 1,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "nottingham-forest",
         "name": "Nottingham Forest",
@@ -91,7 +94,10 @@
         "primary": "#FFCD00",
         "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-08-22-everton-crystal-palace",
@@ -99,7 +105,7 @@
       "kickoff_utc": "2026-08-22T14:00:00Z",
       "matchday": 1,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "everton",
         "name": "Everton",
@@ -112,7 +118,10 @@
         "primary": "#1B458F",
         "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-08-22-brentford-tottenham",
