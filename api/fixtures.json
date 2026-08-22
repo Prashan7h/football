@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 1,
-  "updated_at": "2026-08-22T17:41:40Z",
+  "updated_at": "2026-08-22T18:34:04Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -129,7 +129,7 @@
       "kickoff_utc": "2026-08-22T16:30:00Z",
       "matchday": 1,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "brentford",
         "name": "Brentford",
