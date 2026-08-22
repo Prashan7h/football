@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 1,
-  "updated_at": "2026-08-22T12:13:25Z",
+  "updated_at": "2026-08-22T13:48:40Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -33,7 +33,7 @@
       "kickoff_utc": "2026-08-22T11:30:00Z",
       "matchday": 1,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "hull-city",
         "name": "Unknown",
