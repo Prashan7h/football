@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 1,
-  "updated_at": "2026-08-21T21:11:36Z",
+  "updated_at": "2026-08-22T11:41:03Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -33,7 +33,7 @@
       "kickoff_utc": "2026-08-22T11:30:00Z",
       "matchday": 1,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "hull-city",
         "name": "Unknown",
@@ -46,7 +46,10 @@
         "primary": "#DA291C",
         "crest": "https://prashan7h.github.io/football/assets/crests/manchester-united.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-08-22-ipswich-sunderland",
