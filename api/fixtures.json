@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 1,
-  "updated_at": "2026-08-22T18:34:04Z",
+  "updated_at": "2026-08-23T13:07:03Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -153,7 +153,7 @@
       "kickoff_utc": "2026-08-23T13:00:00Z",
       "matchday": 1,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "manchester-city",
         "name": "Manchester City",
@@ -166,7 +166,10 @@
         "primary": "#DA291C",
         "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-08-23-brighton-aston-villa",
@@ -174,7 +177,7 @@
       "kickoff_utc": "2026-08-23T13:00:00Z",
       "matchday": 1,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "brighton",
         "name": "Brighton",
@@ -187,7 +190,10 @@
         "primary": "#670E36",
         "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-08-23-newcastle-liverpool",
