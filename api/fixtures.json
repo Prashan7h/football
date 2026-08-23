@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 1,
-  "updated_at": "2026-08-23T15:09:43Z",
+  "updated_at": "2026-08-23T15:42:36Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -201,7 +201,7 @@
       "kickoff_utc": "2026-08-23T15:30:00Z",
       "matchday": 1,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "newcastle",
         "name": "Newcastle",
@@ -214,7 +214,10 @@
         "primary": "#C8102E",
         "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-08-24-fulham-chelsea",
