@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 1,
-  "updated_at": "2026-08-23T15:42:36Z",
+  "updated_at": "2026-08-23T15:45:22Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -215,7 +215,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
       },
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
       }
     },
