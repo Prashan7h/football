@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 1,
-  "updated_at": "2026-08-23T13:27:15Z",
+  "updated_at": "2026-08-23T13:50:27Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -168,7 +168,7 @@
       },
       "score": {
         "home": 0,
-        "away": 0
+        "away": 1
       }
     },
     {
@@ -191,7 +191,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
       },
       "score": {
-        "home": 2,
+        "home": 4,
         "away": 0
       }
     },
