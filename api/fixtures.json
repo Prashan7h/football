@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 1,
-  "updated_at": "2026-08-23T17:10:39Z",
+  "updated_at": "2026-08-23T17:40:56Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -201,7 +201,7 @@
       "kickoff_utc": "2026-08-23T15:30:00Z",
       "matchday": 1,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "newcastle",
         "name": "Newcastle",
@@ -216,7 +216,7 @@
       },
       "score": {
         "home": 2,
-        "away": 1
+        "away": 2
       }
     },
     {
