@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 1,
-  "updated_at": "2026-08-24T20:46:30Z",
+  "updated_at": "2026-08-24T21:16:48Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -225,7 +225,7 @@
       "kickoff_utc": "2026-08-24T19:00:00Z",
       "matchday": 1,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "fulham",
         "name": "Fulham",
