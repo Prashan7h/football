@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 1,
-  "updated_at": "2026-08-24T19:10:25Z",
+  "updated_at": "2026-08-24T19:42:42Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -239,7 +239,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
       },
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 1
       }
     },
