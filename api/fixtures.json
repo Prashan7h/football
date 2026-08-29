@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 2,
-  "updated_at": "2026-08-29T17:17:57Z",
+  "updated_at": "2026-08-29T18:44:06Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -345,7 +345,7 @@
       "kickoff_utc": "2026-08-29T16:30:00Z",
       "matchday": 2,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "tottenham",
         "name": "Tottenham",
@@ -360,7 +360,7 @@
       },
       "score": {
         "home": 0,
-        "away": 0
+        "away": 2
       }
     },
     {
