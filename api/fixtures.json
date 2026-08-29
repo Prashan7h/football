@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 2,
-  "updated_at": "2026-08-29T01:02:27Z",
+  "updated_at": "2026-08-29T12:16:48Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -273,7 +273,7 @@
       "kickoff_utc": "2026-08-29T11:30:00Z",
       "matchday": 2,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "liverpool",
         "name": "Liverpool",
@@ -286,7 +286,10 @@
         "primary": "#DD0000",
         "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 1
+      }
     },
     {
       "id": "2026-08-29-bournemouth-everton",
