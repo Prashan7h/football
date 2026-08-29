@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 2,
-  "updated_at": "2026-08-27T10:42:09Z",
+  "updated_at": "2026-08-29T01:02:27Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -249,7 +249,7 @@
       "kickoff_utc": "2026-08-28T19:00:00Z",
       "matchday": 2,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "crystal-palace",
         "name": "Crystal Palace",
@@ -262,7 +262,10 @@
         "primary": "#6CABDD",
         "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 4
+      }
     },
     {
       "id": "2026-08-29-liverpool-nottingham-forest",
@@ -1000,27 +1003,6 @@
       "score": null
     },
     {
-      "id": "2026-09-19-manchester-city-sunderland",
-      "external_id": 560590,
-      "kickoff_utc": "2026-09-19T14:00:00Z",
-      "matchday": 5,
-      "venue": null,
-      "status": "scheduled",
-      "home": {
-        "slug": "manchester-city",
-        "name": "Manchester City",
-        "primary": "#6CABDD",
-        "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
-      },
-      "away": {
-        "slug": "sunderland",
-        "name": "Sunderland",
-        "primary": "#EB172B",
-        "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
-      },
-      "score": null
-    },
-    {
       "id": "2026-09-19-nottingham-forest-coventry-city",
       "external_id": 560589,
       "kickoff_utc": "2026-09-19T16:30:00Z",
@@ -1059,6 +1041,27 @@
         "name": "Liverpool",
         "primary": "#C8102E",
         "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
+      },
+      "score": null
+    },
+    {
+      "id": "2026-09-20-manchester-city-sunderland",
+      "external_id": 560590,
+      "kickoff_utc": "2026-09-20T13:00:00Z",
+      "matchday": 5,
+      "venue": null,
+      "status": "scheduled",
+      "home": {
+        "slug": "manchester-city",
+        "name": "Manchester City",
+        "primary": "#6CABDD",
+        "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
+      },
+      "away": {
+        "slug": "sunderland",
+        "name": "Sunderland",
+        "primary": "#EB172B",
+        "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
       },
       "score": null
     },
