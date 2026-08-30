@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-08-29T14:00:00Z",
     "matchday": 2,
     "venue": null,
-    "status": "finished",
+    "status": "scheduled",
     "home": {
       "slug": "bournemouth",
       "name": "Bournemouth",
@@ -18,10 +18,7 @@
       "primary": "#003399",
       "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
     },
-    "score": {
-      "home": 1,
-      "away": 1
-    }
+    "score": null
   },
   "preview": null,
   "review": null

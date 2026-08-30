@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 2,
-  "updated_at": "2026-08-29T18:44:06Z",
+  "updated_at": "2026-08-30T10:48:03Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -273,7 +273,7 @@
       "kickoff_utc": "2026-08-29T11:30:00Z",
       "matchday": 2,
       "venue": null,
-      "status": "finished",
+      "status": "scheduled",
       "home": {
         "slug": "liverpool",
         "name": "Liverpool",
@@ -286,10 +286,7 @@
         "primary": "#DD0000",
         "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
       },
-      "score": {
-        "home": 2,
-        "away": 2
-      }
+      "score": null
     },
     {
       "id": "2026-08-29-bournemouth-everton",
@@ -297,7 +294,7 @@
       "kickoff_utc": "2026-08-29T14:00:00Z",
       "matchday": 2,
       "venue": null,
-      "status": "finished",
+      "status": "scheduled",
       "home": {
         "slug": "bournemouth",
         "name": "Bournemouth",
@@ -310,10 +307,7 @@
         "primary": "#003399",
         "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
       },
-      "score": {
-        "home": 1,
-        "away": 1
-      }
+      "score": null
     },
     {
       "id": "2026-08-29-coventry-city-hull-city",
@@ -321,7 +315,7 @@
       "kickoff_utc": "2026-08-29T14:00:00Z",
       "matchday": 2,
       "venue": null,
-      "status": "finished",
+      "status": "scheduled",
       "home": {
         "slug": "coventry-city",
         "name": "Unknown",
@@ -334,10 +328,7 @@
         "primary": "#5A6470",
         "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
       },
-      "score": {
-        "home": 0,
-        "away": 1
-      }
+      "score": null
     },
     {
       "id": "2026-08-29-tottenham-newcastle",
@@ -345,7 +336,7 @@
       "kickoff_utc": "2026-08-29T16:30:00Z",
       "matchday": 2,
       "venue": null,
-      "status": "finished",
+      "status": "scheduled",
       "home": {
         "slug": "tottenham",
         "name": "Tottenham",
@@ -358,10 +349,7 @@
         "primary": "#241F20",
         "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
       },
-      "score": {
-        "home": 0,
-        "away": 2
-      }
+      "score": null
     },
     {
       "id": "2026-08-30-sunderland-fulham",

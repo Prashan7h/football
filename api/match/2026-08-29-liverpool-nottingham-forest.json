@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-08-29T11:30:00Z",
     "matchday": 2,
     "venue": null,
-    "status": "finished",
+    "status": "scheduled",
     "home": {
       "slug": "liverpool",
       "name": "Liverpool",
@@ -18,10 +18,7 @@
       "primary": "#DD0000",
       "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
     },
-    "score": {
-      "home": 2,
-      "away": 2
-    }
+    "score": null
   },
   "preview": null,
   "review": null
