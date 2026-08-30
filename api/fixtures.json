@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 2,
-  "updated_at": "2026-08-30T15:05:45Z",
+  "updated_at": "2026-08-30T18:37:40Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -429,7 +429,7 @@
       "kickoff_utc": "2026-08-30T15:30:00Z",
       "matchday": 2,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "manchester-united",
         "name": "Manchester United",
@@ -442,7 +442,10 @@
         "primary": "#3764A8",
         "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
       },
-      "score": null
+      "score": {
+        "home": 5,
+        "away": 2
+      }
     },
     {
       "id": "2026-08-31-aston-villa-arsenal",

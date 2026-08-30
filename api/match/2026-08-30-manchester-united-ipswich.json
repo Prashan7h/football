@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-08-30T15:30:00Z",
     "matchday": 2,
     "venue": null,
-    "status": "scheduled",
+    "status": "finished",
     "home": {
       "slug": "manchester-united",
       "name": "Manchester United",
@@ -18,7 +18,10 @@
       "primary": "#3764A8",
       "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
     },
-    "score": null
+    "score": {
+      "home": 5,
+      "away": 2
+    }
   },
   "preview": null,
   "review": null
