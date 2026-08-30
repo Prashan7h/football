@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 2,
-  "updated_at": "2026-08-30T10:48:03Z",
+  "updated_at": "2026-08-30T15:05:45Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -357,7 +357,7 @@
       "kickoff_utc": "2026-08-30T13:00:00Z",
       "matchday": 2,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "sunderland",
         "name": "Sunderland",
@@ -370,7 +370,10 @@
         "primary": "#000000",
         "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 0
+      }
     },
     {
       "id": "2026-08-30-chelsea-brighton",
@@ -378,7 +381,7 @@
       "kickoff_utc": "2026-08-30T13:00:00Z",
       "matchday": 2,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "chelsea",
         "name": "Chelsea",
@@ -391,7 +394,10 @@
         "primary": "#0057B8",
         "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
       },
-      "score": null
+      "score": {
+        "home": 4,
+        "away": 3
+      }
     },
     {
       "id": "2026-08-30-leeds-brentford",
@@ -399,7 +405,7 @@
       "kickoff_utc": "2026-08-30T13:00:00Z",
       "matchday": 2,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "leeds",
         "name": "Leeds",
@@ -412,7 +418,10 @@
         "primary": "#E30613",
         "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 1
+      }
     },
     {
       "id": "2026-08-30-manchester-united-ipswich",

@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-08-30T13:00:00Z",
     "matchday": 2,
     "venue": null,
-    "status": "scheduled",
+    "status": "finished",
     "home": {
       "slug": "chelsea",
       "name": "Chelsea",
@@ -18,7 +18,10 @@
       "primary": "#0057B8",
       "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
     },
-    "score": null
+    "score": {
+      "home": 4,
+      "away": 3
+    }
   },
   "preview": null,
   "review": null

@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-08-30T13:00:00Z",
     "matchday": 2,
     "venue": null,
-    "status": "scheduled",
+    "status": "finished",
     "home": {
       "slug": "leeds",
       "name": "Leeds",
@@ -18,7 +18,10 @@
       "primary": "#E30613",
       "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
     },
-    "score": null
+    "score": {
+      "home": 1,
+      "away": 1
+    }
   },
   "preview": null,
   "review": null
