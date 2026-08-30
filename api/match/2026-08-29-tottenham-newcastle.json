@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-08-29T16:30:00Z",
     "matchday": 2,
     "venue": null,
-    "status": "scheduled",
+    "status": "finished",
     "home": {
       "slug": "tottenham",
       "name": "Tottenham",
@@ -18,7 +18,10 @@
       "primary": "#241F20",
       "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
     },
-    "score": null
+    "score": {
+      "home": 0,
+      "away": 2
+    }
   },
   "preview": null,
   "review": null
