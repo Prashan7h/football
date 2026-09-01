@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 2,
-  "updated_at": "2026-08-31T21:56:46Z",
+  "updated_at": "2026-09-01T00:54:39Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -465,7 +465,7 @@
       "kickoff_utc": "2026-08-31T19:00:00Z",
       "matchday": 2,
       "venue": null,
-      "status": "finished",
+      "status": "scheduled",
       "home": {
         "slug": "aston-villa",
         "name": "Aston Villa",
@@ -478,10 +478,7 @@
         "primary": "#EF0107",
         "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
       },
-      "score": {
-        "home": 0,
-        "away": 1
-      }
+      "score": null
     },
     {
       "id": "2026-09-04-ipswich-liverpool",
