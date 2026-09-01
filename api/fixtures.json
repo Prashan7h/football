@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 2,
-  "updated_at": "2026-09-01T05:47:59Z",
+  "updated_at": "2026-09-01T22:42:18Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -967,27 +967,6 @@
       "score": null
     },
     {
-      "id": "2026-09-19-leeds-crystal-palace",
-      "external_id": 560585,
-      "kickoff_utc": "2026-09-19T14:00:00Z",
-      "matchday": 5,
-      "venue": null,
-      "status": "scheduled",
-      "home": {
-        "slug": "leeds",
-        "name": "Leeds",
-        "primary": "#FFCD00",
-        "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
-      },
-      "away": {
-        "slug": "crystal-palace",
-        "name": "Crystal Palace",
-        "primary": "#1B458F",
-        "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
-      },
-      "score": null
-    },
-    {
       "id": "2026-09-19-brighton-arsenal",
       "external_id": 560586,
       "kickoff_utc": "2026-09-19T14:00:00Z",
@@ -1068,6 +1047,27 @@
         "name": "Liverpool",
         "primary": "#C8102E",
         "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
+      },
+      "score": null
+    },
+    {
+      "id": "2026-09-20-leeds-crystal-palace",
+      "external_id": 560585,
+      "kickoff_utc": "2026-09-20T13:00:00Z",
+      "matchday": 5,
+      "venue": null,
+      "status": "scheduled",
+      "home": {
+        "slug": "leeds",
+        "name": "Leeds",
+        "primary": "#FFCD00",
+        "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+      },
+      "away": {
+        "slug": "crystal-palace",
+        "name": "Crystal Palace",
+        "primary": "#1B458F",
+        "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
       },
       "score": null
     },
