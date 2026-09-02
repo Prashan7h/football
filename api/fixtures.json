@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 2,
-  "updated_at": "2026-09-01T22:42:18Z",
+  "updated_at": "2026-09-02T14:46:30Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1576,27 +1576,6 @@
       "score": null
     },
     {
-      "id": "2026-10-24-liverpool-brighton",
-      "external_id": 560612,
-      "kickoff_utc": "2026-10-24T14:00:00Z",
-      "matchday": 8,
-      "venue": null,
-      "status": "scheduled",
-      "home": {
-        "slug": "liverpool",
-        "name": "Liverpool",
-        "primary": "#C8102E",
-        "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
-      },
-      "away": {
-        "slug": "brighton",
-        "name": "Brighton",
-        "primary": "#0057B8",
-        "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
-      },
-      "score": null
-    },
-    {
       "id": "2026-10-24-arsenal-everton",
       "external_id": 560616,
       "kickoff_utc": "2026-10-24T14:00:00Z",
@@ -1656,6 +1635,27 @@
         "name": "Tottenham",
         "primary": "#132257",
         "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+      },
+      "score": null
+    },
+    {
+      "id": "2026-10-25-liverpool-brighton",
+      "external_id": 560612,
+      "kickoff_utc": "2026-10-25T14:00:00Z",
+      "matchday": 8,
+      "venue": null,
+      "status": "scheduled",
+      "home": {
+        "slug": "liverpool",
+        "name": "Liverpool",
+        "primary": "#C8102E",
+        "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
+      },
+      "away": {
+        "slug": "brighton",
+        "name": "Brighton",
+        "primary": "#0057B8",
+        "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
       },
       "score": null
     },
@@ -1891,9 +1891,9 @@
       "score": null
     },
     {
-      "id": "2026-11-01-aston-villa-fulham",
+      "id": "2026-10-31-aston-villa-fulham",
       "external_id": 560628,
-      "kickoff_utc": "2026-11-01T14:00:00Z",
+      "kickoff_utc": "2026-10-31T20:00:00Z",
       "matchday": 9,
       "venue": null,
       "status": "scheduled",
