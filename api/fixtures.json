@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 3,
-  "updated_at": "2026-09-03T10:31:31Z",
+  "updated_at": "2026-09-04T20:08:42Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -489,7 +489,7 @@
       "kickoff_utc": "2026-09-04T19:00:00Z",
       "matchday": 3,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "ipswich",
         "name": "Ipswich",
@@ -502,7 +502,10 @@
         "primary": "#C8102E",
         "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 2
+      }
     },
     {
       "id": "2026-09-05-newcastle-bournemouth",
