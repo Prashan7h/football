@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-09-05T14:00:00Z",
     "matchday": 3,
     "venue": null,
-    "status": "live",
+    "status": "finished",
     "home": {
       "slug": "brighton",
       "name": "Brighton",
@@ -19,7 +19,7 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
     },
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 1
     }
   },

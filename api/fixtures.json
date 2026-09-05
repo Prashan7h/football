@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 3,
-  "updated_at": "2026-09-05T15:22:14Z",
+  "updated_at": "2026-09-05T16:15:59Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -537,7 +537,7 @@
       "kickoff_utc": "2026-09-05T14:00:00Z",
       "matchday": 3,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "nottingham-forest",
         "name": "Nottingham Forest",
@@ -561,7 +561,7 @@
       "kickoff_utc": "2026-09-05T14:00:00Z",
       "matchday": 3,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "manchester-city",
         "name": "Manchester City",
@@ -585,7 +585,7 @@
       "kickoff_utc": "2026-09-05T14:00:00Z",
       "matchday": 3,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "brighton",
         "name": "Brighton",
@@ -599,7 +599,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
       },
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 1
       }
     },
@@ -609,7 +609,7 @@
       "kickoff_utc": "2026-09-05T14:00:00Z",
       "matchday": 3,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "brentford",
         "name": "Brentford",
@@ -623,8 +623,8 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
       },
       "score": {
-        "home": 0,
-        "away": 0
+        "home": 1,
+        "away": 1
       }
     },
     {
@@ -633,7 +633,7 @@
       "kickoff_utc": "2026-09-05T14:00:00Z",
       "matchday": 3,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "fulham",
         "name": "Fulham",
@@ -648,7 +648,7 @@
       },
       "score": {
         "home": 2,
-        "away": 1
+        "away": 3
       }
     },
     {
