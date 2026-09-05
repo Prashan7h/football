@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-09-05T11:30:00Z",
     "matchday": 3,
     "venue": null,
-    "status": "scheduled",
+    "status": "live",
     "home": {
       "slug": "newcastle",
       "name": "Newcastle",
@@ -18,7 +18,10 @@
       "primary": "#DA291C",
       "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
     },
-    "score": null
+    "score": {
+      "home": 0,
+      "away": 1
+    }
   },
   "preview": null,
   "review": null

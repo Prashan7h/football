@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 3,
-  "updated_at": "2026-09-04T22:20:21Z",
+  "updated_at": "2026-09-05T12:10:53Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -513,7 +513,7 @@
       "kickoff_utc": "2026-09-05T11:30:00Z",
       "matchday": 3,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "newcastle",
         "name": "Newcastle",
@@ -526,7 +526,10 @@
         "primary": "#DA291C",
         "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 1
+      }
     },
     {
       "id": "2026-09-05-nottingham-forest-tottenham",
