@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-09-05T14:00:00Z",
     "matchday": 3,
     "venue": null,
-    "status": "scheduled",
+    "status": "live",
     "home": {
       "slug": "fulham",
       "name": "Fulham",
@@ -18,7 +18,10 @@
       "primary": "#1B458F",
       "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
     },
-    "score": null
+    "score": {
+      "home": 2,
+      "away": 1
+    }
   },
   "preview": null,
   "review": null

@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 3,
-  "updated_at": "2026-09-05T13:38:44Z",
+  "updated_at": "2026-09-05T15:22:14Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -537,7 +537,7 @@
       "kickoff_utc": "2026-09-05T14:00:00Z",
       "matchday": 3,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "nottingham-forest",
         "name": "Nottingham Forest",
@@ -550,7 +550,10 @@
         "primary": "#132257",
         "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-09-05-manchester-city-coventry-city",
@@ -558,7 +561,7 @@
       "kickoff_utc": "2026-09-05T14:00:00Z",
       "matchday": 3,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "manchester-city",
         "name": "Manchester City",
@@ -571,7 +574,10 @@
         "primary": "#5A6470",
         "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 0
+      }
     },
     {
       "id": "2026-09-05-brighton-leeds",
@@ -579,7 +585,7 @@
       "kickoff_utc": "2026-09-05T14:00:00Z",
       "matchday": 3,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "brighton",
         "name": "Brighton",
@@ -592,7 +598,10 @@
         "primary": "#FFCD00",
         "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 1
+      }
     },
     {
       "id": "2026-09-05-brentford-sunderland",
@@ -600,7 +609,7 @@
       "kickoff_utc": "2026-09-05T14:00:00Z",
       "matchday": 3,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "brentford",
         "name": "Brentford",
@@ -613,7 +622,10 @@
         "primary": "#EB172B",
         "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-09-05-fulham-crystal-palace",
@@ -621,7 +633,7 @@
       "kickoff_utc": "2026-09-05T14:00:00Z",
       "matchday": 3,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "fulham",
         "name": "Fulham",
@@ -634,7 +646,10 @@
         "primary": "#1B458F",
         "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
       },
-      "score": null
+      "score": {
+        "home": 2,
+        "away": 1
+      }
     },
     {
       "id": "2026-09-05-hull-city-aston-villa",
