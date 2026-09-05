@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 3,
-  "updated_at": "2026-09-05T16:15:59Z",
+  "updated_at": "2026-09-05T17:25:10Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -657,7 +657,7 @@
       "kickoff_utc": "2026-09-05T16:30:00Z",
       "matchday": 3,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "hull-city",
         "name": "Unknown",
@@ -670,7 +670,10 @@
         "primary": "#670E36",
         "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-09-06-everton-manchester-united",
