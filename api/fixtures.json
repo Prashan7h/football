@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 3,
-  "updated_at": "2026-09-06T14:15:47Z",
+  "updated_at": "2026-09-06T16:39:55Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -681,7 +681,7 @@
       "kickoff_utc": "2026-09-06T13:00:00Z",
       "matchday": 3,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "everton",
         "name": "Everton",
@@ -695,8 +695,8 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/manchester-united.png"
       },
       "score": {
-        "home": 0,
-        "away": 1
+        "home": 2,
+        "away": 2
       }
     },
     {
@@ -705,7 +705,7 @@
       "kickoff_utc": "2026-09-06T15:30:00Z",
       "matchday": 3,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "arsenal",
         "name": "Arsenal",
@@ -718,7 +718,10 @@
         "primary": "#034694",
         "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 1
+      }
     },
     {
       "id": "2026-09-12-crystal-palace-ipswich",
