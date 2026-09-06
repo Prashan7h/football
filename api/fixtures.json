@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 3,
-  "updated_at": "2026-09-06T01:06:57Z",
+  "updated_at": "2026-09-06T13:54:05Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -681,7 +681,7 @@
       "kickoff_utc": "2026-09-06T13:00:00Z",
       "matchday": 3,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "everton",
         "name": "Everton",
@@ -694,7 +694,10 @@
         "primary": "#DA291C",
         "crest": "https://prashan7h.github.io/football/assets/crests/manchester-united.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-09-06-arsenal-chelsea",
