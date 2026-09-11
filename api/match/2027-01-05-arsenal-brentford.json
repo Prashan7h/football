@@ -1,16 +1,16 @@
 {
   "meta": {
-    "id": "2026-12-30-coventry-city-brentford",
-    "external_id": 560713,
-    "kickoff_utc": "2026-12-30T19:30:00Z",
-    "matchday": 18,
+    "id": "2027-01-05-arsenal-brentford",
+    "external_id": 560732,
+    "kickoff_utc": "2027-01-05T19:30:00Z",
+    "matchday": 20,
     "venue": null,
     "status": "scheduled",
     "home": {
-      "slug": "coventry-city",
-      "name": "Unknown",
-      "primary": "#5A6470",
-      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
     },
     "away": {
       "slug": "brentford",

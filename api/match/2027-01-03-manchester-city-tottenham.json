@@ -1,16 +1,16 @@
 {
   "meta": {
-    "id": "2027-01-06-fulham-tottenham",
-    "external_id": 560737,
-    "kickoff_utc": "2027-01-06T19:30:00Z",
-    "matchday": 20,
+    "id": "2027-01-03-manchester-city-tottenham",
+    "external_id": 560731,
+    "kickoff_utc": "2027-01-03T16:30:00Z",
+    "matchday": 19,
     "venue": null,
     "status": "scheduled",
     "home": {
-      "slug": "fulham",
-      "name": "Fulham",
-      "primary": "#000000",
-      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "primary": "#6CABDD",
+      "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
     },
     "away": {
       "slug": "tottenham",

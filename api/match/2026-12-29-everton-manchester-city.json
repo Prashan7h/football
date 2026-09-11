@@ -1,16 +1,16 @@
 {
   "meta": {
-    "id": "2027-01-06-leeds-manchester-city",
-    "external_id": 560733,
-    "kickoff_utc": "2027-01-06T20:15:00Z",
-    "matchday": 20,
+    "id": "2026-12-29-everton-manchester-city",
+    "external_id": 560720,
+    "kickoff_utc": "2026-12-29T20:15:00Z",
+    "matchday": 18,
     "venue": null,
     "status": "scheduled",
     "home": {
-      "slug": "leeds",
-      "name": "Leeds",
-      "primary": "#FFCD00",
-      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
     },
     "away": {
       "slug": "manchester-city",

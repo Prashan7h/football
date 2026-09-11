@@ -1,16 +1,16 @@
 {
   "meta": {
-    "id": "2027-01-02-bournemouth-aston-villa",
-    "external_id": 560722,
-    "kickoff_utc": "2027-01-02T17:30:00Z",
-    "matchday": 19,
+    "id": "2027-01-05-everton-aston-villa",
+    "external_id": 560738,
+    "kickoff_utc": "2027-01-05T19:30:00Z",
+    "matchday": 20,
     "venue": null,
     "status": "scheduled",
     "home": {
-      "slug": "bournemouth",
-      "name": "Bournemouth",
-      "primary": "#DA291C",
-      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
+      "slug": "everton",
+      "name": "Everton",
+      "primary": "#003399",
+      "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
     },
     "away": {
       "slug": "aston-villa",

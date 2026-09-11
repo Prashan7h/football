@@ -1,22 +1,22 @@
 {
   "meta": {
-    "id": "2026-12-30-newcastle-nottingham-forest",
-    "external_id": 560715,
-    "kickoff_utc": "2026-12-30T19:30:00Z",
-    "matchday": 18,
+    "id": "2027-01-05-nottingham-forest-hull-city",
+    "external_id": 560736,
+    "kickoff_utc": "2027-01-05T19:30:00Z",
+    "matchday": 20,
     "venue": null,
     "status": "scheduled",
     "home": {
-      "slug": "newcastle",
-      "name": "Newcastle",
-      "primary": "#241F20",
-      "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
-    },
-    "away": {
       "slug": "nottingham-forest",
       "name": "Nottingham Forest",
       "primary": "#DD0000",
       "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
+    },
+    "away": {
+      "slug": "hull-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
     },
     "score": null
   },

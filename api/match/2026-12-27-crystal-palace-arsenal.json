@@ -1,16 +1,16 @@
 {
   "meta": {
-    "id": "2026-12-30-fulham-arsenal",
-    "external_id": 560712,
-    "kickoff_utc": "2026-12-30T19:30:00Z",
-    "matchday": 18,
+    "id": "2026-12-27-crystal-palace-arsenal",
+    "external_id": 560704,
+    "kickoff_utc": "2026-12-27T19:00:00Z",
+    "matchday": 17,
     "venue": null,
     "status": "scheduled",
     "home": {
-      "slug": "fulham",
-      "name": "Fulham",
-      "primary": "#000000",
-      "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "primary": "#1B458F",
+      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
     },
     "away": {
       "slug": "arsenal",

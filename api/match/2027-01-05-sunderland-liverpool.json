@@ -1,16 +1,16 @@
 {
   "meta": {
-    "id": "2026-12-26-hull-city-liverpool",
-    "external_id": 560710,
-    "kickoff_utc": "2026-12-26T17:30:00Z",
-    "matchday": 17,
+    "id": "2027-01-05-sunderland-liverpool",
+    "external_id": 560739,
+    "kickoff_utc": "2027-01-05T20:15:00Z",
+    "matchday": 20,
     "venue": null,
     "status": "scheduled",
     "home": {
-      "slug": "hull-city",
-      "name": "Unknown",
-      "primary": "#5A6470",
-      "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+      "slug": "sunderland",
+      "name": "Sunderland",
+      "primary": "#EB172B",
+      "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
     },
     "away": {
       "slug": "liverpool",

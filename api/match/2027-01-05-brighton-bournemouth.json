@@ -1,16 +1,16 @@
 {
   "meta": {
-    "id": "2026-12-30-crystal-palace-bournemouth",
-    "external_id": 560721,
-    "kickoff_utc": "2026-12-30T19:30:00Z",
-    "matchday": 18,
+    "id": "2027-01-05-brighton-bournemouth",
+    "external_id": 560735,
+    "kickoff_utc": "2027-01-05T19:30:00Z",
+    "matchday": 20,
     "venue": null,
     "status": "scheduled",
     "home": {
-      "slug": "crystal-palace",
-      "name": "Crystal Palace",
-      "primary": "#1B458F",
-      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
+      "slug": "brighton",
+      "name": "Brighton",
+      "primary": "#0057B8",
+      "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
     },
     "away": {
       "slug": "bournemouth",

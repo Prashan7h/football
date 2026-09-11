@@ -1,16 +1,16 @@
 {
   "meta": {
-    "id": "2027-01-06-crystal-palace-chelsea",
-    "external_id": 560740,
-    "kickoff_utc": "2027-01-06T19:30:00Z",
-    "matchday": 20,
+    "id": "2026-12-27-coventry-city-chelsea",
+    "external_id": 560706,
+    "kickoff_utc": "2026-12-27T14:00:00Z",
+    "matchday": 17,
     "venue": null,
     "status": "scheduled",
     "home": {
-      "slug": "crystal-palace",
-      "name": "Crystal Palace",
-      "primary": "#1B458F",
-      "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
+      "slug": "coventry-city",
+      "name": "Unknown",
+      "primary": "#5A6470",
+      "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
     },
     "away": {
       "slug": "chelsea",
