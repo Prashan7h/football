@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-09-12T14:00:00Z",
     "matchday": 4,
     "venue": null,
-    "status": "scheduled",
+    "status": "live",
     "home": {
       "slug": "crystal-palace",
       "name": "Crystal Palace",
@@ -18,7 +18,10 @@
       "primary": "#3764A8",
       "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
     },
-    "score": null
+    "score": {
+      "home": 1,
+      "away": 2
+    }
   },
   "preview": null,
   "review": null
