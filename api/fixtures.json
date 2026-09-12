@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 4,
-  "updated_at": "2026-09-12T18:46:30Z",
+  "updated_at": "2026-09-12T19:44:59Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -873,7 +873,7 @@
       "kickoff_utc": "2026-09-12T19:00:00Z",
       "matchday": 4,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "sunderland",
         "name": "Sunderland",
@@ -886,7 +886,10 @@
         "primary": "#EF0107",
         "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-09-13-coventry-city-brighton",
