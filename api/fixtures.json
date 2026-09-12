@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 4,
-  "updated_at": "2026-09-12T15:40:47Z",
+  "updated_at": "2026-09-12T16:41:06Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -729,7 +729,7 @@
       "kickoff_utc": "2026-09-12T14:00:00Z",
       "matchday": 4,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "crystal-palace",
         "name": "Crystal Palace",
@@ -743,8 +743,8 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
       },
       "score": {
-        "home": 1,
-        "away": 2
+        "home": 2,
+        "away": 3
       }
     },
     {
@@ -753,7 +753,7 @@
       "kickoff_utc": "2026-09-12T14:00:00Z",
       "matchday": 4,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "liverpool",
         "name": "Liverpool",
@@ -777,7 +777,7 @@
       "kickoff_utc": "2026-09-12T14:00:00Z",
       "matchday": 4,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "aston-villa",
         "name": "Aston Villa",
@@ -791,8 +791,8 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
       },
       "score": {
-        "home": 0,
-        "away": 1
+        "home": 1,
+        "away": 2
       }
     },
     {
@@ -801,7 +801,7 @@
       "kickoff_utc": "2026-09-12T14:00:00Z",
       "matchday": 4,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "bournemouth",
         "name": "Bournemouth",
@@ -825,7 +825,7 @@
       "kickoff_utc": "2026-09-12T14:00:00Z",
       "matchday": 4,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "chelsea",
         "name": "Chelsea",
@@ -849,7 +849,7 @@
       "kickoff_utc": "2026-09-12T16:30:00Z",
       "matchday": 4,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "tottenham",
         "name": "Tottenham",
@@ -862,7 +862,10 @@
         "primary": "#003399",
         "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-09-12-sunderland-arsenal",
