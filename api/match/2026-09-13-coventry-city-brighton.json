@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-09-13T13:00:00Z",
     "matchday": 4,
     "venue": null,
-    "status": "live",
+    "status": "finished",
     "home": {
       "slug": "coventry-city",
       "name": "Unknown",
@@ -20,7 +20,7 @@
     },
     "score": {
       "home": 0,
-      "away": 3
+      "away": 5
     }
   },
   "preview": null,

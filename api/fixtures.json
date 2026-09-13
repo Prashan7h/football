@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 4,
-  "updated_at": "2026-09-13T14:46:19Z",
+  "updated_at": "2026-09-13T16:29:38Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -897,7 +897,7 @@
       "kickoff_utc": "2026-09-13T13:00:00Z",
       "matchday": 4,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "coventry-city",
         "name": "Unknown",
@@ -912,7 +912,7 @@
       },
       "score": {
         "home": 0,
-        "away": 3
+        "away": 5
       }
     },
     {
@@ -921,7 +921,7 @@
       "kickoff_utc": "2026-09-13T15:30:00Z",
       "matchday": 4,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "manchester-united",
         "name": "Manchester United",
@@ -934,7 +934,10 @@
         "primary": "#6CABDD",
         "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-09-14-leeds-newcastle",
