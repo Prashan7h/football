@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 4,
-  "updated_at": "2026-09-13T16:29:38Z",
+  "updated_at": "2026-09-13T17:51:35Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -921,7 +921,7 @@
       "kickoff_utc": "2026-09-13T15:30:00Z",
       "matchday": 4,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "manchester-united",
         "name": "Manchester United",
@@ -936,7 +936,7 @@
       },
       "score": {
         "home": 0,
-        "away": 0
+        "away": 1
       }
     },
     {
