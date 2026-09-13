@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 4,
-  "updated_at": "2026-09-12T21:08:46Z",
+  "updated_at": "2026-09-13T14:46:19Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -897,7 +897,7 @@
       "kickoff_utc": "2026-09-13T13:00:00Z",
       "matchday": 4,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "coventry-city",
         "name": "Unknown",
@@ -910,7 +910,10 @@
         "primary": "#0057B8",
         "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 3
+      }
     },
     {
       "id": "2026-09-13-manchester-united-manchester-city",
