@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 4,
-  "updated_at": "2026-09-13T17:51:35Z",
+  "updated_at": "2026-09-14T21:16:49Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -945,7 +945,7 @@
       "kickoff_utc": "2026-09-14T19:00:00Z",
       "matchday": 4,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "leeds",
         "name": "Leeds",
@@ -958,7 +958,10 @@
         "primary": "#241F20",
         "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
       },
-      "score": null
+      "score": {
+        "home": 4,
+        "away": 1
+      }
     },
     {
       "id": "2026-09-18-brentford-chelsea",
