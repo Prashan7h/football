@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 5,
-  "updated_at": "2026-09-17T07:50:01Z",
+  "updated_at": "2026-09-18T19:46:39Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -969,7 +969,7 @@
       "kickoff_utc": "2026-09-18T19:00:00Z",
       "matchday": 5,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "brentford",
         "name": "Brentford",
@@ -982,7 +982,10 @@
         "primary": "#034694",
         "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-09-19-tottenham-aston-villa",
