@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 5,
-  "updated_at": "2026-09-19T14:07:41Z",
+  "updated_at": "2026-09-19T14:55:05Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1031,7 +1031,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
       },
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
       }
     },
@@ -1055,7 +1055,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
       },
       "score": {
-        "home": 0,
+        "home": 2,
         "away": 0
       }
     },
@@ -1079,7 +1079,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
       },
       "score": {
-        "home": 0,
+        "home": 2,
         "away": 0
       }
     },
