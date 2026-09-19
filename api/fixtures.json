@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 5,
-  "updated_at": "2026-09-18T21:59:04Z",
+  "updated_at": "2026-09-19T11:40:23Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -993,7 +993,7 @@
       "kickoff_utc": "2026-09-19T11:30:00Z",
       "matchday": 5,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "tottenham",
         "name": "Tottenham",
@@ -1006,7 +1006,10 @@
         "primary": "#670E36",
         "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-09-19-everton-ipswich",
