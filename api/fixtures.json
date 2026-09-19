@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 5,
-  "updated_at": "2026-09-19T11:40:23Z",
+  "updated_at": "2026-09-19T14:07:41Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -993,7 +993,7 @@
       "kickoff_utc": "2026-09-19T11:30:00Z",
       "matchday": 5,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "tottenham",
         "name": "Tottenham",
@@ -1007,8 +1007,8 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
       },
       "score": {
-        "home": 0,
-        "away": 0
+        "home": 2,
+        "away": 3
       }
     },
     {
@@ -1017,7 +1017,7 @@
       "kickoff_utc": "2026-09-19T14:00:00Z",
       "matchday": 5,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "everton",
         "name": "Everton",
@@ -1030,7 +1030,10 @@
         "primary": "#3764A8",
         "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-09-19-brighton-arsenal",
@@ -1038,7 +1041,7 @@
       "kickoff_utc": "2026-09-19T14:00:00Z",
       "matchday": 5,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "brighton",
         "name": "Brighton",
@@ -1051,7 +1054,10 @@
         "primary": "#EF0107",
         "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-09-19-newcastle-hull-city",
@@ -1059,7 +1065,7 @@
       "kickoff_utc": "2026-09-19T14:00:00Z",
       "matchday": 5,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "newcastle",
         "name": "Newcastle",
@@ -1072,7 +1078,10 @@
         "primary": "#5A6470",
         "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-09-19-nottingham-forest-coventry-city",
