@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 5,
-  "updated_at": "2026-09-19T19:27:02Z",
+  "updated_at": "2026-09-20T14:26:12Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1113,7 +1113,7 @@
       "kickoff_utc": "2026-09-20T13:00:00Z",
       "matchday": 5,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "bournemouth",
         "name": "Bournemouth",
@@ -1126,7 +1126,10 @@
         "primary": "#C8102E",
         "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 1
+      }
     },
     {
       "id": "2026-09-20-leeds-crystal-palace",
@@ -1134,7 +1137,7 @@
       "kickoff_utc": "2026-09-20T13:00:00Z",
       "matchday": 5,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "leeds",
         "name": "Leeds",
@@ -1147,7 +1150,10 @@
         "primary": "#1B458F",
         "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 1
+      }
     },
     {
       "id": "2026-09-20-manchester-city-sunderland",
@@ -1155,7 +1161,7 @@
       "kickoff_utc": "2026-09-20T13:00:00Z",
       "matchday": 5,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "manchester-city",
         "name": "Manchester City",
@@ -1168,7 +1174,10 @@
         "primary": "#EB172B",
         "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
       },
-      "score": null
+      "score": {
+        "home": 3,
+        "away": 2
+      }
     },
     {
       "id": "2026-09-20-fulham-manchester-united",
