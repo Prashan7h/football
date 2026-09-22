@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 5,
-  "updated_at": "2026-09-20T17:33:27Z",
+  "updated_at": "2026-09-22T15:49:23Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -2044,6 +2044,48 @@
       "score": null
     },
     {
+      "id": "2026-11-06-everton-coventry-city",
+      "external_id": 560634,
+      "kickoff_utc": "2026-11-06T20:00:00Z",
+      "matchday": 10,
+      "venue": null,
+      "status": "scheduled",
+      "home": {
+        "slug": "everton",
+        "name": "Everton",
+        "primary": "#003399",
+        "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
+      },
+      "away": {
+        "slug": "coventry-city",
+        "name": "Unknown",
+        "primary": "#5A6470",
+        "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+      },
+      "score": null
+    },
+    {
+      "id": "2026-11-07-leeds-tottenham",
+      "external_id": 560632,
+      "kickoff_utc": "2026-11-07T12:30:00Z",
+      "matchday": 10,
+      "venue": null,
+      "status": "scheduled",
+      "home": {
+        "slug": "leeds",
+        "name": "Leeds",
+        "primary": "#FFCD00",
+        "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+      },
+      "away": {
+        "slug": "tottenham",
+        "name": "Tottenham",
+        "primary": "#132257",
+        "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+      },
+      "score": null
+    },
+    {
       "id": "2026-11-07-arsenal-hull-city",
       "external_id": 560640,
       "kickoff_utc": "2026-11-07T15:00:00Z",
@@ -2061,48 +2103,6 @@
         "name": "Unknown",
         "primary": "#5A6470",
         "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
-      },
-      "score": null
-    },
-    {
-      "id": "2026-11-07-nottingham-forest-manchester-city",
-      "external_id": 560641,
-      "kickoff_utc": "2026-11-07T15:00:00Z",
-      "matchday": 10,
-      "venue": null,
-      "status": "scheduled",
-      "home": {
-        "slug": "nottingham-forest",
-        "name": "Nottingham Forest",
-        "primary": "#DD0000",
-        "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
-      },
-      "away": {
-        "slug": "manchester-city",
-        "name": "Manchester City",
-        "primary": "#6CABDD",
-        "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
-      },
-      "score": null
-    },
-    {
-      "id": "2026-11-07-leeds-tottenham",
-      "external_id": 560632,
-      "kickoff_utc": "2026-11-07T15:00:00Z",
-      "matchday": 10,
-      "venue": null,
-      "status": "scheduled",
-      "home": {
-        "slug": "leeds",
-        "name": "Leeds",
-        "primary": "#FFCD00",
-        "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
-      },
-      "away": {
-        "slug": "tottenham",
-        "name": "Tottenham",
-        "primary": "#132257",
-        "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
       },
       "score": null
     },
@@ -2128,30 +2128,30 @@
       "score": null
     },
     {
-      "id": "2026-11-07-everton-coventry-city",
-      "external_id": 560634,
-      "kickoff_utc": "2026-11-07T15:00:00Z",
+      "id": "2026-11-07-nottingham-forest-manchester-city",
+      "external_id": 560641,
+      "kickoff_utc": "2026-11-07T17:30:00Z",
       "matchday": 10,
       "venue": null,
       "status": "scheduled",
       "home": {
-        "slug": "everton",
-        "name": "Everton",
-        "primary": "#003399",
-        "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
+        "slug": "nottingham-forest",
+        "name": "Nottingham Forest",
+        "primary": "#DD0000",
+        "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
       },
       "away": {
-        "slug": "coventry-city",
-        "name": "Unknown",
-        "primary": "#5A6470",
-        "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
+        "slug": "manchester-city",
+        "name": "Manchester City",
+        "primary": "#6CABDD",
+        "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
       },
       "score": null
     },
     {
-      "id": "2026-11-07-crystal-palace-liverpool",
+      "id": "2026-11-08-crystal-palace-liverpool",
       "external_id": 560635,
-      "kickoff_utc": "2026-11-07T15:00:00Z",
+      "kickoff_utc": "2026-11-08T14:00:00Z",
       "matchday": 10,
       "venue": null,
       "status": "scheduled",
@@ -2170,9 +2170,9 @@
       "score": null
     },
     {
-      "id": "2026-11-07-sunderland-chelsea",
+      "id": "2026-11-08-sunderland-chelsea",
       "external_id": 560636,
-      "kickoff_utc": "2026-11-07T15:00:00Z",
+      "kickoff_utc": "2026-11-08T14:00:00Z",
       "matchday": 10,
       "venue": null,
       "status": "scheduled",
@@ -2191,9 +2191,9 @@
       "score": null
     },
     {
-      "id": "2026-11-07-ipswich-bournemouth",
+      "id": "2026-11-08-ipswich-bournemouth",
       "external_id": 560637,
-      "kickoff_utc": "2026-11-07T15:00:00Z",
+      "kickoff_utc": "2026-11-08T14:00:00Z",
       "matchday": 10,
       "venue": null,
       "status": "scheduled",
@@ -2212,9 +2212,9 @@
       "score": null
     },
     {
-      "id": "2026-11-07-brighton-brentford",
+      "id": "2026-11-08-brighton-brentford",
       "external_id": 560638,
-      "kickoff_utc": "2026-11-07T15:00:00Z",
+      "kickoff_utc": "2026-11-08T14:00:00Z",
       "matchday": 10,
       "venue": null,
       "status": "scheduled",
@@ -2233,9 +2233,9 @@
       "score": null
     },
     {
-      "id": "2026-11-07-manchester-united-aston-villa",
+      "id": "2026-11-08-manchester-united-aston-villa",
       "external_id": 560639,
-      "kickoff_utc": "2026-11-07T15:00:00Z",
+      "kickoff_utc": "2026-11-08T16:30:00Z",
       "matchday": 10,
       "venue": null,
       "status": "scheduled",
@@ -2250,6 +2250,27 @@
         "name": "Aston Villa",
         "primary": "#670E36",
         "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+      },
+      "score": null
+    },
+    {
+      "id": "2026-11-21-manchester-city-fulham",
+      "external_id": 560643,
+      "kickoff_utc": "2026-11-21T12:30:00Z",
+      "matchday": 11,
+      "venue": null,
+      "status": "scheduled",
+      "home": {
+        "slug": "manchester-city",
+        "name": "Manchester City",
+        "primary": "#6CABDD",
+        "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
+      },
+      "away": {
+        "slug": "fulham",
+        "name": "Fulham",
+        "primary": "#000000",
+        "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
       },
       "score": null
     },
@@ -2275,27 +2296,6 @@
       "score": null
     },
     {
-      "id": "2026-11-21-manchester-city-fulham",
-      "external_id": 560643,
-      "kickoff_utc": "2026-11-21T15:00:00Z",
-      "matchday": 11,
-      "venue": null,
-      "status": "scheduled",
-      "home": {
-        "slug": "manchester-city",
-        "name": "Manchester City",
-        "primary": "#6CABDD",
-        "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
-      },
-      "away": {
-        "slug": "fulham",
-        "name": "Fulham",
-        "primary": "#000000",
-        "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
-      },
-      "score": null
-    },
-    {
       "id": "2026-11-21-aston-villa-sunderland",
       "external_id": 560644,
       "kickoff_utc": "2026-11-21T15:00:00Z",
@@ -2313,48 +2313,6 @@
         "name": "Sunderland",
         "primary": "#EB172B",
         "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
-      },
-      "score": null
-    },
-    {
-      "id": "2026-11-21-liverpool-manchester-united",
-      "external_id": 560645,
-      "kickoff_utc": "2026-11-21T15:00:00Z",
-      "matchday": 11,
-      "venue": null,
-      "status": "scheduled",
-      "home": {
-        "slug": "liverpool",
-        "name": "Liverpool",
-        "primary": "#C8102E",
-        "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
-      },
-      "away": {
-        "slug": "manchester-united",
-        "name": "Manchester United",
-        "primary": "#DA291C",
-        "crest": "https://prashan7h.github.io/football/assets/crests/manchester-united.png"
-      },
-      "score": null
-    },
-    {
-      "id": "2026-11-21-hull-city-brighton",
-      "external_id": 560646,
-      "kickoff_utc": "2026-11-21T15:00:00Z",
-      "matchday": 11,
-      "venue": null,
-      "status": "scheduled",
-      "home": {
-        "slug": "hull-city",
-        "name": "Unknown",
-        "primary": "#5A6470",
-        "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
-      },
-      "away": {
-        "slug": "brighton",
-        "name": "Brighton",
-        "primary": "#0057B8",
-        "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
       },
       "score": null
     },
@@ -2401,27 +2359,6 @@
       "score": null
     },
     {
-      "id": "2026-11-21-brentford-everton",
-      "external_id": 560649,
-      "kickoff_utc": "2026-11-21T15:00:00Z",
-      "matchday": 11,
-      "venue": null,
-      "status": "scheduled",
-      "home": {
-        "slug": "brentford",
-        "name": "Brentford",
-        "primary": "#E30613",
-        "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
-      },
-      "away": {
-        "slug": "everton",
-        "name": "Everton",
-        "primary": "#003399",
-        "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
-      },
-      "score": null
-    },
-    {
       "id": "2026-11-21-coventry-city-crystal-palace",
       "external_id": 560650,
       "kickoff_utc": "2026-11-21T15:00:00Z",
@@ -2445,7 +2382,7 @@
     {
       "id": "2026-11-21-newcastle-arsenal",
       "external_id": 560651,
-      "kickoff_utc": "2026-11-21T15:00:00Z",
+      "kickoff_utc": "2026-11-21T17:30:00Z",
       "matchday": 11,
       "venue": null,
       "status": "scheduled",
@@ -2460,6 +2397,90 @@
         "name": "Arsenal",
         "primary": "#EF0107",
         "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+      },
+      "score": null
+    },
+    {
+      "id": "2026-11-22-hull-city-brighton",
+      "external_id": 560646,
+      "kickoff_utc": "2026-11-22T14:00:00Z",
+      "matchday": 11,
+      "venue": null,
+      "status": "scheduled",
+      "home": {
+        "slug": "hull-city",
+        "name": "Unknown",
+        "primary": "#5A6470",
+        "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+      },
+      "away": {
+        "slug": "brighton",
+        "name": "Brighton",
+        "primary": "#0057B8",
+        "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
+      },
+      "score": null
+    },
+    {
+      "id": "2026-11-22-liverpool-manchester-united",
+      "external_id": 560645,
+      "kickoff_utc": "2026-11-22T16:30:00Z",
+      "matchday": 11,
+      "venue": null,
+      "status": "scheduled",
+      "home": {
+        "slug": "liverpool",
+        "name": "Liverpool",
+        "primary": "#C8102E",
+        "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
+      },
+      "away": {
+        "slug": "manchester-united",
+        "name": "Manchester United",
+        "primary": "#DA291C",
+        "crest": "https://prashan7h.github.io/football/assets/crests/manchester-united.png"
+      },
+      "score": null
+    },
+    {
+      "id": "2026-11-23-brentford-everton",
+      "external_id": 560649,
+      "kickoff_utc": "2026-11-23T20:00:00Z",
+      "matchday": 11,
+      "venue": null,
+      "status": "scheduled",
+      "home": {
+        "slug": "brentford",
+        "name": "Brentford",
+        "primary": "#E30613",
+        "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
+      },
+      "away": {
+        "slug": "everton",
+        "name": "Everton",
+        "primary": "#003399",
+        "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
+      },
+      "score": null
+    },
+    {
+      "id": "2026-11-27-nottingham-forest-chelsea",
+      "external_id": 560658,
+      "kickoff_utc": "2026-11-27T20:00:00Z",
+      "matchday": 12,
+      "venue": null,
+      "status": "scheduled",
+      "home": {
+        "slug": "nottingham-forest",
+        "name": "Nottingham Forest",
+        "primary": "#DD0000",
+        "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
+      },
+      "away": {
+        "slug": "chelsea",
+        "name": "Chelsea",
+        "primary": "#034694",
+        "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
       },
       "score": null
     },
@@ -2485,48 +2506,6 @@
       "score": null
     },
     {
-      "id": "2026-11-28-ipswich-aston-villa",
-      "external_id": 560653,
-      "kickoff_utc": "2026-11-28T15:00:00Z",
-      "matchday": 12,
-      "venue": null,
-      "status": "scheduled",
-      "home": {
-        "slug": "ipswich",
-        "name": "Ipswich",
-        "primary": "#3764A8",
-        "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
-      },
-      "away": {
-        "slug": "aston-villa",
-        "name": "Aston Villa",
-        "primary": "#670E36",
-        "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
-      },
-      "score": null
-    },
-    {
-      "id": "2026-11-28-arsenal-manchester-city",
-      "external_id": 560654,
-      "kickoff_utc": "2026-11-28T15:00:00Z",
-      "matchday": 12,
-      "venue": null,
-      "status": "scheduled",
-      "home": {
-        "slug": "arsenal",
-        "name": "Arsenal",
-        "primary": "#EF0107",
-        "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
-      },
-      "away": {
-        "slug": "manchester-city",
-        "name": "Manchester City",
-        "primary": "#6CABDD",
-        "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
-      },
-      "score": null
-    },
-    {
       "id": "2026-11-28-manchester-united-brentford",
       "external_id": 560655,
       "kickoff_utc": "2026-11-28T15:00:00Z",
@@ -2548,9 +2527,30 @@
       "score": null
     },
     {
-      "id": "2026-11-28-everton-liverpool",
+      "id": "2026-11-28-ipswich-aston-villa",
+      "external_id": 560653,
+      "kickoff_utc": "2026-11-28T17:30:00Z",
+      "matchday": 12,
+      "venue": null,
+      "status": "scheduled",
+      "home": {
+        "slug": "ipswich",
+        "name": "Ipswich",
+        "primary": "#3764A8",
+        "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
+      },
+      "away": {
+        "slug": "aston-villa",
+        "name": "Aston Villa",
+        "primary": "#670E36",
+        "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+      },
+      "score": null
+    },
+    {
+      "id": "2026-11-29-everton-liverpool",
       "external_id": 560656,
-      "kickoff_utc": "2026-11-28T15:00:00Z",
+      "kickoff_utc": "2026-11-29T12:00:00Z",
       "matchday": 12,
       "venue": null,
       "status": "scheduled",
@@ -2569,9 +2569,9 @@
       "score": null
     },
     {
-      "id": "2026-11-28-fulham-bournemouth",
+      "id": "2026-11-29-fulham-bournemouth",
       "external_id": 560657,
-      "kickoff_utc": "2026-11-28T15:00:00Z",
+      "kickoff_utc": "2026-11-29T14:05:00Z",
       "matchday": 12,
       "venue": null,
       "status": "scheduled",
@@ -2590,30 +2590,9 @@
       "score": null
     },
     {
-      "id": "2026-11-28-nottingham-forest-chelsea",
-      "external_id": 560658,
-      "kickoff_utc": "2026-11-28T15:00:00Z",
-      "matchday": 12,
-      "venue": null,
-      "status": "scheduled",
-      "home": {
-        "slug": "nottingham-forest",
-        "name": "Nottingham Forest",
-        "primary": "#DD0000",
-        "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
-      },
-      "away": {
-        "slug": "chelsea",
-        "name": "Chelsea",
-        "primary": "#034694",
-        "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
-      },
-      "score": null
-    },
-    {
-      "id": "2026-11-28-brighton-newcastle",
+      "id": "2026-11-29-brighton-newcastle",
       "external_id": 560659,
-      "kickoff_utc": "2026-11-28T15:00:00Z",
+      "kickoff_utc": "2026-11-29T14:05:00Z",
       "matchday": 12,
       "venue": null,
       "status": "scheduled",
@@ -2632,9 +2611,9 @@
       "score": null
     },
     {
-      "id": "2026-11-28-sunderland-tottenham",
+      "id": "2026-11-29-sunderland-tottenham",
       "external_id": 560660,
-      "kickoff_utc": "2026-11-28T15:00:00Z",
+      "kickoff_utc": "2026-11-29T14:05:00Z",
       "matchday": 12,
       "venue": null,
       "status": "scheduled",
@@ -2653,9 +2632,9 @@
       "score": null
     },
     {
-      "id": "2026-11-28-crystal-palace-hull-city",
+      "id": "2026-11-29-crystal-palace-hull-city",
       "external_id": 560661,
-      "kickoff_utc": "2026-11-28T15:00:00Z",
+      "kickoff_utc": "2026-11-29T14:05:00Z",
       "matchday": 12,
       "venue": null,
       "status": "scheduled",
@@ -2670,6 +2649,27 @@
         "name": "Unknown",
         "primary": "#5A6470",
         "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
+      },
+      "score": null
+    },
+    {
+      "id": "2026-11-29-arsenal-manchester-city",
+      "external_id": 560654,
+      "kickoff_utc": "2026-11-29T16:30:00Z",
+      "matchday": 12,
+      "venue": null,
+      "status": "scheduled",
+      "home": {
+        "slug": "arsenal",
+        "name": "Arsenal",
+        "primary": "#EF0107",
+        "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+      },
+      "away": {
+        "slug": "manchester-city",
+        "name": "Manchester City",
+        "primary": "#6CABDD",
+        "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
       },
       "score": null
     },

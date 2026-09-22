@@ -1,16 +1,16 @@
 {
   "meta": {
-    "id": "2026-11-07-leeds-tottenham",
-    "external_id": 560632,
-    "kickoff_utc": "2026-11-07T12:30:00Z",
-    "matchday": 10,
+    "id": "2026-11-29-sunderland-tottenham",
+    "external_id": 560660,
+    "kickoff_utc": "2026-11-29T14:05:00Z",
+    "matchday": 12,
     "venue": null,
     "status": "scheduled",
     "home": {
-      "slug": "leeds",
-      "name": "Leeds",
-      "primary": "#FFCD00",
-      "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
+      "slug": "sunderland",
+      "name": "Sunderland",
+      "primary": "#EB172B",
+      "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
     },
     "away": {
       "slug": "tottenham",

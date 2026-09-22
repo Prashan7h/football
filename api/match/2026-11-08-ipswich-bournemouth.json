@@ -1,9 +1,9 @@
 {
   "meta": {
-    "id": "2026-11-28-ipswich-aston-villa",
-    "external_id": 560653,
-    "kickoff_utc": "2026-11-28T17:30:00Z",
-    "matchday": 12,
+    "id": "2026-11-08-ipswich-bournemouth",
+    "external_id": 560637,
+    "kickoff_utc": "2026-11-08T14:00:00Z",
+    "matchday": 10,
     "venue": null,
     "status": "scheduled",
     "home": {
@@ -13,10 +13,10 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
     },
     "away": {
-      "slug": "aston-villa",
-      "name": "Aston Villa",
-      "primary": "#670E36",
-      "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "primary": "#DA291C",
+      "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
     },
     "score": null
   },
