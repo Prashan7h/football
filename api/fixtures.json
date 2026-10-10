@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 6,
-  "updated_at": "2026-10-10T16:04:50Z",
+  "updated_at": "2026-10-10T18:59:33Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1305,7 +1305,7 @@
       "kickoff_utc": "2026-10-10T14:00:00Z",
       "matchday": 6,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "aston-villa",
         "name": "Aston Villa",
@@ -1329,7 +1329,7 @@
       "kickoff_utc": "2026-10-10T16:30:00Z",
       "matchday": 6,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "manchester-united",
         "name": "Manchester United",
@@ -1342,7 +1342,10 @@
         "primary": "#132257",
         "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 1
+      }
     },
     {
       "id": "2026-10-11-hull-city-everton",
