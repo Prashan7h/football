@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 6,
-  "updated_at": "2026-10-10T14:51:27Z",
+  "updated_at": "2026-10-10T16:04:50Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1233,7 +1233,7 @@
       "kickoff_utc": "2026-10-10T14:00:00Z",
       "matchday": 6,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "sunderland",
         "name": "Sunderland",
@@ -1248,7 +1248,7 @@
       },
       "score": {
         "home": 0,
-        "away": 0
+        "away": 2
       }
     },
     {
@@ -1257,7 +1257,7 @@
       "kickoff_utc": "2026-10-10T14:00:00Z",
       "matchday": 6,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "chelsea",
         "name": "Chelsea",
@@ -1271,8 +1271,8 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
       },
       "score": {
-        "home": 2,
-        "away": 0
+        "home": 5,
+        "away": 1
       }
     },
     {
@@ -1281,7 +1281,7 @@
       "kickoff_utc": "2026-10-10T14:00:00Z",
       "matchday": 6,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "ipswich",
         "name": "Ipswich",
@@ -1295,8 +1295,8 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
       },
       "score": {
-        "home": 0,
-        "away": 0
+        "home": 2,
+        "away": 1
       }
     },
     {
@@ -1319,8 +1319,8 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
       },
       "score": {
-        "home": 1,
-        "away": 1
+        "home": 2,
+        "away": 2
       }
     },
     {
