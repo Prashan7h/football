@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 6,
-  "updated_at": "2026-09-23T05:20:04Z",
+  "updated_at": "2026-10-10T11:54:40Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1209,7 +1209,7 @@
       "kickoff_utc": "2026-10-10T11:30:00Z",
       "matchday": 6,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "arsenal",
         "name": "Arsenal",
@@ -1222,7 +1222,10 @@
         "primary": "#FFCD00",
         "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-10-10-sunderland-brighton",
