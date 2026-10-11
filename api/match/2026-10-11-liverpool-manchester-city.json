@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-10-11T15:30:00Z",
     "matchday": 6,
     "venue": null,
-    "status": "live",
+    "status": "finished",
     "home": {
       "slug": "liverpool",
       "name": "Liverpool",
@@ -20,7 +20,7 @@
     },
     "score": {
       "home": 0,
-      "away": 0
+      "away": 3
     }
   },
   "preview": null,
