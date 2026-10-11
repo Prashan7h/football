@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-10-11T13:00:00Z",
     "matchday": 6,
     "venue": null,
-    "status": "live",
+    "status": "finished",
     "home": {
       "slug": "crystal-palace",
       "name": "Crystal Palace",
@@ -19,7 +19,7 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
     },
     "score": {
-      "home": 2,
+      "home": 3,
       "away": 1
     }
   },
