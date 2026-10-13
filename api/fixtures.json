@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 6,
-  "updated_at": "2026-10-12T19:11:56Z",
+  "updated_at": "2026-10-13T00:01:25Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1425,7 +1425,7 @@
       "kickoff_utc": "2026-10-12T19:00:00Z",
       "matchday": 6,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "coventry-city",
         "name": "Unknown",
@@ -1439,8 +1439,8 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
       },
       "score": {
-        "home": 0,
-        "away": 0
+        "home": 4,
+        "away": 1
       }
     },
     {
