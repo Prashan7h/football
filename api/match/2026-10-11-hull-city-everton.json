@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-10-11T13:00:00Z",
     "matchday": 6,
     "venue": null,
-    "status": "finished",
+    "status": "scheduled",
     "home": {
       "slug": "hull-city",
       "name": "Unknown",
@@ -18,10 +18,7 @@
       "primary": "#003399",
       "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
     },
-    "score": {
-      "home": 2,
-      "away": 2
-    }
+    "score": null
   },
   "preview": null,
   "review": null
