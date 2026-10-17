@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-10-17T14:00:00Z",
     "matchday": 7,
     "venue": null,
-    "status": "scheduled",
+    "status": "finished",
     "home": {
       "slug": "fulham",
       "name": "Fulham",
@@ -18,7 +18,10 @@
       "primary": "#5A6470",
       "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
     },
-    "score": null
+    "score": {
+      "home": 1,
+      "away": 0
+    }
   },
   "preview": null,
   "review": null

@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 7,
-  "updated_at": "2026-10-17T14:01:05Z",
+  "updated_at": "2026-10-17T17:08:33Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1473,7 +1473,7 @@
       "kickoff_utc": "2026-10-17T14:00:00Z",
       "matchday": 7,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "fulham",
         "name": "Fulham",
@@ -1486,7 +1486,10 @@
         "primary": "#5A6470",
         "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 0
+      }
     },
     {
       "id": "2026-10-17-manchester-city-ipswich",
@@ -1494,7 +1497,7 @@
       "kickoff_utc": "2026-10-17T14:00:00Z",
       "matchday": 7,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "manchester-city",
         "name": "Manchester City",
@@ -1507,7 +1510,10 @@
         "primary": "#3764A8",
         "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
       },
-      "score": null
+      "score": {
+        "home": 3,
+        "away": 2
+      }
     },
     {
       "id": "2026-10-17-brentford-liverpool",
@@ -1515,7 +1521,7 @@
       "kickoff_utc": "2026-10-17T14:00:00Z",
       "matchday": 7,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "brentford",
         "name": "Brentford",
@@ -1528,7 +1534,10 @@
         "primary": "#C8102E",
         "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 2
+      }
     },
     {
       "id": "2026-10-17-newcastle-aston-villa",
@@ -1536,7 +1545,7 @@
       "kickoff_utc": "2026-10-17T16:30:00Z",
       "matchday": 7,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "newcastle",
         "name": "Newcastle",
@@ -1549,7 +1558,10 @@
         "primary": "#670E36",
         "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-10-18-bournemouth-sunderland",
