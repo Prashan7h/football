@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 7,
-  "updated_at": "2026-10-17T01:47:35Z",
+  "updated_at": "2026-10-17T06:18:28Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1353,7 +1353,7 @@
       "kickoff_utc": "2026-10-11T13:00:00Z",
       "matchday": 6,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "hull-city",
         "name": "Unknown",
@@ -1366,7 +1366,10 @@
         "primary": "#003399",
         "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
       },
-      "score": null
+      "score": {
+        "home": 2,
+        "away": 2
+      }
     },
     {
       "id": "2026-10-11-crystal-palace-nottingham-forest",
@@ -1374,7 +1377,7 @@
       "kickoff_utc": "2026-10-11T13:00:00Z",
       "matchday": 6,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "crystal-palace",
         "name": "Crystal Palace",
@@ -1387,7 +1390,10 @@
         "primary": "#DD0000",
         "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
       },
-      "score": null
+      "score": {
+        "home": 3,
+        "away": 1
+      }
     },
     {
       "id": "2026-10-11-liverpool-manchester-city",
@@ -1395,7 +1401,7 @@
       "kickoff_utc": "2026-10-11T15:30:00Z",
       "matchday": 6,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "liverpool",
         "name": "Liverpool",
@@ -1408,7 +1414,10 @@
         "primary": "#6CABDD",
         "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 3
+      }
     },
     {
       "id": "2026-10-12-coventry-city-newcastle",
@@ -1416,7 +1425,7 @@
       "kickoff_utc": "2026-10-12T19:00:00Z",
       "matchday": 6,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "coventry-city",
         "name": "Unknown",
@@ -1429,7 +1438,10 @@
         "primary": "#241F20",
         "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
       },
-      "score": null
+      "score": {
+        "home": 4,
+        "away": 1
+      }
     },
     {
       "id": "2026-10-17-everton-chelsea",
