@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-10-18T15:30:00Z",
     "matchday": 7,
     "venue": null,
-    "status": "finished",
+    "status": "live",
     "home": {
       "slug": "nottingham-forest",
       "name": "Nottingham Forest",
@@ -20,7 +20,7 @@
     },
     "score": {
       "home": 0,
-      "away": 1
+      "away": 0
     }
   },
   "preview": null,
