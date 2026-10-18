@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 7,
-  "updated_at": "2026-10-18T17:24:22Z",
+  "updated_at": "2026-10-18T17:44:20Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1641,7 +1641,7 @@
       "kickoff_utc": "2026-10-18T15:30:00Z",
       "matchday": 7,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "nottingham-forest",
         "name": "Nottingham Forest",
