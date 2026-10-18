@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 7,
-  "updated_at": "2026-10-18T14:14:06Z",
+  "updated_at": "2026-10-18T14:58:01Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1583,7 +1583,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/sunderland.png"
       },
       "score": {
-        "home": 1,
+        "home": 2,
         "away": 0
       }
     },
@@ -1607,7 +1607,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/manchester-united.png"
       },
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 1
       }
     },
@@ -1631,7 +1631,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
       },
       "score": {
-        "home": 3,
+        "home": 5,
         "away": 0
       }
     },
