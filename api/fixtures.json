@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 7,
-  "updated_at": "2026-10-19T20:38:30Z",
+  "updated_at": "2026-10-19T21:55:00Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1665,7 +1665,7 @@
       "kickoff_utc": "2026-10-19T19:00:00Z",
       "matchday": 7,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "tottenham",
         "name": "Tottenham",
@@ -1679,7 +1679,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
       },
       "score": {
-        "home": 2,
+        "home": 3,
         "away": 1
       }
     },
