@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 7,
-  "updated_at": "2026-10-18T21:58:42Z",
+  "updated_at": "2026-10-19T20:38:30Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1665,7 +1665,7 @@
       "kickoff_utc": "2026-10-19T19:00:00Z",
       "matchday": 7,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "tottenham",
         "name": "Tottenham",
@@ -1678,7 +1678,10 @@
         "primary": "#5A6470",
         "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
       },
-      "score": null
+      "score": {
+        "home": 2,
+        "away": 1
+      }
     },
     {
       "id": "2026-10-23-ipswich-nottingham-forest",
