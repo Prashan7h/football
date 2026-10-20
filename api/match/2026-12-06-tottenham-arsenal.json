@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "2026-12-06-tottenham-arsenal",
+    "external_id": 560672,
+    "kickoff_utc": "2026-12-06T16:30:00Z",
+    "matchday": 14,
+    "venue": null,
+    "status": "scheduled",
+    "home": {
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "primary": "#132257",
+      "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
+    },
+    "away": {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "primary": "#EF0107",
+      "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
+    },
+    "score": null
+  },
+  "preview": null,
+  "review": null
+}
