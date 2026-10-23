@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 8,
-  "updated_at": "2026-10-23T20:42:31Z",
+  "updated_at": "2026-10-23T23:36:25Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1689,7 +1689,7 @@
       "kickoff_utc": "2026-10-23T19:00:00Z",
       "matchday": 8,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "ipswich",
         "name": "Ipswich",
