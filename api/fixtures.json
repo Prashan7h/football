@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 8,
-  "updated_at": "2026-10-23T23:36:25Z",
+  "updated_at": "2026-10-24T12:07:10Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1713,7 +1713,7 @@
       "kickoff_utc": "2026-10-24T11:30:00Z",
       "matchday": 8,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "aston-villa",
         "name": "Aston Villa",
@@ -1726,7 +1726,10 @@
         "primary": "#6CABDD",
         "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 0
+      }
     },
     {
       "id": "2026-10-24-arsenal-everton",
