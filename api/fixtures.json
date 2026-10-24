@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 8,
-  "updated_at": "2026-10-24T23:26:26Z",
+  "updated_at": "2026-10-24T23:56:33Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1713,7 +1713,7 @@
       "kickoff_utc": "2026-10-24T11:30:00Z",
       "matchday": 8,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "aston-villa",
         "name": "Aston Villa",
@@ -1726,7 +1726,10 @@
         "primary": "#6CABDD",
         "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
       },
-      "score": null
+      "score": {
+        "home": 2,
+        "away": 1
+      }
     },
     {
       "id": "2026-10-24-arsenal-everton",
@@ -1776,7 +1779,7 @@
       "kickoff_utc": "2026-10-24T16:30:00Z",
       "matchday": 8,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "chelsea",
         "name": "Chelsea",
@@ -1789,7 +1792,10 @@
         "primary": "#132257",
         "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 2
+      }
     },
     {
       "id": "2026-10-25-liverpool-brighton",
