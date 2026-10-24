@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 8,
-  "updated_at": "2026-10-24T16:06:23Z",
+  "updated_at": "2026-10-24T17:26:44Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1734,7 +1734,7 @@
       "kickoff_utc": "2026-10-24T14:00:00Z",
       "matchday": 8,
       "venue": null,
-      "status": "finished",
+      "status": "scheduled",
       "home": {
         "slug": "arsenal",
         "name": "Arsenal",
@@ -1747,10 +1747,7 @@
         "primary": "#003399",
         "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
       },
-      "score": {
-        "home": 2,
-        "away": 0
-      }
+      "score": null
     },
     {
       "id": "2026-10-24-coventry-city-fulham",
@@ -1758,7 +1755,7 @@
       "kickoff_utc": "2026-10-24T14:00:00Z",
       "matchday": 8,
       "venue": null,
-      "status": "finished",
+      "status": "scheduled",
       "home": {
         "slug": "coventry-city",
         "name": "Unknown",
@@ -1771,10 +1768,7 @@
         "primary": "#000000",
         "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
       },
-      "score": {
-        "home": 0,
-        "away": 1
-      }
+      "score": null
     },
     {
       "id": "2026-10-24-chelsea-tottenham",
