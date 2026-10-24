@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 8,
-  "updated_at": "2026-10-24T17:26:44Z",
+  "updated_at": "2026-10-24T23:26:26Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1713,7 +1713,7 @@
       "kickoff_utc": "2026-10-24T11:30:00Z",
       "matchday": 8,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "aston-villa",
         "name": "Aston Villa",
