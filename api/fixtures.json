@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 8,
-  "updated_at": "2026-10-25T17:52:47Z",
+  "updated_at": "2026-10-25T20:17:35Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1905,7 +1905,7 @@
       "kickoff_utc": "2026-10-25T16:30:00Z",
       "matchday": 8,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "sunderland",
         "name": "Sunderland",
