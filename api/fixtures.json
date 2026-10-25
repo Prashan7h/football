@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 8,
-  "updated_at": "2026-10-25T15:07:52Z",
+  "updated_at": "2026-10-25T17:52:47Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1809,7 +1809,7 @@
       "kickoff_utc": "2026-10-25T14:00:00Z",
       "matchday": 8,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "liverpool",
         "name": "Liverpool",
@@ -1833,7 +1833,7 @@
       "kickoff_utc": "2026-10-25T14:00:00Z",
       "matchday": 8,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "crystal-palace",
         "name": "Crystal Palace",
@@ -1848,7 +1848,7 @@
       },
       "score": {
         "home": 0,
-        "away": 0
+        "away": 2
       }
     },
     {
@@ -1857,7 +1857,7 @@
       "kickoff_utc": "2026-10-25T14:00:00Z",
       "matchday": 8,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "manchester-united",
         "name": "Manchester United",
@@ -1872,7 +1872,7 @@
       },
       "score": {
         "home": 0,
-        "away": 2
+        "away": 3
       }
     },
     {
@@ -1881,7 +1881,7 @@
       "kickoff_utc": "2026-10-25T14:00:00Z",
       "matchday": 8,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "hull-city",
         "name": "Unknown",
@@ -1896,7 +1896,7 @@
       },
       "score": {
         "home": 1,
-        "away": 0
+        "away": 1
       }
     },
     {
@@ -1905,7 +1905,7 @@
       "kickoff_utc": "2026-10-25T16:30:00Z",
       "matchday": 8,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "sunderland",
         "name": "Sunderland",
@@ -1918,7 +1918,10 @@
         "primary": "#FFCD00",
         "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-10-31-chelsea-manchester-united",
