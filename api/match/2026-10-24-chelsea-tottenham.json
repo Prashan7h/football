@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-10-24T16:30:00Z",
     "matchday": 8,
     "venue": null,
-    "status": "scheduled",
+    "status": "finished",
     "home": {
       "slug": "chelsea",
       "name": "Chelsea",
@@ -18,7 +18,10 @@
       "primary": "#132257",
       "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
     },
-    "score": null
+    "score": {
+      "home": 0,
+      "away": 2
+    }
   },
   "preview": null,
   "review": null
