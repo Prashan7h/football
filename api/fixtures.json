@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 8,
-  "updated_at": "2026-10-25T11:49:20Z",
+  "updated_at": "2026-10-25T14:43:46Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1809,7 +1809,7 @@
       "kickoff_utc": "2026-10-25T14:00:00Z",
       "matchday": 8,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "liverpool",
         "name": "Liverpool",
@@ -1822,7 +1822,10 @@
         "primary": "#0057B8",
         "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
       },
-      "score": null
+      "score": {
+        "home": 2,
+        "away": 0
+      }
     },
     {
       "id": "2026-10-25-crystal-palace-newcastle",
@@ -1830,7 +1833,7 @@
       "kickoff_utc": "2026-10-25T14:00:00Z",
       "matchday": 8,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "crystal-palace",
         "name": "Crystal Palace",
@@ -1843,7 +1846,10 @@
         "primary": "#241F20",
         "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-10-25-manchester-united-bournemouth",
@@ -1851,7 +1857,7 @@
       "kickoff_utc": "2026-10-25T14:00:00Z",
       "matchday": 8,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "manchester-united",
         "name": "Manchester United",
@@ -1864,7 +1870,10 @@
         "primary": "#DA291C",
         "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-10-25-hull-city-brentford",
@@ -1872,7 +1881,7 @@
       "kickoff_utc": "2026-10-25T14:00:00Z",
       "matchday": 8,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "hull-city",
         "name": "Unknown",
@@ -1885,7 +1894,10 @@
         "primary": "#E30613",
         "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 0
+      }
     },
     {
       "id": "2026-10-25-sunderland-leeds",
