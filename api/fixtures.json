@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 8,
-  "updated_at": "2026-10-25T14:43:46Z",
+  "updated_at": "2026-10-25T15:07:52Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1872,7 +1872,7 @@
       },
       "score": {
         "home": 0,
-        "away": 0
+        "away": 2
       }
     },
     {
