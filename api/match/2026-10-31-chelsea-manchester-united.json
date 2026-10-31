@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-10-31T12:30:00Z",
     "matchday": 9,
     "venue": null,
-    "status": "scheduled",
+    "status": "finished",
     "home": {
       "slug": "chelsea",
       "name": "Chelsea",
@@ -18,7 +18,10 @@
       "primary": "#DA291C",
       "crest": "https://prashan7h.github.io/football/assets/crests/manchester-united.png"
     },
-    "score": null
+    "score": {
+      "home": 2,
+      "away": 0
+    }
   },
   "preview": null,
   "review": null
