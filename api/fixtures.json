@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 9,
-  "updated_at": "2026-10-31T19:41:20Z",
+  "updated_at": "2026-10-31T20:07:18Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -2097,7 +2097,7 @@
       "kickoff_utc": "2026-10-31T20:00:00Z",
       "matchday": 9,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "aston-villa",
         "name": "Aston Villa",
@@ -2110,7 +2110,10 @@
         "primary": "#000000",
         "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-11-01-liverpool-arsenal",
