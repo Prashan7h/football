@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-10-31T17:30:00Z",
     "matchday": 9,
     "venue": null,
-    "status": "scheduled",
+    "status": "finished",
     "home": {
       "slug": "tottenham",
       "name": "Tottenham",
@@ -18,7 +18,10 @@
       "primary": "#1B458F",
       "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
     },
-    "score": null
+    "score": {
+      "home": 2,
+      "away": 0
+    }
   },
   "preview": null,
   "review": null

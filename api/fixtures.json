@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 9,
-  "updated_at": "2026-10-31T16:23:55Z",
+  "updated_at": "2026-10-31T19:41:20Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -1953,7 +1953,7 @@
       "kickoff_utc": "2026-10-31T15:00:00Z",
       "matchday": 9,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "manchester-city",
         "name": "Manchester City",
@@ -1977,7 +1977,7 @@
       "kickoff_utc": "2026-10-31T15:00:00Z",
       "matchday": 9,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "bournemouth",
         "name": "Bournemouth",
@@ -1991,7 +1991,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
       },
       "score": {
-        "home": 1,
+        "home": 2,
         "away": 0
       }
     },
@@ -2001,7 +2001,7 @@
       "kickoff_utc": "2026-10-31T15:00:00Z",
       "matchday": 9,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "coventry-city",
         "name": "Unknown",
@@ -2016,7 +2016,7 @@
       },
       "score": {
         "home": 3,
-        "away": 0
+        "away": 1
       }
     },
     {
@@ -2025,7 +2025,7 @@
       "kickoff_utc": "2026-10-31T15:00:00Z",
       "matchday": 9,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "hull-city",
         "name": "Unknown",
@@ -2039,8 +2039,8 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
       },
       "score": {
-        "home": 0,
-        "away": 1
+        "home": 2,
+        "away": 2
       }
     },
     {
@@ -2049,7 +2049,7 @@
       "kickoff_utc": "2026-10-31T15:00:00Z",
       "matchday": 9,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "brentford",
         "name": "Brentford",
@@ -2063,7 +2063,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
       },
       "score": {
-        "home": 1,
+        "home": 2,
         "away": 0
       }
     },
@@ -2073,7 +2073,7 @@
       "kickoff_utc": "2026-10-31T17:30:00Z",
       "matchday": 9,
       "venue": null,
-      "status": "scheduled",
+      "status": "finished",
       "home": {
         "slug": "tottenham",
         "name": "Tottenham",
@@ -2086,7 +2086,10 @@
         "primary": "#1B458F",
         "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
       },
-      "score": null
+      "score": {
+        "home": 2,
+        "away": 0
+      }
     },
     {
       "id": "2026-10-31-aston-villa-fulham",

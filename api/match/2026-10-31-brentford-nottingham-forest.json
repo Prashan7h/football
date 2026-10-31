@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-10-31T15:00:00Z",
     "matchday": 9,
     "venue": null,
-    "status": "live",
+    "status": "finished",
     "home": {
       "slug": "brentford",
       "name": "Brentford",
@@ -19,7 +19,7 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
     },
     "score": {
-      "home": 1,
+      "home": 2,
       "away": 0
     }
   },
