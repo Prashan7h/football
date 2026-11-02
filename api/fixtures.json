@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 9,
-  "updated_at": "2026-11-02T04:26:03Z",
+  "updated_at": "2026-11-02T21:58:27Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -2145,7 +2145,7 @@
       "kickoff_utc": "2026-11-02T20:00:00Z",
       "matchday": 9,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "newcastle",
         "name": "Newcastle",
@@ -2158,7 +2158,10 @@
         "primary": "#003399",
         "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 1
+      }
     },
     {
       "id": "2026-11-06-everton-coventry-city",
