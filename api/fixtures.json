@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 9,
-  "updated_at": "2026-11-01T20:38:31Z",
+  "updated_at": "2026-11-02T00:29:59Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -2121,7 +2121,7 @@
       "kickoff_utc": "2026-11-01T16:30:00Z",
       "matchday": 9,
       "venue": null,
-      "status": "finished",
+      "status": "scheduled",
       "home": {
         "slug": "liverpool",
         "name": "Liverpool",
@@ -2134,10 +2134,7 @@
         "primary": "#EF0107",
         "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
       },
-      "score": {
-        "home": 0,
-        "away": 1
-      }
+      "score": null
     },
     {
       "id": "2026-11-02-newcastle-everton",
