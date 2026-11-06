@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-11-06T20:00:00Z",
     "matchday": 10,
     "venue": null,
-    "status": "live",
+    "status": "finished",
     "home": {
       "slug": "everton",
       "name": "Everton",
@@ -19,7 +19,7 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
     },
     "score": {
-      "home": 2,
+      "home": 3,
       "away": 1
     }
   },
