@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 10,
-  "updated_at": "2026-11-05T13:58:44Z",
+  "updated_at": "2026-11-06T21:39:33Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -2169,7 +2169,7 @@
       "kickoff_utc": "2026-11-06T20:00:00Z",
       "matchday": 10,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "everton",
         "name": "Everton",
@@ -2182,7 +2182,10 @@
         "primary": "#5A6470",
         "crest": "https://prashan7h.github.io/football/assets/crests/coventry-city.png"
       },
-      "score": null
+      "score": {
+        "home": 2,
+        "away": 1
+      }
     },
     {
       "id": "2026-11-07-leeds-tottenham",
