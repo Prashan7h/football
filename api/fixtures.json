@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 10,
-  "updated_at": "2026-11-06T22:37:13Z",
+  "updated_at": "2026-11-07T14:13:08Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -2193,7 +2193,7 @@
       "kickoff_utc": "2026-11-07T12:30:00Z",
       "matchday": 10,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "leeds",
         "name": "Leeds",
@@ -2206,7 +2206,10 @@
         "primary": "#132257",
         "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-11-07-arsenal-hull-city",
