@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 10,
-  "updated_at": "2026-11-07T14:13:08Z",
+  "updated_at": "2026-11-07T16:42:49Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -2193,7 +2193,7 @@
       "kickoff_utc": "2026-11-07T12:30:00Z",
       "matchday": 10,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "leeds",
         "name": "Leeds",
@@ -2207,7 +2207,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/tottenham.png"
       },
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
       }
     },
@@ -2217,7 +2217,7 @@
       "kickoff_utc": "2026-11-07T15:00:00Z",
       "matchday": 10,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "arsenal",
         "name": "Arsenal",
@@ -2230,7 +2230,10 @@
         "primary": "#5A6470",
         "crest": "https://prashan7h.github.io/football/assets/crests/hull-city.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 0
+      }
     },
     {
       "id": "2026-11-07-fulham-newcastle",
@@ -2238,7 +2241,7 @@
       "kickoff_utc": "2026-11-07T15:00:00Z",
       "matchday": 10,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "fulham",
         "name": "Fulham",
@@ -2251,7 +2254,10 @@
         "primary": "#241F20",
         "crest": "https://prashan7h.github.io/football/assets/crests/newcastle.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-11-07-nottingham-forest-manchester-city",
