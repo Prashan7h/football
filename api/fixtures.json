@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 10,
-  "updated_at": "2026-11-07T18:55:13Z",
+  "updated_at": "2026-11-07T20:30:52Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -2265,7 +2265,7 @@
       "kickoff_utc": "2026-11-07T17:30:00Z",
       "matchday": 10,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "nottingham-forest",
         "name": "Nottingham Forest",
@@ -2279,7 +2279,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/manchester-city.png"
       },
       "score": {
-        "home": 2,
+        "home": 3,
         "away": 1
       }
     },
