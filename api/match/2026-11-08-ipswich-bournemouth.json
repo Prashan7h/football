@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-11-08T14:00:00Z",
     "matchday": 10,
     "venue": null,
-    "status": "live",
+    "status": "finished",
     "home": {
       "slug": "ipswich",
       "name": "Ipswich",
@@ -19,7 +19,7 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
     },
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 2
     }
   },

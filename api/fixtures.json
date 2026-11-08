@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 10,
-  "updated_at": "2026-11-08T15:24:39Z",
+  "updated_at": "2026-11-08T16:53:38Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -2289,7 +2289,7 @@
       "kickoff_utc": "2026-11-08T14:00:00Z",
       "matchday": 10,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "crystal-palace",
         "name": "Crystal Palace",
@@ -2303,8 +2303,8 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
       },
       "score": {
-        "home": 0,
-        "away": 2
+        "home": 1,
+        "away": 3
       }
     },
     {
@@ -2313,7 +2313,7 @@
       "kickoff_utc": "2026-11-08T14:00:00Z",
       "matchday": 10,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "sunderland",
         "name": "Sunderland",
@@ -2337,7 +2337,7 @@
       "kickoff_utc": "2026-11-08T14:00:00Z",
       "matchday": 10,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "ipswich",
         "name": "Ipswich",
@@ -2351,7 +2351,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
       },
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 2
       }
     },
@@ -2361,7 +2361,7 @@
       "kickoff_utc": "2026-11-08T14:00:00Z",
       "matchday": 10,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "brighton",
         "name": "Brighton",
@@ -2385,7 +2385,7 @@
       "kickoff_utc": "2026-11-08T16:30:00Z",
       "matchday": 10,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "manchester-united",
         "name": "Manchester United",
@@ -2398,7 +2398,10 @@
         "primary": "#670E36",
         "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 2
+      }
     },
     {
       "id": "2026-11-21-manchester-city-fulham",
