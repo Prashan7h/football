@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 10,
-  "updated_at": "2026-11-07T20:30:52Z",
+  "updated_at": "2026-11-08T15:24:39Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -2289,7 +2289,7 @@
       "kickoff_utc": "2026-11-08T14:00:00Z",
       "matchday": 10,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "crystal-palace",
         "name": "Crystal Palace",
@@ -2302,7 +2302,10 @@
         "primary": "#C8102E",
         "crest": "https://prashan7h.github.io/football/assets/crests/liverpool.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 2
+      }
     },
     {
       "id": "2026-11-08-sunderland-chelsea",
@@ -2310,7 +2313,7 @@
       "kickoff_utc": "2026-11-08T14:00:00Z",
       "matchday": 10,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "sunderland",
         "name": "Sunderland",
@@ -2323,7 +2326,10 @@
         "primary": "#034694",
         "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
       },
-      "score": null
+      "score": {
+        "home": 1,
+        "away": 0
+      }
     },
     {
       "id": "2026-11-08-ipswich-bournemouth",
@@ -2331,7 +2337,7 @@
       "kickoff_utc": "2026-11-08T14:00:00Z",
       "matchday": 10,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "ipswich",
         "name": "Ipswich",
@@ -2344,7 +2350,10 @@
         "primary": "#DA291C",
         "crest": "https://prashan7h.github.io/football/assets/crests/bournemouth.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 2
+      }
     },
     {
       "id": "2026-11-08-brighton-brentford",
@@ -2352,7 +2361,7 @@
       "kickoff_utc": "2026-11-08T14:00:00Z",
       "matchday": 10,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "brighton",
         "name": "Brighton",
@@ -2365,7 +2374,10 @@
         "primary": "#E30613",
         "crest": "https://prashan7h.github.io/football/assets/crests/brentford.png"
       },
-      "score": null
+      "score": {
+        "home": 2,
+        "away": 0
+      }
     },
     {
       "id": "2026-11-08-manchester-united-aston-villa",
