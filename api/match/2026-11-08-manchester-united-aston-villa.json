@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-11-08T16:30:00Z",
     "matchday": 10,
     "venue": null,
-    "status": "live",
+    "status": "finished",
     "home": {
       "slug": "manchester-united",
       "name": "Manchester United",
@@ -19,8 +19,8 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/aston-villa.png"
     },
     "score": {
-      "home": 1,
-      "away": 2
+      "home": 4,
+      "away": 4
     }
   },
   "preview": null,
