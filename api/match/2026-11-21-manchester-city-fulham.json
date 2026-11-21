@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-11-21T12:30:00Z",
     "matchday": 11,
     "venue": null,
-    "status": "finished",
+    "status": "scheduled",
     "home": {
       "slug": "manchester-city",
       "name": "Manchester City",
@@ -18,10 +18,7 @@
       "primary": "#000000",
       "crest": "https://prashan7h.github.io/football/assets/crests/fulham.png"
     },
-    "score": {
-      "home": 1,
-      "away": 1
-    }
+    "score": null
   },
   "preview": null,
   "review": null

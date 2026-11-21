@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-11-21T17:30:00Z",
     "matchday": 11,
     "venue": null,
-    "status": "live",
+    "status": "scheduled",
     "home": {
       "slug": "newcastle",
       "name": "Newcastle",
@@ -18,10 +18,7 @@
       "primary": "#EF0107",
       "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
     },
-    "score": {
-      "home": 0,
-      "away": 0
-    }
+    "score": null
   },
   "preview": null,
   "review": null

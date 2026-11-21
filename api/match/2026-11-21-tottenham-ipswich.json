@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-11-21T15:00:00Z",
     "matchday": 11,
     "venue": null,
-    "status": "finished",
+    "status": "scheduled",
     "home": {
       "slug": "tottenham",
       "name": "Tottenham",
@@ -18,10 +18,7 @@
       "primary": "#3764A8",
       "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
     },
-    "score": {
-      "home": 2,
-      "away": 0
-    }
+    "score": null
   },
   "preview": null,
   "review": null
