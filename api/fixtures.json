@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 11,
-  "updated_at": "2026-11-21T15:29:30Z",
+  "updated_at": "2026-11-21T17:50:58Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -2433,7 +2433,7 @@
       "kickoff_utc": "2026-11-21T15:00:00Z",
       "matchday": 11,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "chelsea",
         "name": "Chelsea",
@@ -2447,8 +2447,8 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/leeds.png"
       },
       "score": {
-        "home": 0,
-        "away": 0
+        "home": 1,
+        "away": 4
       }
     },
     {
@@ -2457,7 +2457,7 @@
       "kickoff_utc": "2026-11-21T15:00:00Z",
       "matchday": 11,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "aston-villa",
         "name": "Aston Villa",
@@ -2481,7 +2481,7 @@
       "kickoff_utc": "2026-11-21T15:00:00Z",
       "matchday": 11,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "bournemouth",
         "name": "Bournemouth",
@@ -2495,7 +2495,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/nottingham-forest.png"
       },
       "score": {
-        "home": 1,
+        "home": 2,
         "away": 0
       }
     },
@@ -2505,7 +2505,7 @@
       "kickoff_utc": "2026-11-21T15:00:00Z",
       "matchday": 11,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "tottenham",
         "name": "Tottenham",
@@ -2519,7 +2519,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/ipswich.png"
       },
       "score": {
-        "home": 1,
+        "home": 2,
         "away": 0
       }
     },
@@ -2529,7 +2529,7 @@
       "kickoff_utc": "2026-11-21T15:00:00Z",
       "matchday": 11,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "coventry-city",
         "name": "Unknown",
@@ -2543,8 +2543,8 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/crystal-palace.png"
       },
       "score": {
-        "home": 1,
-        "away": 1
+        "home": 3,
+        "away": 2
       }
     },
     {
@@ -2553,7 +2553,7 @@
       "kickoff_utc": "2026-11-21T17:30:00Z",
       "matchday": 11,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "newcastle",
         "name": "Newcastle",
@@ -2566,7 +2566,10 @@
         "primary": "#EF0107",
         "crest": "https://prashan7h.github.io/football/assets/crests/arsenal.png"
       },
-      "score": null
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "2026-11-22-hull-city-brighton",
