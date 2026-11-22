@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 11,
-  "updated_at": "2026-11-22T18:10:51Z",
+  "updated_at": "2026-11-22T21:21:03Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -2601,7 +2601,7 @@
       "kickoff_utc": "2026-11-22T16:30:00Z",
       "matchday": 11,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "liverpool",
         "name": "Liverpool",
@@ -2615,7 +2615,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/manchester-united.png"
       },
       "score": {
-        "home": 3,
+        "home": 4,
         "away": 0
       }
     },
