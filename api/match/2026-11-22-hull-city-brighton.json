@@ -5,7 +5,7 @@
     "kickoff_utc": "2026-11-22T14:00:00Z",
     "matchday": 11,
     "venue": null,
-    "status": "live",
+    "status": "finished",
     "home": {
       "slug": "hull-city",
       "name": "Unknown",
@@ -19,7 +19,7 @@
       "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
     },
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     }
   },

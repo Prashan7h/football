@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 11,
-  "updated_at": "2026-11-22T15:44:09Z",
+  "updated_at": "2026-11-22T18:10:51Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -2577,7 +2577,7 @@
       "kickoff_utc": "2026-11-22T14:00:00Z",
       "matchday": 11,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "hull-city",
         "name": "Unknown",
@@ -2591,7 +2591,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/brighton.png"
       },
       "score": {
-        "home": 0,
+        "home": 2,
         "away": 0
       }
     },
@@ -2601,7 +2601,7 @@
       "kickoff_utc": "2026-11-22T16:30:00Z",
       "matchday": 11,
       "venue": null,
-      "status": "scheduled",
+      "status": "live",
       "home": {
         "slug": "liverpool",
         "name": "Liverpool",
@@ -2614,7 +2614,10 @@
         "primary": "#DA291C",
         "crest": "https://prashan7h.github.io/football/assets/crests/manchester-united.png"
       },
-      "score": null
+      "score": {
+        "home": 3,
+        "away": 0
+      }
     },
     {
       "id": "2026-11-23-brentford-everton",
