@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 11,
-  "updated_at": "2026-11-23T21:46:33Z",
+  "updated_at": "2026-11-24T03:41:37Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -2625,7 +2625,7 @@
       "kickoff_utc": "2026-11-23T20:00:00Z",
       "matchday": 11,
       "venue": null,
-      "status": "live",
+      "status": "finished",
       "home": {
         "slug": "brentford",
         "name": "Brentford",
@@ -2639,7 +2639,7 @@
         "crest": "https://prashan7h.github.io/football/assets/crests/everton.png"
       },
       "score": {
-        "home": 3,
+        "home": 4,
         "away": 0
       }
     },
