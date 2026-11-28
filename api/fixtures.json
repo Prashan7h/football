@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "current_matchday": 12,
-  "updated_at": "2026-11-27T21:42:33Z",
+  "updated_at": "2026-11-28T00:56:39Z",
   "matches": [
     {
       "id": "2026-08-21-arsenal-coventry-city",
@@ -2649,7 +2649,7 @@
       "kickoff_utc": "2026-11-27T20:00:00Z",
       "matchday": 12,
       "venue": null,
-      "status": "live",
+      "status": "scheduled",
       "home": {
         "slug": "nottingham-forest",
         "name": "Nottingham Forest",
@@ -2662,10 +2662,7 @@
         "primary": "#034694",
         "crest": "https://prashan7h.github.io/football/assets/crests/chelsea.png"
       },
-      "score": {
-        "home": 3,
-        "away": 1
-      }
+      "score": null
     },
     {
       "id": "2026-11-28-leeds-coventry-city",
